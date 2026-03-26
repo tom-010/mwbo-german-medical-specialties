@@ -1,0 +1,93 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Frauenheilkunde und Geburtshilfe",
+  "bezeichnung": "Schwerpunkt Gynäkologische Endokrinologie und Reproduktionsmedizin",
+  "zusatzbezeichnung": "Gynäkologischer Endokrinologe und Reproduktionsmediziner/Gynäkologische Endokrinologin und Reproduktionsmedizinerin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Gynäkologische Endokrinologie und Reproduktionsmedizin baut auf der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe auf.",
+  "weiterbildungszeit": "24 Monate Gynäkologische Endokrinologie und Reproduktionsmedizin unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Prävention, Diagnostik und Therapie des Überstimulationssyndroms (OHSS)"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "handlungskompetenz": "Diagnostik und Therapie geschlechtsspezifischer endokriner, neuroendokriner und fertilitätsbezogener Dysfunktionen, Erkrankungen und Fehlbildungen des inneren Genitales in der Pubertät, der Adoleszenz, der fortpflanzungsfähigen Phase, dem Klimakterium und der Peri- und Postmenopause"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "handlungskompetenz": "Gynäkologisch-endokrinologische Diagnostik und Therapie bei Transsexualität"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "handlungskompetenz": "Diagnostik und Therapie der Fertilität und des Hormonhaushalts unter Berücksichtigung psychosomatischer Einflüsse"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "handlungskompetenz": "Diagnostik und Therapie bei Störungen des Androgenhaushaltes, bei Hirsutismus, bei Störungen des Prolaktinhaushaltes"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "handlungskompetenz": "Diagnostik und Therapie endokrin bedingter Funktions- und Entwicklungsstörungen der weiblichen Brust"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "kognitive_und_methodenkompetenz": "Endokrin bedingte Alterungsprozesse"
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "handlungskompetenz": "Fertilitätsbezogene Beratung, Diagnostik und Therapie des Kinderwunschpaares unter Einbeziehung männlicher Anamnesedaten, Genital- und Hormonbefunde sowie Spermiogrammparameter"
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "handlungskompetenz": "Durchführung von assistierten Fertilisationsmethoden einschließlich hormoneller Stimulation, Insemination",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "handlungskompetenz": "In-vitro-Fertilisation (IVF) und intrazytoplasmatische Spermatozoen-Injektion (ICSI)",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "handlungskompetenz": "Kryokonservierungsverfahren im Rahmen der assistierten Reproduktion",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "kognitive_und_methodenkompetenz": "Berücksichtigung von körperlichen Befunden und einflussnehmenden Faktoren auf die Schwankungsbreite der Spermiogrammparameter und auf das Fertilitätspotential"
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "handlungskompetenz": "Spermiogrammanalysen und Ejakulat-Aufbereitungsmethoden und Funktionstests",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "kognitive_und_methodenkompetenz": "Ejakulatuntersuchungen gemäß Richtlinie der Bundesärztekammer zur Qualitätssicherung laboratoriumsmedizinischer Untersuchungen"
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "handlungskompetenz": "Diagnostik und Therapie der Endometriose im Rahmen der Kinderwunschbehandlung",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Unerfüllter Kinderwunsch",
+      "kognitive_und_methodenkompetenz": "Größere fertilitätschirurgische Eingriffe einschließlich hysteroskopischer und laparoskopischer Verfahren, z. B. bei Endometriose, in der Tuben-, Myom- und Ovarchirurgie"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Fertilitätsrelevante Tumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Beratung zu fertilitätsprotektiven Maßnahmen bei onkologischen Erkrankungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Entnahme und Kryokonservierung von Ovargewebe und/oder Eizellen einschließlich der Vorkernstadien",
+      "richtzahl": 10
+    }
+  ]
+}

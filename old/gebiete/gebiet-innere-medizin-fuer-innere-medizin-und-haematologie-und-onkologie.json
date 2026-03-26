@@ -1,0 +1,476 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Innere Medizin",
+  "bezeichnung": "Facharzt/Fachärztin für Innere Medizin und Hämatologie und Onkologie",
+  "zusatzbezeichnung": "Hämatologe und Onkologe/Hämatologin und Onkologin",
+  "gebietsdefinition": "Das Gebiet Innere Medizin umfasst die Vorbeugung, (Früh-)Erkennung, konservative und interventionelle Behandlung sowie Rehabilitation und Nachsorge der Gesundheitsstörungen einschließlich geriatrischer Krankheiten und Erkrankungen der Atmungsorgane, des Herzens und Kreislaufs, der Verdauungsorgane, der Nieren und ableitenden Harnwege, des Blutes und der blutbildenden Organe, des Gefäßsystems, des Stoffwechsels und der inneren Sekretion, des Immunsystems, des Stütz- und Bindegewebes, der Infektionskrankheiten und Vergiftungen sowie der soliden Tumore und der hämatologischen Neoplasien. Das Gebiet umfasst auch die Gesundheitsförderung und die Betreuung unter Berücksichtigung der somatischen, psychischen und sozialen Wechselwirkungen und die interdisziplinäre Koordination der an der gesundheitlichen Betreuung beteiligten Personen und Institutionen.",
+  "weiterbildungszeit": "72 Monate im Gebiet Innere Medizin unter Befugnis an Weiterbildungsstätten, davon müssen 36 Monate in Innere Medizin und Hämatologie und Onkologie abgeleistet werden, davon müssen 24 Monate in der stationären Patientenversorgung abgeleistet werden müssen 24 Monate in mindestens zwei anderen Facharztkompetenzen des Gebiets abgeleistet werden müssen 6 Monate in der Notfallaufnahme abgeleistet werden müssen 6 Monate in der Intensivmedizin abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Beratung bezüglich gesundheitsfördernder Lebensführung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Schulung bei ernährungsbedingten Gesundheitsstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Begutachtung der Leistungsfähigkeit und Belastbarkeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Begutachtung der Arbeitsunfähigkeit und Erwerbsminderung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Begutachtung der Pflegebedürftigkeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Beratung und Führung Suchtkranker sowie Suchtprävention"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Tumortherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Beratung zu Patientenverfügungen und Vorsorgevollmachten einschließlich Organspende"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Stufendiagnostik und Therapie bei akut einsetzenden Leitsymptomen, z. B. Dyspnoe, Thoraxschmerz, Bauchschmerz, passagere und persistierende Bewusstseinsstörungen, Fieber, Erbrechen, Durchfall"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Diagnostik und Therapie akuter und vital bedrohlicher Erkrankungen und Zustände, insbesondere"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- respiratorische Insuffizienz"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Schock"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- kardiale Insuffizienz"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- akutes Nierenversagen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- sonstiges Ein- und Mehrorganversagen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Koma und Delir"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Sepsis"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Intoxikationen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Intensivmedizinische Behandlung von Patienten mit Funktionsstörungen von mindestens zwei vitalen Organsystemen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Analgosedierung von intensivmedizinischen Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten einschließlich Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Therapie von Stoffwechselentgleisungen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Notfallsonographie"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Notfallbronchoskopie"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Passagere Schrittmacheranlage"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken, insbesondere"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- zentralvenöse Zugänge"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- arterielle Gefäßzugänge"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Endotracheale Intubation"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Basisbehandlung psychosomatischer Krankheitsbilder"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Krisenintervention unter Berücksichtigung psychosozialer Zusammenhänge"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Durchführung von ultraschallgestützten Punktionen bei Pleuraerguss und Aszites"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie der Schilddrüse"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Elektrokardiogramm"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Langzeit-Elektrokardiogramm"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Ergometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Langzeitblutdruckmessung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "CW-, PW-, Duplex-, Farbduplex-Sonographie der Arterien und Venen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie der peripheren Arterien und Venen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie des Abdomens und Retroperitoneums einschließlich der Nieren und ableitender Harnwege",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Spirometrische Untersuchung der Lungenfunktion"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Röntgen-Thorax-Untersuchungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnosen atopischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Durchführung von Entlastungspunktionen und Drainagen bei Pleuraerguss und Aszites"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Enterale und parenterale Ernährung einschließlich Sondentechnik mit Berechnung des Energie- und Nährstoffbedarfs sowie Erstellen eines Ernährungsplans"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Infusionstherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Transfusions- und Blutersatztherapie"
+    },
+    {
+      "abschnitt": "Angiologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Erkrankungen von Arterien, Venen, Kapillaren und Lymphgefäßen"
+    },
+    {
+      "abschnitt": "Angiologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von Erkrankungen von Arterien, Venen, Kapillaren und Lymphgefäßen"
+    },
+    {
+      "abschnitt": "Endokrinologische und diabetologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation endokriner Erkrankungen einschließlich assoziierter Stoffwechselstörungen"
+    },
+    {
+      "abschnitt": "Endokrinologische und diabetologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von endokrinen Erkrankungen einschließlich assoziierter Stoffwechselstörungen"
+    },
+    {
+      "abschnitt": "Endokrinologische und diabetologische Basisbehandlung",
+      "handlungskompetenz": "Behandlung des Diabetes mellitus"
+    },
+    {
+      "abschnitt": "Gastroenterologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Krankheiten der Verdauungsorgane sowie der exokrinen Verdauungsdrüsen und ihrer Ableitungswege"
+    },
+    {
+      "abschnitt": "Gastroenterologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von Krankheiten der Verdauungsorgane sowie der exokrinen Verdauungsdrüsen und ihrer Ableitungswege"
+    },
+    {
+      "abschnitt": "Geriatrische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Spezielle geriatrische Behandlungsmöglichkeiten mit dem Ziel der Erhaltung und Wiederherstellung größtmöglicher Selbstständigkeit"
+    },
+    {
+      "abschnitt": "Geriatrische Basisbehandlung",
+      "handlungskompetenz": "Behandlung von Erkrankungen und Behinderungen des höheren Lebensalters einschließlich interdisziplinärer Aspekte bei Multimorbidität"
+    },
+    {
+      "abschnitt": "Infektiologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation von Infektionskrankheiten"
+    },
+    {
+      "abschnitt": "Infektiologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Meldepflichten gemäß Infektionsschutzgesetz"
+    },
+    {
+      "abschnitt": "Infektiologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von Infektionskrankheiten"
+    },
+    {
+      "abschnitt": "Infektiologische Basisbehandlung",
+      "handlungskompetenz": "Management bei therapieresistenten Erregern"
+    },
+    {
+      "abschnitt": "Kardiologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation von Erkrankungen des Herzens und des Kreislaufs"
+    },
+    {
+      "abschnitt": "Kardiologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von Erkrankungen des Herzens und des Kreislaufs"
+    },
+    {
+      "abschnitt": "Nephrologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der akuten und chronischen Nierenkrankheiten sowie deren extrarenaler Komplikationen"
+    },
+    {
+      "abschnitt": "Nephrologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von akuten und chronischen Nierenkrankheiten sowie deren extrarenale Komplikationen"
+    },
+    {
+      "abschnitt": "Pneumologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Erkrankungen der Atemwege, der Lunge, des Lungenkreislaufs, des Mediastinum, der Pleura, der Atempumpe einschließlich schlafbezogener Atmungsstörungen sowie der extrapulmonalen Manifestationen pulmonaler Erkrankungen"
+    },
+    {
+      "abschnitt": "Pneumologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von Erkrankungen der Atemwege, der Lunge, des Lungenkreislaufs, des Mediastinum, der Pleura, der Atempumpe einschließlich schlafbezogener Atmungsstörungen sowie der extrapulmonalen Manifestationen pulmonaler Erkrankungen"
+    },
+    {
+      "abschnitt": "Pneumologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Grundlagen allergologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Rheumatologische Basisbehandlung",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation entzündlich-rheumatischer Systemerkrankungen sowie entzündlicher Erkrankungen des Bewegungsapparates"
+    },
+    {
+      "abschnitt": "Rheumatologische Basisbehandlung",
+      "handlungskompetenz": "Internistische Basisbehandlung von entzündlich-rheumatischen Systemerkrankungen sowie entzündlichen Erkrankungen des Bewegungsapparates"
+    },
+    {
+      "abschnitt": "Hämatologie und Onkologie",
+      "kognitive_und_methodenkompetenz": "Prävention, Differentialdiagnose, Therapieoptionen und Nachsorge der Erkrankungen des Blutes, der blutbildenden Organe und des lymphatischen Systems einschließlich der hämatologischen Neoplasien, der unterschiedlichen soliden Tumoren, humoraler und zellulärer Immundefekte, sowie der systemischen medikamentösen, insbesondere der chemotherapeutischen Behandlung maligner Erkrankungen, auch unter Berücksichtigung des höheren Lebensalters"
+    },
+    {
+      "abschnitt": "Hämatologie und Onkologie",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Screening, Prävention und Prognosebeurteilung maligner Erkrankungen"
+    },
+    {
+      "abschnitt": "Hämatologie und Onkologie",
+      "kognitive_und_methodenkompetenz": "Stadieneinteilung, Management, Therapiestrategien und Prognoseabschätzung hämatologischer Systemerkrankungen sowie solider Tumorerkrankungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Sonographien und Röntgendiagnostik sowie von weiteren bildgebenden Verfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Indikationsstellung bildgebungsgestützter und interventioneller Verfahren der lokalen Tumortherapie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Ultraschallgestützte Punktionen an Lymphknoten und Weichteiltumoren sowie an der Leber"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Punktionen des Liquorraumes"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "B-Modus-Sonographie der Subcutis und peripheren Lymphknotenregionen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "B-Modus-Sonographie der Gesichts- und Halsweichteile"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "B-Modus-Sonographie von Ergüssen in serösen Körperhöhlen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Durchführung und Befunderstellung spezieller Laboruntersuchungen einschließlich Funktionsprüfungen, immunologischer und molekularer Diagnostik des peripheren Blutes, des Knochenmarks, anderer Körperflüssigkeiten sowie zytologischer Feinnadelaspirate, davon"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "- peripherer Blutausstrich",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "- Knochenmarkausstrich",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "- zytochemische Färbungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "- zytologische Präparate anderer Körperflüssigkeiten oder Feinnadelaspirate"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Knochenmarkaspiration und Knochenstanzbiopsie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation immunologischer und molekularer Zelldiagnostik"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Hochdosistherapie und spezieller zellulärer Therapieverfahren"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Therapie nicht-maligner hämatologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Durchführung, Überwachung und Nachsorge von systemischer Tumortherapie bei soliden Tumorerkrankungen und hämatologischen Neoplasien unter Berücksichtigung des Allgemeinzustandes und der Komorbiditäten des Patienten, von Wirksamkeit und Sicherheit der Arzneimittel sowie von Nutzen und Zusatznutzen, davon in Behandlungsfällen bei"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "- hämatologischen Neoplasien",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "- soliden Tumorerkrankungen",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Behandlung von Spätfolgen nach medikamentöser Tumortherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Indikationsstellung zu chirurgischen, strahlentherapeutischen, interventionellen und nuklearmedizinischen Behandlungsverfahren sowie deren prognostische Beurteilung im multidisziplinären Team"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Falldarstellung in der interdisziplinären Tumorkonferenz",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Behandlung von Patienten mit febriler Neutropenie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Behandlung des onkologischen Patienten im höheren Lebensalter"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Spezielle palliativmedizinische Betreuung bei Patienten mit Systemerkrankungen und malignen Tumoren"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren in der Hämatologie und Onkologie",
+      "handlungskompetenz": "Behandlung von hämatologischen und onkologischen Notfällen"
+    },
+    {
+      "abschnitt": "Gerinnungsstörungen",
+      "handlungskompetenz": "Diagnostik, Beratung und Therapie von"
+    },
+    {
+      "abschnitt": "Gerinnungsstörungen",
+      "handlungskompetenz": "- angeborenen und erworbenen hämorrhagischen Diathesen"
+    },
+    {
+      "abschnitt": "Gerinnungsstörungen",
+      "handlungskompetenz": "- angeborenen und erworbenen Hyperkoagulopathien"
+    },
+    {
+      "abschnitt": "Gerinnungsstörungen",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Globaltests der Blutgerinnung und zur Kontrolle des Fibrinolysesystems sowie Einzelfaktorbestimmungen"
+    },
+    {
+      "abschnitt": "Supportivtherapie",
+      "handlungskompetenz": "Supportivtherapie bei Tumorerkrankungen einschließlich antiemetischer Therapie, Ernährung und Diätetik"
+    },
+    {
+      "abschnitt": "Supportivtherapie",
+      "handlungskompetenz": "Einleitung und Überwachung von Rehabilitationsmaßnahmen"
+    },
+    {
+      "abschnitt": "Supportivtherapie",
+      "handlungskompetenz": "Infektionsprophylaxe und Behandlung von Infektionen"
+    },
+    {
+      "abschnitt": "Supportivtherapie",
+      "handlungskompetenz": "Situationsgerechte Kommunikation mit Patienten und Angehörigen einschließlich psychosozialer Aspekte bei lebensbedrohlichen oder fortgeschrittenen onkologischen und hämatologischen Erkrankungen"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Spezielle Schmerztherapie",
+  "bezeichnung": "Zusatz-Weiterbildung Spezielle Schmerztherapie",
+  "definition": "Die Zusatz-Weiterbildung Spezielle Schmerztherapie umfasst in Ergänzung zu einer Facharztkompetenz die Erkennung und interdisziplinäre Behandlung chronisch schmerzkranker Patienten, bei denen der Schmerz seine Leit- und Warnfunktion verloren und einen selbstständigen Krankheitswert erlangt hat.",
+  "mindestanforderungen": "Facharztanerkennung und zusätzlich 12 Monate Spezielle Schmerztherapie unter Befugnis an Weiterbildungsstätten und zusätzlich 80 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Spezielle Schmerztherapie",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Neurophysiologische Grundlagen der Schmerzentstehung und Schmerzverarbeitung einschließlich der Schmerzchronifizierung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Bio-psycho-soziales Schmerzverständnis"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Ursachen, Epidemiologie und Prävention chronischer Schmerzen einschließlich genetischer, geschlechtsbezogener und psychosozialer Zusammenhänge"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Wirkmechanismen und Evidenzlage von medikamentösen, physiotherapeutischen, psychotherapeutischen, interventionellen und komplementärmedizinischen Verfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "handlungskompetenz": "Standardisierte Erfassung und Verlaufsdokumentation"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "handlungskompetenz": "Schmerzmedizinische Gutachtenerstellung einschließlich der Klärung relevanter sozialmedizinischer Fragestellungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Spezielle Schmerztherapie",
+      "handlungskompetenz": "Teilnahme an interdisziplinären Schmerzkonferenzen"
+    },
+    {
+      "abschnitt": "Diagnostik des Schmerzes",
+      "handlungskompetenz": "Erhebung einer bio-psycho-sozialen Schmerzanamnese",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostik des Schmerzes",
+      "handlungskompetenz": "Anwendung standardisierter und validierter Testverfahren und Fragebögen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostik des Schmerzes",
+      "handlungskompetenz": "Vollständige körperliche Untersuchung und Funktionsstatus",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten bei Patienten mit psychischen und somatischen Komorbiditäten und Störungen einschließlich Suchterkrankungen"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Schmerzbehandlung bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Schmerzbehandlung des alternden Menschen"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Spezielle Pathophysiologie und Differentialdiagnose des neuropathischen Schmerzes"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Spezielle Pathophysiologie und Differentialdiagnose primärer und sekundärer Kopf- und Gesichtsschmerzen einschließlich der Kopfschmerzen durch Medikamente und toxische Substanzen"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Spezielle Pathophysiologie und Differentialdiagnose von Rückenschmerzen, Gelenkschmerzen und Muskelschmerzen einschließlich Fibromyalgie"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Schmerzhafte Erkrankungen des Gefäßsystems"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Thorakale Schmerzsyndrome"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Viszerale Schmerzen"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Urogenitale Schmerzsyndrome"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Somatoforme Schmerzsyndrome"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "Indikationsstellung physiotherapeutischer, psychotherapeutischer, interventioneller und komplementärmedizinischer Verfahren"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "Eingehende Beratung und partizipative Entscheidungsfindung einschließlich Festlegung von Therapiezielen"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "Schmerzedukation, auch mit Klärung von aufrechterhaltenden psychosozialen Einflussfaktoren"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "Aufstellung eines inhaltlich und zeitlich gestuften multimodalen Therapieplanes einschließlich der zur Umsetzung erforderlichen interdisziplinären, interprofessionellen und sozialmedizinischen Koordination",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "Initiierung, Modifizierung und/oder Beendigung medikamentöser Kurzzeit-, Langzeit-, und Dauertherapie, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "- Langzeit- oder Dauertherapie mit standardisierter Dokumentation des schmerztherapeutischen Behandlungsverlaufs, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "- in einer terminalen Behandlungsphase einer palliativen Situation"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Medikamentenmissbrauch und Medikamentenabhängigkeit"
+    },
+    {
+      "abschnitt": "Spezifische Schmerztherapie",
+      "handlungskompetenz": "Entzugsbehandlungen",
+      "richtzahl": 10
+    }
+  ]
+}

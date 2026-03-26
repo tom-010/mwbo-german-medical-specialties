@@ -1,0 +1,98 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Kardiale Magnetresonanztomographie",
+  "bezeichnung": "Zusatz-Weiterbildung Kardiale Magnetresonanztomographie",
+  "definition": "Die Zusatz-Weiterbildung Kardiale Magnetresonanztomographie umfasst in Ergänzung zu einer Facharztkompetenz die Durchführung und Befundung der kardialen Magnetresonanztomographie.",
+  "mindestanforderungen": "Facharztanerkennung für Innere Medizin und Kardiologie oder Kinder- und Jugendmedizin mit Schwerpunkt Kinder- und Jugend-Kardiologie und zusätzlich 12 Monate Kardiale Magnetresonanztomographie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Strahlenschutz"
+    },
+    {
+      "abschnitt": "Prinzipien der nicht-ionisierenden Strahlung"
+    },
+    {
+      "abschnitt": "Strahlenbiologische Effekte"
+    },
+    {
+      "abschnitt": "Reduktionsmöglichkeiten der medizinisch induzierten Strahlenexposition bei Patienten und Personal"
+    },
+    {
+      "abschnitt": "Stellenwert der unterschiedlichen bildgebenden Verfahren in der Diagnostik"
+    },
+    {
+      "abschnitt": "Umgang mit Besonderheiten des Schutzes vor nicht-ionisierender Strahlung im Kindes- und Jugendalter, bei Schwangeren und Risikopatienten",
+      "handlungskompetenz": "Umgang mit Besonderheiten des Schutzes vor nicht-ionisierender Strahlung im Kindes- und Jugendalter, bei Schwangeren und Risikopatienten"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie"
+    },
+    {
+      "abschnitt": "Grundlagen der Datenakquisition, Bild- und Datenverarbeitung und -nachbearbeitung sowie deren Archivierung, insbesondere der physikalischen und biophysikalischen Grundlagen"
+    },
+    {
+      "abschnitt": "Grundlagen der Gerätekunde bei der Anwendung von Magnetresonanzverfahren"
+    },
+    {
+      "abschnitt": "Prinzipien von Magnetfeldstärke, Gradientenstärke, Hochfrequenz, Orts- und Zeitauflösung"
+    },
+    {
+      "abschnitt": "Patientenüberwachung einschließlich der Sicherheitsmaßnahmen für Patienten und Personal"
+    },
+    {
+      "abschnitt": "Typische Artefakte in der MRT und ihre Ursachen"
+    },
+    {
+      "abschnitt": "Korrekte Wahl der Akquisitionsparameter unter Berücksichtigung der Sicherheitsvorschriften und des Strahlenschutzes",
+      "handlungskompetenz": "Korrekte Wahl der Akquisitionsparameter unter Berücksichtigung der Sicherheitsvorschriften und des Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Kontrastmittel"
+    },
+    {
+      "abschnitt": "Prinzipien der Struktur, Pharmakologie, Klassifikation und Dosis sowie Indikationen und Kontraindikationen von MRT-Kontrastmitteln"
+    },
+    {
+      "abschnitt": "Risiken und Nebenwirkung von MRT-Kontrastmitteln"
+    },
+    {
+      "abschnitt": "Indikationsgemäße Auswahl, Dosierung und Pharmakokinetik von MRT-Kontrastmitteln, insbesondere unter Berücksichtigung von Patienten mit erhöhtem Risiko",
+      "handlungskompetenz": "Indikationsgemäße Auswahl, Dosierung und Pharmakokinetik von MRT-Kontrastmitteln, insbesondere unter Berücksichtigung von Patienten mit erhöhtem Risiko"
+    },
+    {
+      "abschnitt": "Erstmaßnahmen bei kontrastmittelassoziierten Komplikationen, z. B. anaphylaktischer/anaphylaktoider Reaktionen",
+      "handlungskompetenz": "Erstmaßnahmen bei kontrastmittelassoziierten Komplikationen, z. B. anaphylaktischer/anaphylaktoider Reaktionen"
+    },
+    {
+      "abschnitt": "Erstellung und Anwendung von MRT-Untersuchungsprotokollen für die gebietsbezogene Magnetresonanztomographie einschließlich geeigneter Kontrastmittel",
+      "handlungskompetenz": "Erstellung und Anwendung von MRT-Untersuchungsprotokollen für die gebietsbezogene Magnetresonanztomographie einschließlich geeigneter Kontrastmittel"
+    },
+    {
+      "abschnitt": "Erkennung typischer Neben- und Zufallsbefunde im Untersuchungsvolumen außerhalb des Organbezugs",
+      "handlungskompetenz": "Erkennung typischer Neben- und Zufallsbefunde im Untersuchungsvolumen außerhalb des Organbezugs"
+    },
+    {
+      "abschnitt": "Organbezogene MRT"
+    },
+    {
+      "abschnitt": "Indikationsstellung, Durchführung und Befunderstellung von MRT-Untersuchungen am Herzen und herznahen Gefäßen, auch in interdisziplinärer Zusammenarbeit, davon",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Befunderstellung von MRT-Untersuchungen am Herzen und herznahen Gefäßen, auch in interdisziplinärer Zusammenarbeit, davon",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "- pathologische Befunde",
+      "handlungskompetenz": "- pathologische Befunde",
+      "richtzahl": 250
+    },
+    {
+      "abschnitt": "- medikamentöse Stresstests",
+      "handlungskompetenz": "- medikamentöse Stresstests",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "- Kontrastmitteluntersuchungen",
+      "handlungskompetenz": "- Kontrastmitteluntersuchungen",
+      "richtzahl": 100
+    }
+  ]
+}

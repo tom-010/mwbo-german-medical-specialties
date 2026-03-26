@@ -1,0 +1,53 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Flugmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Flugmedizin",
+  "definition": "Die Zusatz-Weiterbildung Flugmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Luft- und Raumfahrtmedizin einschließlich der physikalischen und medizinischen Besonderheiten des Aufenthaltes im Luft- und Weltraum sowie die psycho-physiologischen Anforderungen an das fliegende Personal einschließlich der Patienten im Lufttransport, der Passagiere sowie der Fluglotsen.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung und zusätzlich 180 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Flugmedizin",
+  "inhalte": [
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Rechtliche Grundlagen"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Rechtsgrundlagen ärztlichen Handelns an Bord"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Luft- und Raumfahrtphysiologie"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Flugpsychologie"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Fliegerische Basiskenntnisse"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Flugunfallmedizin, Flugunfalluntersuchung"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Arbeitsmedizinische Aspekte der Flugmedizin"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Medizinische Zwischenfälle an Bord"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Lufttransport Verletzter und Kranker"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Sauerstoffmangeldemonstration"
+    },
+    {
+      "abschnitt": "Kursinhalte (180 Stunden)",
+      "text": "Flugmedizinische Tauglichkeitsuntersuchungen"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Schwerpunkt Neuropädiatrie",
+  "zusatzbezeichnung": "Neuropädiater/Neuropädiaterin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Neuropädiatrie baut auf der Facharzt-Weiterbildung Kinder- und Jugendmedizin auf.",
+  "weiterbildungszeit": "24 Monate Neuropädiatrie unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 6 Monate Weiterbildung in Neurologie und/oder Kinder- und Jugendpsychiatrie und –psychotherapie erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuropädiatrie",
+      "kognitive_und_methodenkompetenz": "Richtlinie zur Feststellung des irreversiblen Hirnfunktionsausfalls"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuropädiatrie",
+      "handlungskompetenz": "Diagnostik angeborener Störungen der Motorik und der Sinnesfunktionen sowie assoziierter Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuropädiatrie",
+      "handlungskompetenz": "Prävention, Diagnostik, Therapie und Rehabilitation von Erkrankungen des zentralen, peripheren und vegetativen Nervensystems, der Muskulatur und bei Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuropädiatrie",
+      "handlungskompetenz": "Weiterführende Behandlung von Schmerzerkrankungen, insbesondere Kopfschmerzerkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuropädiatrie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Stadieneinteilung und Verlauf zerebraler Vigilanzstörungen und intrakranieller Drucksteigerung"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Intensivmedizin",
+      "handlungskompetenz": "Neurologische und neurophysiologische Beurteilung intensivmedizinisch betreuter Kinder und Jugendlicher"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Intensivmedizin",
+      "handlungskompetenz": "Durchführung des Verfahrens zur Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms gemeinsam mit einem hierfür qualifizierten Facharzt"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Neuroradiologische und neurochirurgische Interventionsverfahren"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie angeborener Erkrankungen und Fehlbildungen des Zentralnervensystems und des peripheren Nervensystems"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie infektiöser und autoimmunologischer Erkrankungen des Zentralnervensystems und des peripheren Nervensystems"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie neurometabolischer und degenerativer Erkrankungen"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie vaskulärer Erkrankungen des Zentralnervensystems und des peripheren Nervensystems"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie zerebraler Krampfanfälle und Epilepsien"
+    },
+    {
+      "abschnitt": "Neuropädiatrische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie neuromuskulärer und muskulärer Erkrankungen"
+    },
+    {
+      "abschnitt": "Hypoxämie bedingte traumatische und toxische Erkrankungen",
+      "handlungskompetenz": "Behandlung zerebraler Verletzungsmuster einschließlich non-akzidenteller Muster, insbesondere beim Schütteltrauma"
+    },
+    {
+      "abschnitt": "Hypoxämie bedingte traumatische und toxische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie hypoxämisch bedingter traumatischer und toxischer Erkrankungen des Zentralnervensystems und des peripheren Nervensystems"
+    },
+    {
+      "abschnitt": "Tumore des Nervensystems",
+      "handlungskompetenz": "Interdisziplinäre Diagnostik, Nachsorge und Rehabilitation von Tumoren des Nervensystems"
+    },
+    {
+      "abschnitt": "Entwicklungsstörungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Neurorehabilitation",
+      "handlungskompetenz": "Einordnung, Beurteilung und Beratung von Behinderungen und ihren psychosozialen Folgen einschließlich der Definition von Rehabilitationszielen und Fördermaßnahmen"
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Elektroenzephalogramm einschließlich amplitudenintegriertem EEG",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Mitwirkung bei Polygraphie und neurophysiologischen Untersuchungen, insbesondere Elektromyographie, Elektroneurographie, visuell, somatosensibel, motorisch und akustisch evozierte Potenziale"
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Sonographie des zentralen und peripheren Nervensystems und der Muskulatur",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation radiologischer Untersuchungen, insbesondere Computertomographie und Magnetresonanztomographie"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Immunologie",
+  "bezeichnung": "Zusatz-Weiterbildung Immunologie",
+  "definition": "Die Zusatz-Weiterbildung Immunologie umfasst in Ergänzung zu einer Facharztkompetenz die fachspezifische klinische Diagnostik und Therapie von Immundefekten und Immundysregulations-Syndromen einschließlich immundiagnostischer Methoden.",
+  "mindestanforderungen": "Facharztanerkennung und zusätzlich 12 Monate Immunologie unter Befugnis an Weiterbildungsstätten, davon müssen 6 Monate im immunologischen Labor abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Immunologie"
+    },
+    {
+      "abschnitt": "Wesentliche Gesetze und Richtlinien, z. B. Medizinproduktegesetz, Infektionsschutzgesetz, Transfusionsgesetz, STIKO-Richtlinien"
+    },
+    {
+      "abschnitt": "Grundlagen des adaptiven und angeborenen Immunsystems"
+    },
+    {
+      "abschnitt": "Angeborene und erworbene Immundefekt- und Immundysregulations-Syndrome"
+    },
+    {
+      "abschnitt": "Immunologische Folgen von Frühgeburtlichkeit und Seneszenz"
+    },
+    {
+      "abschnitt": "Auswirkungen immunologischer Störungen auf Impfantworten"
+    },
+    {
+      "abschnitt": "Über-, Unter- und Fehlreaktionen des Immunsystems, z. B. Autoimmunität, Allergie, Autoinflammation"
+    },
+    {
+      "abschnitt": "Grundlagen der allogenen und autologen Organ-und Stammzelltransplantation, akuten und chronischen Abstoßung, Graft versus Host-Disease"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren"
+    },
+    {
+      "abschnitt": "Zielstrukturen für diagnostische Methoden, z. B. Immunglobuline"
+    },
+    {
+      "abschnitt": "Differentialdiagnose von Allergien"
+    },
+    {
+      "abschnitt": "Durchführung von serologischen, zellulären, genetischen, funktionellen diagnostischen Verfahren zur Abklärung von pathologischen Entzündungsreaktionen, Immundefekten und Immundysregulations-Syndromen, z. B. Hämophagozytose-Syndrom, Autoimmunproliferatives Syndrom, Late-onset kombinierte Immundefekte, autoinflammatorische Syndrome",
+      "handlungskompetenz": "Durchführung von serologischen, zellulären, genetischen, funktionellen diagnostischen Verfahren zur Abklärung von pathologischen Entzündungsreaktionen, Immundefekten und Immundysregulations-Syndromen, z. B. Hämophagozytose-Syndrom, Autoimmunproliferatives Syndrom, Late-onset kombinierte Immundefekte, autoinflammatorische Syndrome",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Durchführung der Diagnostik von Autoimmunopathien",
+      "handlungskompetenz": "Durchführung der Diagnostik von Autoimmunopathien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren"
+    },
+    {
+      "abschnitt": "Beratung zum Erkrankungsrisiko sowie Indikationsstellung zur Behandlung von pathologischen Entzündungsreaktionen, Immundefekten und Immundysregulations-Syndromen",
+      "handlungskompetenz": "Beratung zum Erkrankungsrisiko sowie Indikationsstellung zur Behandlung von pathologischen Entzündungsreaktionen, Immundefekten und Immundysregulations-Syndromen"
+    },
+    {
+      "abschnitt": "Prophylaktische und therapeutische Interventionen, z. B. Impfstoffe, Antikörper, Zellpopulationen, Zytokine, Signaltransduktionsmoleküle, Gene"
+    },
+    {
+      "abschnitt": "Durchführung von prophylaktischen und immuntherapeutischen Verfahren, z. B. Impfungen, Einsatz von Immunsuppressiva und Immunstimulanzien, Biologika, Immunglobulin-Therapie zum Antikörperersatz und zur Immunmodulation, Plasmapherese und Leukapherese, Stammzelltransplantation, spezifische Zell- und Gentherapie",
+      "handlungskompetenz": "Durchführung von prophylaktischen und immuntherapeutischen Verfahren, z. B. Impfungen, Einsatz von Immunsuppressiva und Immunstimulanzien, Biologika, Immunglobulin-Therapie zum Antikörperersatz und zur Immunmodulation, Plasmapherese und Leukapherese, Stammzelltransplantation, spezifische Zell- und Gentherapie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Erhebung des Impfstatus nach immunsuppressiver Therapie",
+      "handlungskompetenz": "Erhebung des Impfstatus nach immunsuppressiver Therapie"
+    }
+  ]
+}

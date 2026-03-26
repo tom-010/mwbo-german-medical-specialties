@@ -1,0 +1,336 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Frauenheilkunde und Geburtshilfe",
+  "bezeichnung": "Facharzt/Fachärztin für Frauenheilkunde und Geburtshilfe",
+  "zusatzbezeichnung": "Frauenarzt/Frauenärztin",
+  "gebietsdefinition": "Das Gebiet Frauenheilkunde und Geburtshilfe umfasst die Erkennung, Vorbeugung, konservative und operative Behandlung sowie Nachsorge von geschlechtsspezifischen Gesundheitsstörungen der Frau einschließlich plastisch-rekonstruktiver Eingriffe, der gynäkologischen Onkologie, Endokrinologie, Fortpflanzungsmedizin, Urogynäkologie, der Betreuung und Überwachung normaler und gestörter Schwangerschaften, Geburten und Wochenbettverläufe sowie der Prä- und Perinatalmedizin.",
+  "weiterbildungszeit": "60 Monate Frauenheilkunde und Geburtshilfe unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen 80 Stunden Kurs-Weiterbildung in Psychosomatische Grundversorgung",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "handlungskompetenz": "Perioperative Behandlung einschließlich Vorbereitung, Nachsorge, Komplikationsmanagement und Behandlung von Infektionen sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedener Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Diagnostik und Therapie von schwangerschaftsassoziierten, peripartalen, perinatalen, gynäkologischen und reproduktionsmedizinischen Notfallsituationen"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Diagnostik und Therapie von entzündlichen Erkrankungen des äußeren und inneren Genitales, des Abdomens, der Harnblase, der Harnröhre und der Brust einschließlich einer im Einzelfall notwendigen Partnerbehandlung"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Diagnostik und Therapie von sexuell übertragbaren Infektionen (STI) einschließlich der Beratung zur Prävention"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Diagnostik und Therapie von Infektionen in Schwangerschaft und Wochenbett"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Aspekte des Gebietes",
+      "kognitive_und_methodenkompetenz": "Grundlagen des biopsychosozialen Sexualitätsmodells, der somato- und psychosexuellen Entwicklung über die Lebensspanne, sexueller Traumatisierungen und deren Auswirkungen einschließlich Paarkonflikt-und Beziehungsstörungen"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Aspekte des Gebietes",
+      "handlungskompetenz": "Sexualanamnese"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Aspekte des Gebietes",
+      "kognitive_und_methodenkompetenz": "Diagnostik und Therapie von sexuellen Funktionsstörungen, sexuellen Präferenz- und Verhaltensstörungen"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Aspekte des Gebietes",
+      "handlungskompetenz": "Sexualberatung der Frau und des Paares sowie Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Urogynäkologische, organische und funktionelle Störungen",
+      "handlungskompetenz": "Diagnostik und medikamentöse Therapie bei Senkungszuständen des Genitales und Harninkontinenz sowie Analinkontinenz einschließlich Beckenbodentraining und Indikationsstellung zur operativen Therapie"
+    },
+    {
+      "abschnitt": "Urogynäkologische, organische und funktionelle Störungen",
+      "handlungskompetenz": "Deszensus- und Inkontinenzoperationen"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "kognitive_und_methodenkompetenz": "Störungen der weiblichen Geschlechtsentwicklung und Pubertät"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Diagnostik und Therapie von Störungen des weiblichen Zyklus einschließlich Zyklusbeschwerden"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Behandlung des prämenstruellen Syndroms"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "kognitive_und_methodenkompetenz": "Ovarielle Fehlfunktion"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Diagnostik und Therapie weiblicher Sterilität und zugrundeliegender endokriner Störungen einschließlich Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Diagnostik und Therapie der Ovarialinsuffizienz"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Beratung zur Familienplanung"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Beratung zur hormonellen, chemischen, mechanischen und operativen Kontrazeption"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Diagnostik und Therapie der Endometriose"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Therapie bei Beschwerden im Klimakterium und in der Postmenopause"
+    },
+    {
+      "abschnitt": "Gynäkologische Endokrinologie",
+      "handlungskompetenz": "Prävention, Diagnostik und Therapie der Osteoporose"
+    },
+    {
+      "abschnitt": "Alters- und kulturspezifische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Kinder- und Jugendgynäkologie"
+    },
+    {
+      "abschnitt": "Alters- und kulturspezifische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Symptome sexueller und körperlicher Gewalt, Genitalverstümmelung"
+    },
+    {
+      "abschnitt": "Alters- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "Untersuchungen und Dokumentation von Sexualdelikten"
+    },
+    {
+      "abschnitt": "Alters- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "Beratung zu Hilfsangeboten bei Gewaltfolgen"
+    },
+    {
+      "abschnitt": "Alters- und kulturspezifische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen plastisch-operativer und rekonstruktiver Eingriffe bei gestörter Anlage und Entwicklung von Genitale und Mamma sowie Gewaltfolgen und Genitalverstümmelung"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Benigne, prämaligne und maligne Erkrankungen des inneren und äußeren Genitales und der weiblichen und männlichen Mamma einschließlich Tumornachsorge"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Komplementärmedizinische Verfahren"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Indikationsstellung zur medikamentösen, operativen und strahlentherapeutischen Behandlung"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Mitwirkung bei der systemischen Tumortherapie sowie der supportiven Therapie bei soliden Tumorerkrankungen der Facharztkompetenz"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Regelmäßige Teilnahme an interdisziplinären Tumorkonferenzen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Erkennung und Behandlung von Tumor- und Therapiekomplikationen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Altersspezifische Gesundheitsberatung einschließlich Ernährungsberatung"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Kolposkopie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Befundinterpretation zytologischer und HPV-Abstriche",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Durchführung und spezifische Beratung zur HPV-Impfung auf Grundlage der STIKO-Empfehlungen"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Untersuchungen zur Krebsfrüherkennung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "B-Modus-Sonographien der weiblichen Genitalorgane einschließlich Endosonographie",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "B-Modus-Sonographien der Brustdrüse sowie der Lymphabflusswege",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Duplex-Sonographien der Gefäße des weiblichen Genitalsystems sowie der Lymphabflusswege",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Anfertigung und Beurteilung von Nativpräparaten im Phasenkontrastmikroskop",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Abstrich- und Probenentnahme für mikrobiologische Untersuchungen einschließlich semiquantitativer Urindiagnostik und Befundinterpretation",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Operative und weitere therapeutische Verfahren",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "Operative und weitere therapeutische Verfahren",
+      "handlungskompetenz": "- einfache Eingriffe am äußeren und inneren Genitale und der Brust, insbesondere Abrasio, Konisation, Nachkürettage, diagnostische und therapeutische Hysteroskopie, diagnostische Laparoskopie",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Operative und weitere therapeutische Verfahren",
+      "handlungskompetenz": "- Mitwirkung bei komplexen Eingriffen am äußeren und inneren Genitale und der Brust, insbesondere therapeutische Laparoskopien sowie Tumorektomien, Entfernung von regionalen Lymphknoten",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Operative und weitere therapeutische Verfahren",
+      "handlungskompetenz": "Lokalanästhesien",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Operative und weitere therapeutische Verfahren",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapien, enterale und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "kognitive_und_methodenkompetenz": "Physiologie und Pathologie von Schwangerschaft, Geburt und Wochenbett"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "kognitive_und_methodenkompetenz": "Stillberatung und Betreuung des gesunden Neugeborenen"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Feststellung einer Schwangerschaft und Beratung sowie Mutterschaftsvorsorge"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Diagnostik und Therapie von schwangerschafts-induzierten Erkrankungen und Erkrankungen in der Schwangerschaft einschließlich der Diagnostik des Schwangerschaftsdiabetes"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Behandlung von Risikoschwangerschaften"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "kognitive_und_methodenkompetenz": "Fetale Erkrankungen"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Erstversorgung und Betreuung des Neugeborenen einschließlich Erstbehandlung von Anpassungsstörungen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Beratung bei Schwangerschaftskonflikten sowie Indikationsstellung zum Schwangerschaftsabbruch unter Berücksichtigung gesundheitlicher einschließlich psychischer Risiken"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "B-Modus-Sonographien der utero-plazento-fetalen Einheit",
+      "richtzahl": 300
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Duplex-Sonographien des feto-maternalen Gefäßsystems, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "- pathologische Fälle",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Antepartale Kardiotokogramme",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Intrapartale Kardiotokogramme",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Leitungen von normalen Geburten, auch mit Versorgung von Scheidendammschnitten und Geburtsverletzungen",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Sectio caesarea",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Mitwirkung bei weiteren geburtshilflichen Eingriffen, z. B. Forzeps, Vakuum-Extraktion, vaginale Entwicklung aus Beckenendlage und manuelle Plazentalösung"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Geburtsbetreuung und Mitwirkung bei Risikogeburten und geburtshilflichen Eingriffen höherer Schwierigkeitsgrade"
+    },
+    {
+      "abschnitt": "Schwangerschaft, Geburt und Wochenbett",
+      "handlungskompetenz": "Diagnostik und Therapie von Erkrankungen im Wochenbett einschließlich Beratung"
+    }
+  ]
+}

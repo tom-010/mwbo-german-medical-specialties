@@ -1,0 +1,276 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Schwerpunkt Kinder- und Jugend-Pneumologie",
+  "zusatzbezeichnung": "Kinder- und Jugend-Pneumologe/Kinder- und Jugend- Pneumologin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie baut auf der Facharzt-Weiterbildung Kinder- und Jugendmedizin auf.",
+  "weiterbildungszeit": "24 Monate Kinder- und Jugend-Pneumologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "handlungskompetenz": "Koordination der interdisziplinären und interprofessionellen Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "handlungskompetenz": "Langzeitversorgung in Kooperation mit spezialisierten Einrichtungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "kognitive_und_methodenkompetenz": "Indikationen für Impfungen unter Immunsuppression"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "handlungskompetenz": "Indikationsstellung zur genetischen Diagnostik"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Ernährungsberatung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "handlungskompetenz": "Schulungsmaßnahmen unter Einbindung von Bezugspersonen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "handlungskompetenz": "Einleitung von präventiven und rehabilitativen Maßnahmen bei chronischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "handlungskompetenz": "Indikationsstellung zur psychosozialen Therapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "kognitive_und_methodenkompetenz": "Palliativmedizinische Versorgung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Pneumologie",
+      "kognitive_und_methodenkompetenz": "Indikationen, Risiken, Prognose, Planung, Listung, Diagnostik und Therapie vor und nach Transplantationen"
+    },
+    {
+      "abschnitt": "Pneumologische Notfälle",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei pneumologischen Notfällen, z. B. Spannungs-/ Pneumothorax"
+    },
+    {
+      "abschnitt": "Asthma",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Langzeitprognose, unterschiedliche Phänotypen, Epigenetik"
+    },
+    {
+      "abschnitt": "Asthma",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie des Asthma"
+    },
+    {
+      "abschnitt": "Asthma",
+      "handlungskompetenz": "Behandlung des schweren/therapierefraktären Asthma einschließlich Therapie mit Biologika"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Langzeitprognose, unterschiedliche Phänotypen, Epigenetik"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie allergologischer Erkrankungen, z. B. Anaphylaxie, allergische Rhinitis, atopisches Ekzem, Nahrungsmittelallergie"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "kognitive_und_methodenkompetenz": "Allergische bronchopulmonale Aspergillose"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von serologischen und kutanen Tests bei komplexen Verläufen, insbesondere spezifische Immunglobuline, Komponentendiagnostik"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Interpretation von allergologischen Haut-Tests"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Interpretation der spezifischen nasalen Provokation"
+    },
+    {
+      "abschnitt": "Allergologische Diagnostik und Therapie",
+      "handlungskompetenz": "Indikationsstellung und Durchführung der spezifischen Immuntherapie, insbesondere bei komplexen Verläufen und Polysensibilisierungen"
+    },
+    {
+      "abschnitt": "Akute und chronische Infektionen der Atemwege",
+      "kognitive_und_methodenkompetenz": "Pneumologische Erkrankungen bei Hochrisiko-/ Immundefekt-Patienten"
+    },
+    {
+      "abschnitt": "Akute und chronische Infektionen der Atemwege",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei Bronchiektasen"
+    },
+    {
+      "abschnitt": "Akute und chronische Infektionen der Atemwege",
+      "handlungskompetenz": "Diagnostik und Therapie von Pilz-Infektionen sowie komplizierten Verläufen von bakteriellen und viralen Infektionen der Atemwege"
+    },
+    {
+      "abschnitt": "Akute und chronische Infektionen der Atemwege",
+      "handlungskompetenz": "Thoraxdrainage"
+    },
+    {
+      "abschnitt": "Akute und chronische Infektionen der Atemwege",
+      "handlungskompetenz": "Fibrinolyse-Therapie bei kompliziertem parapneumonischen Erguss"
+    },
+    {
+      "abschnitt": "Angeborene Lungenfehlbildungen",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnose und Management einschließlich chirurgischer Therapieoptionen, Prognose und Nachbetreuung angeborener Lungenfehlbildungen"
+    },
+    {
+      "abschnitt": "Bronchopulmonale Dysplasie",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei bronchopulmonaler Dysplasie"
+    },
+    {
+      "abschnitt": "Cystische Fibrose",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Genetik, Prognose"
+    },
+    {
+      "abschnitt": "Cystische Fibrose",
+      "kognitive_und_methodenkompetenz": "Bedeutung des Neugeborenen-Screening"
+    },
+    {
+      "abschnitt": "Cystische Fibrose",
+      "handlungskompetenz": "Hygienemaßnahmen bei cystischer Fibrose"
+    },
+    {
+      "abschnitt": "Cystische Fibrose",
+      "kognitive_und_methodenkompetenz": "Atypische cystische Fibrose"
+    },
+    {
+      "abschnitt": "Cystische Fibrose",
+      "handlungskompetenz": "Diagnostik und Therapie der cystischen Fibrose"
+    },
+    {
+      "abschnitt": "Tuberkulose und seltene Lungenerkrankungen",
+      "kognitive_und_methodenkompetenz": "Epidemiologie und Mikrobiologie einschließlich Resistenzentwicklung"
+    },
+    {
+      "abschnitt": "Tuberkulose und seltene Lungenerkrankungen",
+      "kognitive_und_methodenkompetenz": "Multiresistente Lungen-Tuberkulose"
+    },
+    {
+      "abschnitt": "Tuberkulose und seltene Lungenerkrankungen",
+      "kognitive_und_methodenkompetenz": "Nicht-tuberkulöse Mykobakterien-Infektionen und atypische Mykobakteriosen der Lunge"
+    },
+    {
+      "abschnitt": "Tuberkulose und seltene Lungenerkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie der primären und postprimären Lungentuberkulose"
+    },
+    {
+      "abschnitt": "Tuberkulose und seltene Lungenerkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie von seltenen Lungenerkrankungen"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnose der chronischen respiratorischen Insuffizienz"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Diagnostik und Therapie dysfunktioneller respiratorischer Symptome, z. B. Vocal Cord Dysfunction, Hyperventilationssyndrom, dysfunktionelle Atmung vom thorakalen Typ mit insuffizienter Ventilation, psychogene Atemstörungen, Räusper- und Schnorchelstereotypien"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Diagnostik und Therapie obstruktiver und zentraler Schlafapnoe- und Hypoventilationssyndrome"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "kognitive_und_methodenkompetenz": "Invasive und nicht invasive Heimbeatmung einschließlich Überwachung und Beatmungsentwöhnung"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Heim-Sauerstofftherapie einschließlich Monitorversorgung"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Inhalationstherapie bei beatmeten Patienten"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Diagnostik und Therapie Respirator-assoziierter Komplikationen"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Tracheostoma-Management"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Einleitung und Überwachung von Clearance-Techniken, z. B. Physiotherapie, Hustenassistenz"
+    },
+    {
+      "abschnitt": "Atemstörungen",
+      "handlungskompetenz": "Demonstration von Inhalationssystemen unter Berücksichtigung der physikalischen Eigenschaften sowie der Vor- und Nachteile"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "kognitive_und_methodenkompetenz": "Lungenfunktions-Referenzwerte"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "kognitive_und_methodenkompetenz": "Funktionsuntersuchungen der Atemwege, z. B. Compliancemessung, eNO/nNO-Messung, Multiple-Breath-Washout"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Spiroergometrie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Befunderstellung von"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- Fluss-Volumen-Kurven und Lungenvolumina"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- Bodyplethysmographie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- Bronchospasmolysetest"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- bronchialen Provokationstestungen"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- 6-Minuten Gehtest"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- CO-Diffusion"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Befunderstellung der"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- flexiblen Bronchoskopie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "- bronchoalveolären Lavage",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Indikationsstellung, Mitwirkung und ggf. Durchführung bei starren Bronchoskopien"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Befunderstellung der thorakalen Sonographie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "kognitive_und_methodenkompetenz": "Polysomnographie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik",
+      "handlungskompetenz": "Befundinterpretation von Polygraphien, auch Durchführung"
+    }
+  ]
+}

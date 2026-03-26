@@ -1,0 +1,320 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Anästhesiologie",
+  "bezeichnung": "Facharzt/Fachärztin für Anästhesiologie",
+  "zusatzbezeichnung": "Anästhesiologe/Anästhesiologin",
+  "gebietsdefinition": "Das Gebiet Anästhesiologie umfasst die Allgemein-, Regional- und Lokalanästhesie einschließlich deren Vor- und Nachbehandlung, die Aufrechterhaltung der vitalen Funktionen während operativer und diagnostischer Eingriffe sowie intensivmedizinische, notfallmedizinische und schmerzmedizinische Maßnahmen.",
+  "weiterbildungszeit": "60 Monate Anästhesiologie unter Befugnis an Weiterbildungsstätten, davon müssen 12 Monate in der Intensivmedizin abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Anästhesiologie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Anästhesiologie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "Aufklärung von Patienten über Risiken von Anästhesieverfahren und -medikamenten sowie Einholung der rechtsgültigen Einwilligung"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "Präanästhesiologische Risikoevaluation, insbesondere Prädiktoren für schwierige Atemwege und schwierige Beatmung"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "Identifikation und Umgang mit relevanten kardiovaskulären pulmonalen, neurologischen und muskulären Risikofaktoren"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "Auswahl eines geeigneten Anästhesieverfahrens einschließlich"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "- präanästhesiologischer Vorbereitung unter Berücksichtigung einer Dauermedikation"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "- medikamentöser Prämedikation"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "- erforderlichem Monitoring"
+    },
+    {
+      "abschnitt": "Präanästhesiologische Vorbereitung",
+      "handlungskompetenz": "- Berücksichtigung des Erfordernisses präanästhesiologischer Nüchternheit"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "Atemwegsmanagement, technische Maßnahmen zur Behandlung des einfachen und des schwierigen Atemweges einschließlich der schwierigen Intubation (Difficult Airway), davon"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "- fiberoptische Techniken einschließlich fiberoptische Intubationen, davon können bis zu 50% durch Simulation erfolgen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "- videoassistierte Intubationsverfahren",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "Anästhesiologische Überwachung"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "Postanästhesiologische Patientenversorgung"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "kognitive_und_methodenkompetenz": "Anästhesierelevante Ultraschallverfahren, insbesondere Notfallsonographie, transösophageale und transthorakale Echokardiographie"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "Durchführung anästhesierelevanter Ultraschallverfahren bei unterschiedlichen Maßnahmen, insbesondere bei ZVK-Anlage, Pleurapunktion, sonographisch gesteuerter Gefäßpunktion und Regionalanästhesie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "Allgemeinanästhesien und intraoperative Beatmung einschließlich Einleitung, intraoperative Überwachung, Ausleitung, postoperative Patientenversorgung, postoperative Schmerztherapie"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "Durchführung von Anästhesieverfahren, davon",
+      "richtzahl": 1800
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "- bei abdominellen Eingriffen",
+      "richtzahl": 300
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren und Techniken",
+      "handlungskompetenz": "- bei Patienten mit mindestens ASA 3-Klassifikation",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Anästhesie bei neurochirurgischen und neurointerventionellen Eingriffen",
+      "kognitive_und_methodenkompetenz": "Risiken und Vorteile unterschiedlicher anästhesiologischer Verfahren bei neurochirurgischen und neurointerventionellen Eingriffen"
+    },
+    {
+      "abschnitt": "Anästhesie bei neurochirurgischen und neurointerventionellen Eingriffen",
+      "kognitive_und_methodenkompetenz": "Prinzipien und Besonderheiten der Anästhesiologie bei intrakraniellen Eingriffen"
+    },
+    {
+      "abschnitt": "Anästhesie bei neurochirurgischen und neurointerventionellen Eingriffen",
+      "handlungskompetenz": "Mitwirkung bei Anästhesien für intrakranielle Eingriffe",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Kinderanästhesie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der pädiatrischen Anästhesiologie einschließlich Monitoring, Atemwegsmanagement, intravenöse und intraossäre Zugänge, Narkoseeinleitung, Narkoseaufrechterhaltung, Narkoseausleitung, postanästhesiologische Versorgung, Flüssigkeits- und Volumentherapie"
+    },
+    {
+      "abschnitt": "Kinderanästhesie",
+      "handlungskompetenz": "Durchführung von Anästhesien bei Säuglingen und Kleinkindern bis zum vollendeten 5. Lebensjahr",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Kinderanästhesie",
+      "handlungskompetenz": "Reanimationstraining"
+    },
+    {
+      "abschnitt": "Anästhesie bei Schwangeren und in der Geburtshilfe",
+      "handlungskompetenz": "Durchführung von Allgemeinanästhesien, Regionalanästhesien und perioperativer Behandlung bei Schwangeren"
+    },
+    {
+      "abschnitt": "Anästhesie bei Schwangeren und in der Geburtshilfe",
+      "handlungskompetenz": "Schmerztherapie in der Geburtshilfe einschließlich bei Kaiserschnitten"
+    },
+    {
+      "abschnitt": "Anästhesie bei Schwangeren und in der Geburtshilfe",
+      "handlungskompetenz": "Durchführung von Anästhesieverfahren in der Geburtshilfe, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Anästhesie bei Schwangeren und in der Geburtshilfe",
+      "handlungskompetenz": "- bei Kaiserschnitten",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Anästhesie bei Thoraxeingriffen",
+      "kognitive_und_methodenkompetenz": "Prinzipien und Besonderheiten der Anästhesiologie bei thoraxchirurgischen Eingriffen"
+    },
+    {
+      "abschnitt": "Anästhesie bei Thoraxeingriffen",
+      "kognitive_und_methodenkompetenz": "Perioperative Schmerztherapie einschließlich epiduraler, paravertebraler und intervertebraler Blockaden in der Thoraxchirurgie"
+    },
+    {
+      "abschnitt": "Anästhesie bei Thoraxeingriffen",
+      "handlungskompetenz": "Mitwirkung bei Anästhesien für intrathorakale Eingriffe",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Kardiovaskuläre Anästhesie",
+      "kognitive_und_methodenkompetenz": "Prinzipien und Besonderheiten der Anästhesiologie bei kardiochirurgischen und herznahen gefäßchirurgischen Eingriffen, insbesondere des kardiopulmonalen Bypasses und anderer kreislaufunterstützender Maßnahmen"
+    },
+    {
+      "abschnitt": "Anästhesie bei Operationen im Kopf-Hals-Bereich",
+      "handlungskompetenz": "Anästhesien bei Eingriffen im Kopf-Hals-Bereich auch mit schwierigem Zugang zum Atemweg in der Augenheilkunde, Hals-Nasen-Ohrenheilkunde, Mund-Kiefer-Gesichtschirurgie, Neurochirurgie oder Plastischen, Rekonstruktiven und Ästhetischen Chirurgie",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Regionalanästhesie",
+      "handlungskompetenz": "Durchführung rückenmarksnaher Regionalanästhesien einschließlich intraoperativer Überwachung, postoperativer Patientenversorgung, postoperativer Schmerztherapie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Regionalanästhesie",
+      "handlungskompetenz": "Durchführung peripher-regionalanästhesiologischer Verfahren einschließlich intraoperativer Überwachung, postoperativer Patientenversorgung, postoperativer Schmerztherapie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Anästhesie bei ambulanten Patienten",
+      "kognitive_und_methodenkompetenz": "Mindestanforderungen für die Anwendung anästhesiologischer Verfahren bei ambulanten Eingriffen"
+    },
+    {
+      "abschnitt": "Anästhesie bei ambulanten Patienten",
+      "handlungskompetenz": "Durchführung von Anästhesien bei ambulanten Eingriffen unter Beachtung der Rahmenbedingungen und des spezifischen Risikos sowie Sicherstellung der perioperativen Versorgung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren außerhalb des Operationssaales",
+      "handlungskompetenz": "Gewährleisten von Sicherheitsstandards im Zusammenhang mit anästhesiologischen Verfahren bei CT-und MRT-Untersuchungen oder anderen minimal-invasiven und diagnostischen Eingriffen"
+    },
+    {
+      "abschnitt": "Anästhesiologische Verfahren außerhalb des Operationssaales",
+      "handlungskompetenz": "Transport des Patienten zu Untersuchungen und Eingriffen"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Diagnostik und Therapie vital bedrohlicher Erkrankungen und Zustände auf einer Intensivstation oder Intermediate Care Station, insbesondere bei"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- respiratorischer Insuffizienz"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- kardialer Insuffizienz"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- Ein- und Mehrorganversagen"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- Delir"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- endokrinen Störungen"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- erhöhtem Hirndruck"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- Sepsis"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- Schock"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- Trauma/Polytrauma"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Prävention, Diagnostik, Therapie und Management von Infektionen"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Intensivmedizinische Behandlung von Patienten mit Funktionsstörungen von mindestens zwei vitalen Organsystemen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Analgosedierung von intensivmedizinischen Patienten"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei nicht-intubierten Patienten, differenzierte Beatmungstechniken einschließlich Beatmungsentwöhnung bei langzeitbeatmeten Patienten",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Differenzierte Flüssigkeits- und Volumentherapie einschließlich Transfusions- und Blutersatztherapie"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Enterale und parenterale Ernährung, Erstellung eines Ernährungsplans sowie Therapie von Stoffwechselentgleisungen"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken, auch sonographisch gesteuert, davon"
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- zentralvenöse Zugänge",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- arterielle Zugänge",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "- Pleurapunktionen, Pleuradrainagen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "handlungskompetenz": "Tracheo- und Bronchoskopien",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Perkutane Tracheotomien"
+    },
+    {
+      "abschnitt": "Schmerzmedizinische Verfahren",
+      "handlungskompetenz": "Nervenblockaden, insbesondere zur perioperativen regionalen Schmerztherapie einschließlich Katheterverfahren"
+    },
+    {
+      "abschnitt": "Schmerzmedizinische Verfahren",
+      "handlungskompetenz": "Verfahren zur pharmakologischen und nicht-pharmakologischen Schmerztherapie"
+    },
+    {
+      "abschnitt": "Schmerzmedizinische Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Behandlung chronischer Schmerzen"
+    },
+    {
+      "abschnitt": "Notfall- und Zwischenfallmanagement, Trauma und Verbrennungen, Rettungswesen",
+      "handlungskompetenz": "Reanimation von Patienten aller Altersgruppen"
+    },
+    {
+      "abschnitt": "Notfall- und Zwischenfallmanagement, Trauma und Verbrennungen, Rettungswesen",
+      "handlungskompetenz": "Transportbegleitung von Intensivpatienten einschließlich der Vorbereitung zum Interhospitaltransfer"
+    },
+    {
+      "abschnitt": "Notfall- und Zwischenfallmanagement, Trauma und Verbrennungen, Rettungswesen",
+      "handlungskompetenz": "Ossärer Zugang"
+    },
+    {
+      "abschnitt": "Notfall- und Zwischenfallmanagement, Trauma und Verbrennungen, Rettungswesen",
+      "handlungskompetenz": "Erstversorgung beim Traumapatienten einschließlich Brandverletzten"
+    },
+    {
+      "abschnitt": "Notfall- und Zwischenfallmanagement, Trauma und Verbrennungen, Rettungswesen",
+      "handlungskompetenz": "Zwischenfalltraining",
+      "richtzahl": 5
+    }
+  ]
+}

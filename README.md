@@ -7,24 +7,52 @@ Unfortunately, the MWBO is only published as a PDF. This project makes it machin
 ## Pipeline
 
 ```
-PDF (Bundesärztekammer)
- → docx (Adobe PDF-to-Word)
-  → JSON (custom parsing scripts)
-   → DuckDB (normalized relational database)
+mwbo.docx  (Adobe PDF-to-Word from the Bundesärztekammer PDF)
+  │  pipeline.py run
+  ▼
+catalog.duckdb   (normalized relational database)
+catalog.json     (optional, --json flag)
+catalog.html     (optional, --html flag)
 ```
 
-## Files
+### Usage
+
+```bash
+python -m venv .venv
+.venv/bin/pip install beautifulsoup4 click duckdb 'pydantic>=2' python-slugify
+
+# Full pipeline
+.venv/bin/python pipeline.py run -o catalog.duckdb
+
+# With JSON and HTML exports
+.venv/bin/python pipeline.py run -o catalog.duckdb --json catalog.json --html catalog.html
+
+# Export from existing DuckDB
+.venv/bin/python pipeline.py export -i catalog.duckdb --json catalog.json --html catalog.html
+
+# Individual steps
+.venv/bin/python pipeline.py split
+.venv/bin/python pipeline.py parse
+.venv/bin/python pipeline.py build
+
+# Compare two databases
+.venv/bin/python pipeline.py compare old/catalog.duckdb catalog.duckdb
+```
+
+Requires `pandoc` to be installed for the docx-to-HTML conversion.
+
+## Source files
 
 | File | Description |
 |---|---|
 | [20250703_MWBO-2018.pdf](./20250703_MWBO-2018.pdf) | Original PDF from [Bundesärztekammer](https://www.bundesaerztekammer.de/fileadmin/user_upload/BAEK/Themen/Aus-Fort-Weiterbildung/Weiterbildung/20250703_MWBO-2018.pdf) |
 | [mwbo.docx](./mwbo.docx) | Converted via [Adobe PDF-to-Word](https://www.adobe.com/acrobat/online/pdf-to-word.html) |
-| [catalog.json](./catalog.json) | Parsed catalog as JSON |
-| [catalog.duckdb](./catalog.duckdb) | Normalized relational database (DuckDB) |
+| [pipeline.py](./pipeline.py) | Unified pipeline: docx -> HTML -> JSON -> DuckDB |
+| [old/](./old/) | Archived original scripts (see [old/README.md](./old/README.md)) |
 
 ## Database Schema
 
-### `medical_fields` — 35 rows
+### `medical_fields` — 34 rows
 Top-level grouping of medicine (Gebiete), e.g. "Innere Medizin", "Chirurgie", "Augenheilkunde".
 
 | Column | Type | Description |
@@ -66,7 +94,7 @@ Additional qualifications (Zusatz-Weiterbildungen) that can be acquired on top o
 | `definition` | VARCHAR | Official scope definition |
 | `requirements` | VARCHAR | Prerequisites and training requirements |
 
-### `competency_sections` — 1,259 rows
+### `competency_sections` — 1,113 rows
 Thematic sections grouping the competency items for each specialty, sub-specialty, or additional qualification. E.g. "Notfälle", "Krankheiten und Beratungsanlässe".
 
 | Column | Type | Description |
@@ -76,7 +104,7 @@ Thematic sections grouping the competency items for each specialty, sub-specialt
 | `owner_id` | INTEGER | FK to the respective owner table |
 | `name` | VARCHAR | Section heading |
 
-### `competency_items` — 6,659 rows
+### `competency_items` — 6,913 rows
 Individual competency requirements (Weiterbildungsinhalte). These are the specific things a physician must know or be able to do. Items can be nested via `parent_item_id`.
 
 | Column | Type | Description |

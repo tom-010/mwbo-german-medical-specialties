@@ -1,0 +1,388 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Handchirurgie",
+  "bezeichnung": "Zusatz-Weiterbildung Handchirurgie",
+  "definition": "Die Zusatz-Weiterbildung Handchirurgie umfasst in Ergänzung zu einer Facharztkompetenz die Vorbeugung, Erkennung, operative und nicht operative Behandlung, Nachsorge und Rehabilitation von Erkrankungen, Verletzungen, Fehlbildungen und Tumoren sowie die Rekonstruktion nach Erkrankungen oder Verletzungen der Hand und des distalen Unterarms.",
+  "mindestanforderungen": "Facharztanerkennung für Allgemeinchirurgie, Kinder- und Jugendchirurgie, Orthopädie und Unfallchirurgie oder Plastische, Rekonstruktive und Ästhetische Chirurgie und zusätzlich 24 Monate Handchirurgie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Handchirurgie"
+    },
+    {
+      "abschnitt": "Spezielle Anatomie der Hand"
+    },
+    {
+      "abschnitt": "Gutachtenerstellung",
+      "handlungskompetenz": "Gutachtenerstellung",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesien an der Hand",
+      "handlungskompetenz": "Lokal- und Regionalanästhesien an der Hand",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Berufsgenossenschaftliche Heilverfahren"
+    },
+    {
+      "abschnitt": "Interdisziplinäre Indikationsstellung zur weiterführenden Diagnostik einschließlich der Differentialindikation und Befundinterpretation",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung zur weiterführenden Diagnostik einschließlich der Differentialindikation und Befundinterpretation"
+    },
+    {
+      "abschnitt": "Notfälle"
+    },
+    {
+      "abschnitt": "Handchirurgische Notfallmaßnahmen bei komplexen Handverletzungen",
+      "handlungskompetenz": "Handchirurgische Notfallmaßnahmen bei komplexen Handverletzungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Eingriffe, davon",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "- Amputationen an Hand und Unterarm",
+      "handlungskompetenz": "- Amputationen an Hand und Unterarm",
+      "richtzahl": 6
+    },
+    {
+      "abschnitt": "- thermische, chemische, elektrische Verletzungen, Hochdruckeinspritzverletzungen, Kompartment-Syndrome der Hand",
+      "handlungskompetenz": "- thermische, chemische, elektrische Verletzungen, Hochdruckeinspritzverletzungen, Kompartment-Syndrome der Hand",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Infektionen"
+    },
+    {
+      "abschnitt": "Ätiologie und Pathogenese von Infektionen der Hand"
+    },
+    {
+      "abschnitt": "Konservative Behandlungen bei Infektionen der Sehnen und Gelenke der Hand",
+      "handlungskompetenz": "Konservative Behandlungen bei Infektionen der Sehnen und Gelenke der Hand"
+    },
+    {
+      "abschnitt": "Operative Eingriffe bei Infektionen, davon",
+      "handlungskompetenz": "Operative Eingriffe bei Infektionen, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "- tiefe Wund- und Sehnenscheideninfektionen",
+      "handlungskompetenz": "- tiefe Wund- und Sehnenscheideninfektionen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Paronychie, Panaritium",
+      "handlungskompetenz": "- Paronychie, Panaritium",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Osteomyelitis, septische Arthritis",
+      "handlungskompetenz": "- Osteomyelitis, septische Arthritis",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Differentialdiagnose und Therapieoptionen von systemischen entzündlichen Erkrankungen, Gichtarthropathien und Kollagenosen an der Hand"
+    },
+    {
+      "abschnitt": "Eingriffe bei chronisch entzündlichen Erkrankungen, z. B. Tenosynovialektomien, Gelenksynovialektomien und Sehnenrekonstruktionen bei Rheuma",
+      "handlungskompetenz": "Eingriffe bei chronisch entzündlichen Erkrankungen, z. B. Tenosynovialektomien, Gelenksynovialektomien und Sehnenrekonstruktionen bei Rheuma",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Tumorerkrankungen"
+    },
+    {
+      "abschnitt": "Ätiologie und Pathogenese von Neoplasien der Hand"
+    },
+    {
+      "abschnitt": "Tumorresektionen, davon",
+      "handlungskompetenz": "Tumorresektionen, davon"
+    },
+    {
+      "abschnitt": "- Weichteiltumore",
+      "handlungskompetenz": "- Weichteiltumore",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Knochentumore",
+      "handlungskompetenz": "- Knochentumore",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- tumorähnliche Läsionen, z. B. Ganglion",
+      "handlungskompetenz": "- tumorähnliche Läsionen, z. B. Ganglion",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Teilnahme und Vorstellung von Patienten in interdisziplinären Tumorkonferenzen",
+      "handlungskompetenz": "Teilnahme und Vorstellung von Patienten in interdisziplinären Tumorkonferenzen"
+    },
+    {
+      "abschnitt": "Erstellung von Nachsorgeplänen",
+      "handlungskompetenz": "Erstellung von Nachsorgeplänen"
+    },
+    {
+      "abschnitt": "Diagnostik"
+    },
+    {
+      "abschnitt": "Anatomische und funktionelle Untersuchungstechniken an Hand und Handgelenk",
+      "handlungskompetenz": "Anatomische und funktionelle Untersuchungstechniken an Hand und Handgelenk"
+    },
+    {
+      "abschnitt": "Indikationsstellung und Befundinterpretation von bildgebenden Verfahren der Hand einschließlich MRT, CT, Angiographie und Sonographie",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von bildgebenden Verfahren der Hand einschließlich MRT, CT, Angiographie und Sonographie"
+    },
+    {
+      "abschnitt": "Handfehlbildungen"
+    },
+    {
+      "abschnitt": "Differentialdiagnose und Therapieoptionen von Handfehlfehlbildungen einschließlich konservativer und operativer Therapiekonzepte"
+    },
+    {
+      "abschnitt": "Knochen und Gelenke"
+    },
+    {
+      "abschnitt": "Ätiologie und Pathogenese von Verletzungen und degenerativen Schäden von Knochen und Gelenken"
+    },
+    {
+      "abschnitt": "Konservative Frakturbehandlungen",
+      "handlungskompetenz": "Konservative Frakturbehandlungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Luxationsbehandlungen",
+      "handlungskompetenz": "Luxationsbehandlungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Diagnostische Nervenblockaden an Gelenken",
+      "handlungskompetenz": "Diagnostische Nervenblockaden an Gelenken",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Operative Eingriffe, davon",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "- geschlossene Repositionen und Fixierung",
+      "handlungskompetenz": "- geschlossene Repositionen und Fixierung",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- offene Repositionen und Osteosynthesen",
+      "handlungskompetenz": "- offene Repositionen und Osteosynthesen",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "- Korrekturosteotomien",
+      "handlungskompetenz": "- Korrekturosteotomien",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Pseudarthrosenbehandlung, davon",
+      "handlungskompetenz": "- Pseudarthrosenbehandlung, davon",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Skaphoidpseudarthrosen",
+      "handlungskompetenz": "- Skaphoidpseudarthrosen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Knochentransplantationen",
+      "handlungskompetenz": "- Knochentransplantationen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Naht und sekundäre Rekonstruktionen der Seitenbänder und der palmaren Platte",
+      "handlungskompetenz": "- Naht und sekundäre Rekonstruktionen der Seitenbänder und der palmaren Platte",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Naht und sekundäre Rekonstruktionen der Bänder des Handgelenks",
+      "handlungskompetenz": "- Naht und sekundäre Rekonstruktionen der Bänder des Handgelenks",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Denervierungen",
+      "handlungskompetenz": "- Denervierungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Arthrolysen",
+      "handlungskompetenz": "- Arthrolysen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Arthroplastiken",
+      "handlungskompetenz": "- Arthroplastiken",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Arthrodesen und Teilarthrodesen",
+      "handlungskompetenz": "- Arthrodesen und Teilarthrodesen",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "- diagnostische und therapeutische Arthroskopien",
+      "handlungskompetenz": "- diagnostische und therapeutische Arthroskopien",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Periphere Nerven und Gefäße"
+    },
+    {
+      "abschnitt": "Grundlagen der elektrophysiologischen Untersuchung an peripheren Nerven"
+    },
+    {
+      "abschnitt": "Ätiologie und Pathogenese von traumatischen Schäden und Kompressionssyndromen"
+    },
+    {
+      "abschnitt": "Operative Eingriffe, davon",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "- mikrochirurgische Wiederherstellung von Stammnerven",
+      "handlungskompetenz": "- mikrochirurgische Wiederherstellung von Stammnerven",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- mikrochirurgische Wiederherstellung von Digitalnerven",
+      "handlungskompetenz": "- mikrochirurgische Wiederherstellung von Digitalnerven",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "- Nervenrekonstruktion mit Transplantat oder Transposition",
+      "handlungskompetenz": "- Nervenrekonstruktion mit Transplantat oder Transposition",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Neurolysen",
+      "handlungskompetenz": "- Neurolysen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Neuromresektion",
+      "handlungskompetenz": "- Neuromresektion",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- bei Karpaltunnelsyndrom",
+      "handlungskompetenz": "- bei Karpaltunnelsyndrom",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- bei Rezidiv-Karpaltunnelsyndrom",
+      "handlungskompetenz": "- bei Rezidiv-Karpaltunnelsyndrom",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- bei Nervenkompressionssyndromen anderer Lokalisation, z. B. Ulnarisrinnensyndrom, Pronator-teres-Syndrom, Supinatorsyndrom",
+      "handlungskompetenz": "- bei Nervenkompressionssyndromen anderer Lokalisation, z. B. Ulnarisrinnensyndrom, Pronator-teres-Syndrom, Supinatorsyndrom",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- mikrochirurgische Arterien- oder Venennähte (nicht bei Replantationen/Revaskularisationen) oder Gefäßrekonstruktionen bei Veneninterponaten",
+      "handlungskompetenz": "- mikrochirurgische Arterien- oder Venennähte (nicht bei Replantationen/Revaskularisationen) oder Gefäßrekonstruktionen bei Veneninterponaten",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "- Replantationen oder Revaskularisationen",
+      "handlungskompetenz": "- Replantationen oder Revaskularisationen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Haut- und Weichteilmantel der Hand"
+    },
+    {
+      "abschnitt": "Ätiologie und Pathogenese von Schädigungen des Haut- und Weichteilmantels der Hand"
+    },
+    {
+      "abschnitt": "Operative Eingriffe, davon",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "- freie Hauttransplantationen",
+      "handlungskompetenz": "- freie Hauttransplantationen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- gestielte lokale Lappenplastiken",
+      "handlungskompetenz": "- gestielte lokale Lappenplastiken",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- gestielte Fernlappenplastiken oder freie Lappenplastiken",
+      "handlungskompetenz": "- gestielte Fernlappenplastiken oder freie Lappenplastiken",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- partielle Aponeurektomien bei Morbus Dupuytren",
+      "handlungskompetenz": "- partielle Aponeurektomien bei Morbus Dupuytren",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Rezidiv-Operationen bei Morbus Dupuytren",
+      "handlungskompetenz": "- Rezidiv-Operationen bei Morbus Dupuytren",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Sehnen"
+    },
+    {
+      "abschnitt": "Ätiologie und Pathogenese von traumatischen und degenerativen Sehnenschäden der Hand einschließlich Sehnenengpass-Syndromen"
+    },
+    {
+      "abschnitt": "Grundlagen und Techniken der Versorgung von Sehnenverletzungen einschließlich differenzierter Nachbehandlungskonzepte"
+    },
+    {
+      "abschnitt": "Operative Eingriffe, davon",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "- Ringbandspaltungen",
+      "handlungskompetenz": "- Ringbandspaltungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Beugesehnennähte",
+      "handlungskompetenz": "- Beugesehnennähte",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "- Strecksehnennähte",
+      "handlungskompetenz": "- Strecksehnennähte",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "- Sehnenrekonstruktionen mit Transplantat und Ringbandrekonstruktionen",
+      "handlungskompetenz": "- Sehnenrekonstruktionen mit Transplantat und Ringbandrekonstruktionen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "- Tenolysen",
+      "handlungskompetenz": "- Tenolysen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "- Sehnenumlagerungen als motorische Ersatzoperation",
+      "handlungskompetenz": "- Sehnenumlagerungen als motorische Ersatzoperation",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Prävention, Rehabilitation und Nachsorge"
+    },
+    {
+      "abschnitt": "Maßnahmen zur Vermeidung von Kontrakturen und Bewegungsstörungen nach Verletzungen, bei degenerativen Veränderungen und bei komplexen regionalen Schmerzsyndromen",
+      "handlungskompetenz": "Maßnahmen zur Vermeidung von Kontrakturen und Bewegungsstörungen nach Verletzungen, bei degenerativen Veränderungen und bei komplexen regionalen Schmerzsyndromen"
+    },
+    {
+      "abschnitt": "Indikationsstellung, Planung und Überwachung physikalischer Therapiemaßnahmen, z. B. bei komplexen regionalen Schmerzsyndromen",
+      "handlungskompetenz": "Indikationsstellung, Planung und Überwachung physikalischer Therapiemaßnahmen, z. B. bei komplexen regionalen Schmerzsyndromen"
+    },
+    {
+      "abschnitt": "Indikationsstellung, Planung und Überwachung der Rehabilitation und Nachsorge bei Verletzungen und Erkrankungen der Hand",
+      "handlungskompetenz": "Indikationsstellung, Planung und Überwachung der Rehabilitation und Nachsorge bei Verletzungen und Erkrankungen der Hand"
+    }
+  ]
+}

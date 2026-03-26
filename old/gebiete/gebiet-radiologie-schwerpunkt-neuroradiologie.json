@@ -1,0 +1,168 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Radiologie",
+  "bezeichnung": "Schwerpunkt Neuroradiologie",
+  "zusatzbezeichnung": "Neuroradiologe/Neuroradiologin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Neuroradiologie baut auf der Facharzt-Weiterbildung Radiologie auf.",
+  "weiterbildungszeit": "24 Monate Neuroradiologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuroradiologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen und klinische Untersuchungsmethoden in der Neurologie, Neurochirurgie, Angiologie und Gefäßchirurgie mit Relevanz für neuroradiologische Fragestellungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuroradiologie",
+      "kognitive_und_methodenkompetenz": "Anatomie, anatomische Varianten und Physiologie der angeborenen und erworbenen Erkrankungen mit Relevanz für neuroradiologische Fragestellungen, insbesondere des arteriellen und venösen Gefäßsystems im Bereich Kopf, Hals, Gehirn, Wirbelsäule und Rückenmark"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuroradiologie",
+      "kognitive_und_methodenkompetenz": "Klinische Symptome und Behandlungsstrategien sowie bildmorphologische Darstellung bei neuroradiologischen Fragestellungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuroradiologie",
+      "handlungskompetenz": "Vorbereitung und Durchführung von neuroradiologischen Demonstrationen, interdisziplinären Konferenzen, einschließlich Tumorkonferenzen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Neuroradiologie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten neuroradiologischer Untersuchungs- und Behandlungsmethoden bei Kindern und Jugendlichen sowie erforderliche Anpassungen der Akquisitionsparameter"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Indikation einschließlich rechtfertigender Indikationsstellung für alle neuroradiologischen Untersuchungen und interventionellen bildgestützten Verfahren unter Berücksichtigung der relevanten klinischen Fragestellungen des zentralen und peripheren Nervensystems einschließlich der Nervenplexus"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Bewertung und Vergleich der Aussagekraft bildgebender Verfahren, insbesondere Radiographie, Fluoroskopie, CT, MRT, Sonographie für unterschiedliche diagnostische neuroradiologische Fragestellungen und Auswahl der geeignetsten Methoden für diagnostische neuroradiologische Fragestellungen"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Bewertung und Vergleich der verschiedenen interventionellen neuroradiologischen Verfahren und Auswahl der geeignetsten Verfahren für die unterschiedlichen neuroradiologischen Krankheitsbilder"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Reduktionsmöglichkeiten der medizinisch induzierten Strahlenexposition im Hinblick auf besonders strahlensensible Organe im Untersuchungs- oder Behandlungsfeld"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "kognitive_und_methodenkompetenz": "Digitale Volumentomographie (DVT) im Kopf-Hals-Bereich"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von Röntgenuntersuchungen einschließlich diagnostischer und funktioneller Computertomographie, Digitaler Subtraktionsangiographie und Fluoroskopie, davon"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- Röntgennativdiagnostik",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- Myelographien",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- Katheterangiographien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- CT von Gehirn und Liquorräumen",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- CT von Schädelbasis und Hals",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- CT von Wirbelsäule und Rückenmark",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- CT des muskuloskelettalen Systems",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "- CT-Angiographien",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "handlungskompetenz": "Erstellung und Anwendung von CT-Untersuchungsprotokollen für neuroradiologische Fragestellungen und CT-Verfahren einschließlich der Wahl der geeigneten Kontrastmittel"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung",
+      "kognitive_und_methodenkompetenz": "Untersuchungstechnik der angiographischen Verfahren der supraaortalen, kraniellen und spinalen Gefäße auch mittels Rotationstechnik und Volumen-CT"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der MR-Spektroskopie in der Neuroradiologie"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von Magnetresonanztomographien bei neuroradiologischen Fragestellungen einschließlich Datennachverarbeitung und Auswertung diagnostischer, dynamischer, funktioneller und spektroskopischer MRT-Verfahren, davon"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "- Gehirn und Liquorräume",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "- Schädel und Hals",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "- Wirbelsäule und Rückenmark",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "- muskuloskelettales System",
+      "richtzahl": 300
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "- MRT-Angiographien",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie",
+      "handlungskompetenz": "Erstellung und Anwendung von MRT-Untersuchungsprotokollen für neuroradiologische Fragestellungen und MRT-Verfahren einschließlich der Wahl der geeigneten Kontrastmittel"
+    },
+    {
+      "abschnitt": "Sonographie",
+      "kognitive_und_methodenkompetenz": "Ultraschalluntersuchungen einschließlich Doppler-/ Duplex- Untersuchungen der extrakraniellen hirnversorgenden und intrakraniellen Gefäße einschließlich der Anwendung von Kontrastmitteln"
+    },
+    {
+      "abschnitt": "Interventionelle Neuroradiologie/bildgeführte minimal-invasive Therapie",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von interventionellen neuroradiologischen Verfahren einschließlich Begleittherapie und Maßnahmen der Nachsorge, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Interventionelle Neuroradiologie/bildgeführte minimal-invasive Therapie",
+      "handlungskompetenz": "- rekanalisierende Eingriffe, z. B. mechanische Thrombektomie, intraarterielle Lyse, PTA, Stent",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Interventionelle Neuroradiologie/bildgeführte minimal-invasive Therapie",
+      "handlungskompetenz": "- gefäßverschließende Eingriffe, z. B. Embolisation, Coiling",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Interventionelle Neuroradiologie/bildgeführte minimal-invasive Therapie",
+      "handlungskompetenz": "- perkutane Therapie oder Biopsie bei Gefäßmissbildungen, Tumoren oder bei Schmerzzuständen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Interventionelle Neuroradiologie/bildgeführte minimal-invasive Therapie",
+      "kognitive_und_methodenkompetenz": "Indikationen und Technik der Vertebroplastie"
+    }
+  ]
+}

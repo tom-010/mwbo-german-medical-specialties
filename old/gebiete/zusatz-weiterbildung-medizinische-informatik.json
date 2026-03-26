@@ -1,0 +1,213 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Medizinische Informatik",
+  "bezeichnung": "Zusatz-Weiterbildung Medizinische Informatik",
+  "definition": "Die Zusatz-Weiterbildung Medizinische Informatik umfasst die systematische Verarbeitung von Informationen in der Medizin durch die Modellierung und Realisierung von informationsverarbeitenden Systemen.",
+  "mindestanforderungen": "24 Monate ärztliche Tätigkeit und zusätzlich 240 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Medizinische Informatik und zusätzlich 480 Stunden in einer Einrichtung der medizinischen Informatik oder in einer IT-Abteilung im Gesundheitswesen, ersetzbar durch eine Projektarbeit bei einem Weiterbildungsbefugten für Medizinische Informatik und zusätzlich Medizinische Informatik gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Angewandte Informatik",
+      "kognitive_und_methodenkompetenz": "IT-Infrastrukturkomponenten, z. B. Rechnernetze, Betriebssysteme, Telematikinfrastruktur"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "kognitive_und_methodenkompetenz": "Programmiersprachen und Webservices z. B. XML, JSON, Java, SOAP"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "kognitive_und_methodenkompetenz": "IT-Servicemanagement"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "handlungskompetenz": "Planung, Entwicklung und Auswahl von Anwendungssystemen"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "handlungskompetenz": "Einsatz von Vorgehensmodellen im Software Engineering"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "handlungskompetenz": "Modellierung von Daten und Prozessen"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "handlungskompetenz": "Anwendung und Abfrage von relationalen Datenbanken"
+    },
+    {
+      "abschnitt": "Angewandte Informatik",
+      "handlungskompetenz": "Anwendung von Methoden der Anforderungsanalyse"
+    },
+    {
+      "abschnitt": "Datenschutz und Datensicherheit",
+      "kognitive_und_methodenkompetenz": "Rechtliche Grundlagen, z. B. Datenschutzgrundverordnung, Medizinproduktegesetz, Arzneimittelgesetz"
+    },
+    {
+      "abschnitt": "Datenschutz und Datensicherheit",
+      "kognitive_und_methodenkompetenz": "Prinzipien und Maßnahmen zur Gewährleistung des Datenschutzes"
+    },
+    {
+      "abschnitt": "Datenschutz und Datensicherheit",
+      "handlungskompetenz": "Umsetzung datenschutzkonformer Lösungen in Versorgung und Forschung"
+    },
+    {
+      "abschnitt": "Datenschutz und Datensicherheit",
+      "handlungskompetenz": "Erstellung eines Datenschutzkonzeptes"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "kognitive_und_methodenkompetenz": "Fachterminologie der medizinischen Informatik, z. B. Systematized Nomenclature of Medicine - Clinical Terms (SNOMED-CT)"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "kognitive_und_methodenkompetenz": "Dokumentationssysteme"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "handlungskompetenz": "Planung und Entwicklung von Dokumentationssystemen, z. B. medizinische Register, Krebsregister, Infektionsschutzmeldungen, Qualitätssicherungssysteme"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "handlungskompetenz": "Anwendung von Ordnungssystemen, Klassifikationen oder Ontologien, davon"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "handlungskompetenz": "- im Rahmen der medizinischen Dokumentation, z. B. Arztbrief, Medikationsplan, Notfalldaten, Akten, Impfplan, SNOMED-CT, LOINC, UCUM, TNM, ICD-O, ICF"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "handlungskompetenz": "- im Rahmen der administrativen Dokumentation, z. B. OPS, ICD-10-GM, EBM, DRG, Qualitätssicherung nach § 137 SGB V"
+    },
+    {
+      "abschnitt": "Medizinische Dokumentation",
+      "handlungskompetenz": "- im Rahmen von Public Health (Big Data), z. B. Todesursachen, Infektionsschutz, Pharmakovigilanz, GMDN, ATC, ICD-10-WHO"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "kognitive_und_methodenkompetenz": "Medizinische Informations- und Kommunikationssysteme, insbesondere"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "kognitive_und_methodenkompetenz": "- Krankenhausinformationssysteme und klinische Arbeitsplatzsysteme, z. B. Intensivmedizin, Anästhesiologie"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "kognitive_und_methodenkompetenz": "- Arztpraxisinformationssysteme"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "kognitive_und_methodenkompetenz": "- Informationssysteme von Funktionsabteilungen wie Radiologie, Labor, Endoskopie"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "kognitive_und_methodenkompetenz": "Aufbau- und Ablauforganisation von Dienstleistungseinheiten, IT-Servicemanagement, z. B. ITIL"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "handlungskompetenz": "Erstellung von Rahmenkonzepten"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "kognitive_und_methodenkompetenz": "IT-Standards und Interoperabilität, z. B. ISO, DIN, HL7, IHE"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "handlungskompetenz": "Evaluation von Informations- und Kommunikationssystemen, z. B. Usability"
+    },
+    {
+      "abschnitt": "Informations- und Kommunikationssysteme",
+      "handlungskompetenz": "Nutzungs- und Parametriererfahrungen bei branchenspezifischen Anwendungssystemen"
+    },
+    {
+      "abschnitt": "Telemedizin und Telematik",
+      "kognitive_und_methodenkompetenz": "Elektronische Akten und patientenzentrierte Anwendungen (Consumer Health Care IT), z. B. APP-Anwendungen, Ambient Assisted Living (AAL)"
+    },
+    {
+      "abschnitt": "Telemedizin und Telematik",
+      "kognitive_und_methodenkompetenz": "Anwendungen der elektronischen Gesundheitskarte"
+    },
+    {
+      "abschnitt": "Telemedizin und Telematik",
+      "kognitive_und_methodenkompetenz": "Organisatorische, juristische, ethische und technische Aspekte von telemedizinischen Anwendungen"
+    },
+    {
+      "abschnitt": "Informationsmanagement",
+      "kognitive_und_methodenkompetenz": "Anwendungssysteme in der Forschung"
+    },
+    {
+      "abschnitt": "Informationsmanagement",
+      "handlungskompetenz": "Nutzung von Routine- und Registerdaten in der Versorgungsforschung"
+    },
+    {
+      "abschnitt": "Informationsmanagement",
+      "handlungskompetenz": "Datenmanagement, Datenintegration, z. B. Algorithmen, Datenstrukturen"
+    },
+    {
+      "abschnitt": "Informationsmanagement",
+      "handlungskompetenz": "Etablierung von IT-Strukturen im Rahmen von medizinischen Forschungsprojekten, z. B. in klinischen Studien"
+    },
+    {
+      "abschnitt": "Informationsmanagement",
+      "kognitive_und_methodenkompetenz": "E-Learning, Blended Learning"
+    },
+    {
+      "abschnitt": "Entscheidungsunterstützung",
+      "kognitive_und_methodenkompetenz": "Präzisionsmedizin"
+    },
+    {
+      "abschnitt": "Entscheidungsunterstützung",
+      "kognitive_und_methodenkompetenz": "Wissensbasen und Systeme zur Therapiesicherheit, z. B. Wissensmanagement"
+    },
+    {
+      "abschnitt": "Entscheidungsunterstützung",
+      "kognitive_und_methodenkompetenz": "Health Technology Assessment (HTA)"
+    },
+    {
+      "abschnitt": "Entscheidungsunterstützung",
+      "handlungskompetenz": "Beratung zu Therapieoptionen aufgrund wissenschaftlicher Erkenntnisse (Schlussfolgerungsverfahren)"
+    },
+    {
+      "abschnitt": "Bild- und Biosignalverarbeitung",
+      "kognitive_und_methodenkompetenz": "Modalitäten, z. B. in der Radiologie"
+    },
+    {
+      "abschnitt": "Bild- und Biosignalverarbeitung",
+      "kognitive_und_methodenkompetenz": "Verfahren zur Filterung, Verbesserung und Auswertung"
+    },
+    {
+      "abschnitt": "Management in der Gesundheits-IT",
+      "kognitive_und_methodenkompetenz": "Etablierte Verfahren der Qualitätssicherung, z. B. Medizin-Controlling"
+    },
+    {
+      "abschnitt": "Management in der Gesundheits-IT",
+      "handlungskompetenz": "Prozessmanagement, z. B. Organisation von Behandlungspfaden"
+    },
+    {
+      "abschnitt": "Management in der Gesundheits-IT",
+      "kognitive_und_methodenkompetenz": "Qualitätsmanagement, z. B. IT-Qualitätssicherung, Qualitätssicherung nach § 137 SGB V"
+    },
+    {
+      "abschnitt": "Management in der Gesundheits-IT",
+      "handlungskompetenz": "Mitarbeit an Qualitätsmanagementprojekten, z. B. im Rahmen von Zertifizierungen"
+    },
+    {
+      "abschnitt": "Management in der Gesundheits-IT",
+      "kognitive_und_methodenkompetenz": "IT-Projektmanagement und Vorgehensmodelle, z. B. V-Modell"
+    },
+    {
+      "abschnitt": "Management in der Gesundheits-IT",
+      "kognitive_und_methodenkompetenz": "Risikomanagement von vernetzten Systemen, z. B. ISO 80001"
+    },
+    {
+      "abschnitt": "Biometrie und Epidemiologie in der Medizinischen Informatik",
+      "kognitive_und_methodenkompetenz": "Methoden und Anwendungen bei experimentellen, bevölkerungsbezogenen und klinischen Studien"
+    },
+    {
+      "abschnitt": "Biometrie und Epidemiologie in der Medizinischen Informatik",
+      "kognitive_und_methodenkompetenz": "Planungs- und Auswerteverfahren"
+    },
+    {
+      "abschnitt": "Biometrie und Epidemiologie in der Medizinischen Informatik",
+      "kognitive_und_methodenkompetenz": "Statistik und Statistik-Software, z. B. SPSS"
+    }
+  ]
+}

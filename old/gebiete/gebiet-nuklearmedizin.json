@@ -1,0 +1,365 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Nuklearmedizin",
+  "bezeichnung": "Facharzt/Fachärztin für Nuklearmedizin",
+  "zusatzbezeichnung": "Nuklearmediziner/Nuklearmedizinerin",
+  "gebietsdefinition": "Das Gebiet Nuklearmedizin umfasst die Anwendung radioaktiver Substanzen, sonographischer und kernphysikalischer Verfahren zur Funktions- und Lokalisationsdiagnostik von Organen, Geweben und Systemen, für die Erkennung und Verlaufsbeurteilung von Krankheiten sowie die Behandlung mit offenen Radionukliden sowie die Belange des Strahlenschutzes.",
+  "weiterbildungszeit": "60 Monate Nuklearmedizin unter Befugnis an Weiterbildungsstätten, davon können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in Radiologie erfolgen können zum Kompetenzerwerb bis zu 6 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Nuklearmedizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Nuklearmedizin",
+      "kognitive_und_methodenkompetenz": "Medizinische Auswirkungen von Strahlenunfällen und deren Behandlung"
+    },
+    {
+      "abschnitt": "Strahlenphysik, Strahlenbiologie und Messtechnik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie, Strahlenphysik und Messtechnik, insbesondere Dosisbegriffe und physikalische und biologische Dosimetrien"
+    },
+    {
+      "abschnitt": "Strahlenphysik, Strahlenbiologie und Messtechnik",
+      "handlungskompetenz": "Durchführung von Dosimetrien"
+    },
+    {
+      "abschnitt": "Strahlenphysik, Strahlenbiologie und Messtechnik",
+      "kognitive_und_methodenkompetenz": "Prinzipien der nuklearmedizinischen Bildentstehung, insbesondere der Detektortechnik, des Tracerprinzips und der Gammaspektrometrie"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Indikationsstellung für nuklearmedizinische Untersuchungs- und Behandlungsverfahren, auch in Abgrenzung zu radiologischen Verfahren"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der nuklearmedizinischen Diagnostik im Kindes- und Jugendalter, insbesondere Auswahl und Dosierung der Radiopharmaka"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Prinzipien der ionisierenden und nichtionisierender Strahlung und des Strahlenschutzes bei der Anwendung am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Reduktionsmöglichkeiten der medizinisch indizierten Strahlenexposition in der Diagnostik"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und bei Begleitpersonen sowie beim Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Diagnostische Referenzwerte"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Qualitätssicherung und Aufzeichnungspflichten"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzung zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    },
+    {
+      "abschnitt": "Radiopharmazie",
+      "handlungskompetenz": "Radiopharmaka-Markierungen einschließlich KIT-Präparation mit α-, ß- und γ -Strahlern, von PET-Tracern unter Berücksichtigung rechtlicher Vorgaben",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Radiopharmazie",
+      "kognitive_und_methodenkompetenz": "Umgang mit offenen radioaktiven Stoffen (Radionukliden) und markierten Radiopharmaka einschließlich der Qualitätskontrolle"
+    },
+    {
+      "abschnitt": "Radiopharmazie",
+      "kognitive_und_methodenkompetenz": "Umgang mit Hybrid-Sonden"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "kognitive_und_methodenkompetenz": "Pharmakologie, Indikationen und Kontraindikationen zur Kontrastmittelgabe in der Diagnostik einschließlich gewebespezifischer Kontrastmittel und deren Kinetik"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "kognitive_und_methodenkompetenz": "Grundlagen radiologischer Kontrastmittel"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "handlungskompetenz": "Konstanz- bzw. Zustandsprüfungen",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Gerätebezogene Qualitätssicherungsmaßnahmen"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Bild- und Datenverarbeitung und deren Archivierung einschließlich Datenakquisition und MRT-Sequenzauswahl"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Prinzipien der Bilddatennachverarbeitung"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Physikalische Grundlagen und praktische Anwendung der Gammakamera und -sonde, der SPECT, PET, CT, MRT und fMRT, Magnetspektroskopie (MRS) sowie der Sonographie"
+    },
+    {
+      "abschnitt": "Nuklearmedizinische Befunderstellung",
+      "handlungskompetenz": "Befundinterpretation unter Berücksichtigung der Quantifizierung und Bewegungsanalyse sowie Erkennung inzidenteller Befunde"
+    },
+    {
+      "abschnitt": "Nuklearmedizinische Befunderstellung",
+      "handlungskompetenz": "Technische Verfahren zur Planung von nuklearmedizinischen Untersuchungen und zur Schwächungskorrektur von nuklearmedizinischen Bilddaten"
+    },
+    {
+      "abschnitt": "Nuklearmedizinische Befunderstellung",
+      "kognitive_und_methodenkompetenz": "Einfluss von Begleiterkrankungen auf die Tracer-Kinetik"
+    },
+    {
+      "abschnitt": "Immunologische Labordiagnostik",
+      "handlungskompetenz": "Durchführung und Auswertung immunometrischer Assays einschließlich Qualitätskontrolle, insbesondere RIA, IRMA, LIA, FIA, EIA",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Immunologische Labordiagnostik",
+      "kognitive_und_methodenkompetenz": "Immunologische in-vitro-Testverfahren, z. B. Bestimmung von Tumormarkern"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "Dreiphasen-Skelettszintigraphie",
+      "richtzahl": 80
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "Entzündungsszintigraphie, auch mittels Positronen-Emissions-Tomographie (PET) bzw. PET in Hybridtechnik",
+      "richtzahl": 70
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "Diagnostik bei entzündlichen und infektiösen Erkrankungen, insbesondere des Skelett- und Gefäßsystems sowie bei Organ- und Weichteilinfekten"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "Bedeutung der Positronen-Emissions-Tomographie (PET)- bzw. der PET/CT-Diagnostik"
+    },
+    {
+      "abschnitt": "Erkrankungen der Schilddrüse",
+      "kognitive_und_methodenkompetenz": "Prävalenz, Prophylaxe, Symptomatik, diagnostische Algorithmen, Labordiagnostik, Therapie und Nachsorge sowie Medikation von benignen, malignen und entzündlichen Schilddrüsenerkrankungen einschließlich deren Funktionsstörungen, auch in der Schwangerschaft"
+    },
+    {
+      "abschnitt": "Erkrankungen der Schilddrüse",
+      "handlungskompetenz": "Sonographie der Schilddrüse",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Erkrankungen der Schilddrüse",
+      "handlungskompetenz": "Sonographie der Halsweichteile",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Erkrankungen der Schilddrüse",
+      "handlungskompetenz": "Schilddrüsenszintigraphie",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Erkrankungen der Schilddrüse",
+      "handlungskompetenz": "Feinnadelpunktion",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Endokrine Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Prävalenz, Symptomatik, diagnostische Algorithmen und Labordiagnostik der endokrinen Erkrankungen einschließlich deren Funktionsstörungen"
+    },
+    {
+      "abschnitt": "Endokrine Erkrankungen",
+      "handlungskompetenz": "Szintigraphie endokriner Organe, insbesondere Nebenschilddrüse und Nebenniere",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Zentrales Nervensystem",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des zentralen Nervensystems, insbesondere Morbus Parkinson, Multisystematrophie, Demenzerkrankungen, Zerebrovaskuläre Insuffizienz und fokale Prozesse"
+    },
+    {
+      "abschnitt": "Zentrales Nervensystem",
+      "handlungskompetenz": "Nuklearmedizinische Untersuchungen des zentralen Nervensystems einschließlich Hirnrezeptor-PET",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Zentrales Nervensystem",
+      "handlungskompetenz": "Hirnperfusionsszintigraphie"
+    },
+    {
+      "abschnitt": "Zentrales Nervensystem",
+      "kognitive_und_methodenkompetenz": "Verfahren zur Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms"
+    },
+    {
+      "abschnitt": "Skelett- und Gelenksystem",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des Skelett- und Gelenksystems, insbesondere Arthrose/Arthritis, Prothesenlockerung und -infekt"
+    },
+    {
+      "abschnitt": "Skelett- und Gelenksystem",
+      "handlungskompetenz": "Nuklearmedizinische Untersuchungen des Skelett-und Gelenksystems",
+      "richtzahl": 800
+    },
+    {
+      "abschnitt": "Kardiovaskuläres System",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des kardiovaskulären Systems, insbesondere Koronare Herzkrankheit, Herzinsuffizienz, Myokardinfarkt und Innervationsstörung"
+    },
+    {
+      "abschnitt": "Kardiovaskuläres System",
+      "handlungskompetenz": "Nuklearmedizinische Untersuchungen des kardiovaskulären Systems, insbesondere Myokardperfusionsszintigraphie mit körperlicher oder medikamentöser Belastung einschließlich quantifizierter Auswertung",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Respirationssystem",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des Respirationssystems, insbesondere bei Lungenarterienembolie und präoperativer Lungenfunktionsüberprüfung"
+    },
+    {
+      "abschnitt": "Respirationssystem",
+      "handlungskompetenz": "Nuklearmedizinische Untersuchungen des respiratorischen Systems, insbesondere Lungenperfusions- und -ventilationsszintigraphie",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Gastrointestinaltrakt",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des Gastrointesti-naltraktes, insbesondere Motilitätsstörungen des Magen-Darmtraktes und Blutungen"
+    },
+    {
+      "abschnitt": "Gastrointestinaltrakt",
+      "handlungskompetenz": "Szintigraphie des Gastrointestinaltraktes",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Gastrointestinaltrakt",
+      "kognitive_und_methodenkompetenz": "Prinzipien der Leberfunktionsszintigraphie und der Szintigraphie mit radioaktiv markierten Erythrozyten"
+    },
+    {
+      "abschnitt": "Urogenitalsystem",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des Urogenitalsystems, insbesondere bei Abflussbehinderungen, Anlagestörungen und zur Bestimmung der Nierenfunktion (Clearance-Bestimmung) auch als Captopril-Szintigraphie"
+    },
+    {
+      "abschnitt": "Urogenitalsystem",
+      "handlungskompetenz": "Nuklearmedizinische Untersuchungen des Urogenitalsystems, insbesondere Nierenfunktionsszintigraphie",
+      "richtzahl": 250
+    },
+    {
+      "abschnitt": "Urogenitalsystem",
+      "handlungskompetenz": "Richtungsweisende sonographische Untersuchungen des Retroperitoneums und der Urogenitalorgane"
+    },
+    {
+      "abschnitt": "Hämatologie/Lymphatisches System",
+      "kognitive_und_methodenkompetenz": "Diagnostik von Erkrankungen des hämatologischen und lymphatischen Systems"
+    },
+    {
+      "abschnitt": "Hämatologie/Lymphatisches System",
+      "handlungskompetenz": "Sentinel-Lymphknotenszintigraphie",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Tumordiagnostik",
+      "kognitive_und_methodenkompetenz": "Diagnostik onkologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Tumordiagnostik",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung, Durchführung und Befunderstellung von Positronen-Emissions-Tomographie (PET) und PET im Rahmen von Hybridtechniken (PET/CT und PET/MRT) verschiedener Tumorentitäten",
+      "richtzahl": 1000
+    },
+    {
+      "abschnitt": "Tumordiagnostik",
+      "handlungskompetenz": "Tumorspezifische und unspezifische Szintigraphie, planare Szintigraphie, SPECT, Ganzkörperszintigraphie",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Tumordiagnostik",
+      "handlungskompetenz": "Richtungsweisende Sonographie des Abdomens"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von MRT-Untersuchungen"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Auswahl und mögliche Modifikation von Sequenzprotokollen für alle Körperregionen und untersuchungstypischen Techniken und Verfahren einschließlich der Wahl der geeigneten Kontrastmittel"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Prinzipien von Magnetfeldstärke, Gradientenstärke, Orts- und Zeitauflösung"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Gerätebezogene Sicherheitsvorschriften in Bezug auf Personal und Patienten"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Typische Artefakte in der MRT und ihre Ursachen"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Gefäßdarstellung und funktioneller MRT-Techniken"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Prinzipien der Spektroskopie und spektroskopischen Bildgebung"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Indikation für PET/MRT im Kontext multimodaler Bildgebung"
+    },
+    {
+      "abschnitt": "Magnetresonanztomographie einschließlich Magnetresonanzspektroskopie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der MRT-basierten Erstellung der Schwächungskorrekturmatrix und die Bedeutung für die PET-Quantifizierung"
+    },
+    {
+      "abschnitt": "Therapie mit Radioisotopen und Radiopharmaka",
+      "handlungskompetenz": "Festlegung der therapeutischen Dosis"
+    },
+    {
+      "abschnitt": "Therapie mit Radioisotopen und Radiopharmaka",
+      "kognitive_und_methodenkompetenz": "Auswahl und Bewertung von Dosiskonzepten"
+    },
+    {
+      "abschnitt": "Therapie mit Radioisotopen und Radiopharmaka",
+      "kognitive_und_methodenkompetenz": "Toxizitätsermittlung und -prävention"
+    },
+    {
+      "abschnitt": "Therapie mit Radioisotopen und Radiopharmaka",
+      "kognitive_und_methodenkompetenz": "Kombinationstherapien, z. B. Behandlung mit Tyrosinkinaseinhibitoren"
+    },
+    {
+      "abschnitt": "Radiojodtherapie benigner Schilddrüsenerkrankungen",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen benigner Schilddrüsenerkrankungen, insbesondere der funktionellen Autonomie und der Autoimmunthyreopathien"
+    },
+    {
+      "abschnitt": "Radiojodtherapie benigner Schilddrüsenerkrankungen",
+      "handlungskompetenz": "Therapie benigner Schilddrüsenerkrankungen",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Radiojodtherapie benigner Schilddrüsenerkrankungen",
+      "handlungskompetenz": "Durchführung und Auswertung von Radiojodtests",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Radiojodtherapie maligner Schilddrüsenerkrankungen",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen maligner Schilddrüsenerkrankungen, insbesondere differenzierter Schilddrüsenkarzinome"
+    },
+    {
+      "abschnitt": "Radiojodtherapie maligner Schilddrüsenerkrankungen",
+      "handlungskompetenz": "Therapie maligner Schilddrüsenerkrankungen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Selektive radionuklidbasierte Tumortherapie",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen onkologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Selektive radionuklidbasierte Tumortherapie",
+      "handlungskompetenz": "Selektive radionuklidbasierte Therapie",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Selektive radionuklidbasierte Tumortherapie",
+      "kognitive_und_methodenkompetenz": "Selektive interne Radiotherapie (SIRT), Peptidradiorezeptortherapie (PRRT), Therapieverfahren mit 90Yttrium und Radioimmuntherapie (RIT)"
+    },
+    {
+      "abschnitt": "Sonstige radionuklidbasierte Therapien",
+      "kognitive_und_methodenkompetenz": "Alternative Verfahren zu Radiosynoviorthese (RSO), Radionuklidtherapie von Knochenmetastasen und endovaskuläre Brachytherapie (EVBT)"
+    }
+  ]
+}

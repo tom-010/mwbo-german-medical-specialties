@@ -1,0 +1,504 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Chirurgie",
+  "bezeichnung": "Facharzt/Fachärztin für Kinder- und Jugendchirurgie",
+  "zusatzbezeichnung": "Kinder- und Jugendchirurg/Kinder- und Jugendchirurgin",
+  "gebietsdefinition": "Das Gebiet Chirurgie umfasst die Vorbeugung, Erkennung, konservative und operative Behandlung, Nachsorge und Rehabilitation von chirurgischen Erkrankungen, Verletzungen und Verletzungsfolgen sowie angeborenen und erworbenen Formveränderungen und Fehlbildungen der Gefäße, der inneren Organe einschließlich des Herzens, der Stütz- und Bewegungsorgane sowie der Wiederherstellungs- und Transplantationschirurgie.",
+  "weiterbildungszeit": "72 Monate im Gebiet Chirurgie unter Befugnis an Weiterbildungsstätten, davon müssen 48 Monate in Kinder- und Jugendchirurgie abgeleistet werden müssen 6 Monate in der Notfallaufnahme abgeleistet werden müssen 6 Monate in der intensivmedizinischen Versorgung von Kindern und Jugendlichen abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Lagerungstechniken, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Techniken der temporären Ruhigstellung und Fixationsverbände"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Defektdeckung bei akuten und chronischen Wunden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Tumortherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Scoresysteme und Risikoeinschätzung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Mitbehandlung bei septischen Krankheitsbildern"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Legen eines transurethralen und/oder suprapubischen Katheters"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Embryologie und Klassifikation typischer kinderchirurgischer Krankheitsbilder"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der neurologischen und sozialen Entwicklung im Kindes- und Jugendalter"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Ernährung im Säuglings- und Kleinkindalter"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Prävention, typische Symptomatik, Früherkennung und Differentialdiagnostik kinderchirurgischer Krankheitsbilder einschließlich Beratung zur Unfallprävention im Kindes- und Jugendalter"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Berufsgenossenschaftliche Heilverfahren einschließlich Durchgangsarztverfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung",
+      "richtzahl": 3
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Arzneimitteltherapie im Kindesalter"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "handlungskompetenz": "Zusammenarbeit mit Selbsthilfegruppen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendchirurgie",
+      "kognitive_und_methodenkompetenz": "Transition im Kontext der zugrunde liegenden Erkrankung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Klinische Untersuchung bei Kindern und Jugendlichen unter Beachtung der Besonderheiten unterschiedlicher Altersgruppen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Typische, krankheitsspezifische Laborkonstellationen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Funktionsuntersuchungen, insbesondere pH-Metrie, Urodynamik, Rektummanometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Tracheobronchoskopie und Koloskopie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation konventioneller Röntgenuntersuchungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung der intraoperativen radiologischen Befundkontrolle"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Diagnostische und interventionelle Möglichkeiten von CT, MRT und Angiographie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung von Ultraschalluntersuchungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- des Abdomens und des Retroperitoneums",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- der Urogenitalorgane",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- von Weichteilen und des Bewegungsapparats",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- durch die offene Fontanelle",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Ultraschalluntersuchung der Säuglingshüfte"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ösophago-Gastro-Duodenoskopie einschließlich Probenentnahme und Entfernung von Fremdkörpern",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Rektosigmoidoskopie einschließlich Probenentnahme und Entfernung von Fremdkörpern",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "handlungskompetenz": "Altersspezifische Infusionstherapie, enterale und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "handlungskompetenz": "Indikationsstellung zur konservativen/operativen Therapie einschließlich Beratung"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen und Grundlagen der Beratung bei pränatal festgestellten Fehlbildungen"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "handlungskompetenz": "Abklärung peri- und postoperativer Schmerzzustände und Schmerztherapie unter differenziertem Einsatz verschiedener Methoden, z. B. patientengesteuerte Analgesie (PCA)"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "kognitive_und_methodenkompetenz": "Grundlagen der prä- und postoperativen Betreuung von Früh- und Neugeborenen"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Intensivtherapie im Kindesalter"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "kognitive_und_methodenkompetenz": "Altersspezifische Nachsorge und Langzeitbetreuung nach kinderchirurgischen Eingriffen"
+    },
+    {
+      "abschnitt": "Prä- und postoperative Behandlung",
+      "handlungskompetenz": "Einleitung physikalischer Therapien und rehabilitativer Maßnahmen"
+    },
+    {
+      "abschnitt": "Kinderchirurgische Notfälle",
+      "handlungskompetenz": "Erstversorgung von Platz-, Schnitt-, Stich- und Bisswunden sowie ausgedehnten Weichteilverletzungen"
+    },
+    {
+      "abschnitt": "Kinderchirurgische Notfälle",
+      "kognitive_und_methodenkompetenz": "Pädiatrische Differentialdiagnosen im Notfall"
+    },
+    {
+      "abschnitt": "Kinderchirurgische Notfälle",
+      "handlungskompetenz": "Kindspezifisches Traumamanagement und Reanimation"
+    },
+    {
+      "abschnitt": "Kinderchirurgische Notfälle",
+      "handlungskompetenz": "Legen von Drainagen, insbesondere Thoraxdrainagen"
+    },
+    {
+      "abschnitt": "Kinderchirurgische Notfälle",
+      "handlungskompetenz": "Durchführung von Punktionen, insbesondere Gelenkpunktionen"
+    },
+    {
+      "abschnitt": "Kinderchirurgische Notfälle",
+      "handlungskompetenz": "Lokal- und Regionalanästhesie, Analgesie und Sedierung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Einleitung von Maßnahmen bei Kindswohlgefährdung, Vernachlässigung, Misshandlung und sexuellem Missbrauch"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Diagnostik und Therapie des leichten und mittelschweren Schädel-Hirn-Traumas"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "kognitive_und_methodenkompetenz": "Schweres Schädel-Hirn-Trauma"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "kognitive_und_methodenkompetenz": "Entlastung epi- und subduraler Blutungen"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "kognitive_und_methodenkompetenz": "Wachstums- und altersspezifische Besonderheiten knöcherner Verletzungen einschließlich wachstumsspezifischer Korrekturprozesse"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Indikationsstellung zur altersspezifischen Behandlung knöcherner Verletzungen im Kindes-und Jugendalter"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Konservative Frakturbehandlung einschließlich geschlossener Repositionen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Reposition und Osteosynthese von Frakturen, davon"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "- diaphysär",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "- meta- und epiphysär",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Metallentfernungen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Konservative Therapie von parenchymatösen Organverletzungen"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "kognitive_und_methodenkompetenz": "Operative Therapie von parenchymatösen Organverletzungen"
+    },
+    {
+      "abschnitt": "Kopf und Hals",
+      "kognitive_und_methodenkompetenz": "Behandlungsprinzipien des Hydrocephalus, insbesondere der temporären und permanenten Ableitung sowie Management der Ableitungsinfektion und -dysfunktion"
+    },
+    {
+      "abschnitt": "Kopf und Hals",
+      "kognitive_und_methodenkompetenz": "Ohrmuscheldysplasie"
+    },
+    {
+      "abschnitt": "Kopf und Hals",
+      "handlungskompetenz": "Exstirpation gutartiger Tumore, z. B. Dermoide, Ohranhängsel",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Kopf und Hals",
+      "handlungskompetenz": "Exstirpation von Halsfisteln, Halszysten und Lymphknoten",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Kopf und Hals",
+      "kognitive_und_methodenkompetenz": "Tracheostomaanlage und -versorgung"
+    },
+    {
+      "abschnitt": "Kopf und Hals",
+      "handlungskompetenz": "Behandlung des muskulären Schiefhalses"
+    },
+    {
+      "abschnitt": "Thorax",
+      "kognitive_und_methodenkompetenz": "Angeborene Fehlbildungen der Lunge und der Thoraxwand"
+    },
+    {
+      "abschnitt": "Thorax",
+      "kognitive_und_methodenkompetenz": "Persistierender Ductus arteriosus (Botalli)"
+    },
+    {
+      "abschnitt": "Thorax",
+      "handlungskompetenz": "Thorakotomie als operativer Zugangsweg, diagnostische Thorakoskopie, atypische Lungenresektion",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Thorax",
+      "handlungskompetenz": "Erste Assistenz bei anatomischer Lungenresektion, therapeutische Thorakotomie und Thorakoskopie sowie Brustwandkorrektur",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Thorax",
+      "kognitive_und_methodenkompetenz": "Erkrankungen und Fehlbildungen der Speiseröhre, insbesondere Ösophagusatresie, Verätzungen, Stenosen und Funktionsstörungen, z. B. Gastroösophagealer Reflux, Achalasie"
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "kognitive_und_methodenkompetenz": "Fehlbildungen und Funktionsstörungen von abdominellen Organen, Bauchwand und Zwerchfell"
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Erste Assistenz bei der Korrektur von Atresien des Gastrointestinaltraktes, Bauchwanddefekten, intestinalen Passage- und Innervationsstörungen und Zwerchfelldefekten",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Eingriffe in der Bauchhöhle, insbesondere Anlage Anus praeter, Darmanastomose, Gastrostomie, explorative Laparoskopie, davon",
+      "richtzahl": 60
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "- bei Säuglingen",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Appendektomie",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Laparotomie als operativer Zugangsweg",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "kognitive_und_methodenkompetenz": "Chirurgisches Management bei nekrotisierender Enterokolitis"
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "kognitive_und_methodenkompetenz": "Operationstechniken der Cholecystektomie, Fundoplicatio, insbesondere laparoskopisch"
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Differentialdiagnostik des akuten Abdomens, z. B. Ileus, Entzündung, Obstipation, Erbrechen, Gastroenteritis"
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Erste Assistenz bei Laparotomien höherer Schwierigkeitsgrade, z. B. Revisionen und abdominelle Tumoroperationen",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Inguinale Herniotomie, davon",
+      "richtzahl": 75
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "- bei Säuglingen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Abdomen und Bauchwand",
+      "handlungskompetenz": "Herniotomie an der vorderen Bauchwand",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "handlungskompetenz": "Diagnostik und konservatives Management kinderurologischer Erkrankungen, insbesondere akutes Skrotum, Maldeszensus testis, Harnwegsinfekte, Hämaturie, Harntransportstörungen, Fehlbildungen"
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "handlungskompetenz": "Kinderurologische Eingriffe, insbesondere Vorhautkorrektur, Hodenfreilegung, Meatotomie, Anlage einer temporären Harnableitung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "handlungskompetenz": "Orchidopexie einschließlich Funikolyse",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "handlungskompetenz": "Zystoskopie",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "kognitive_und_methodenkompetenz": "Harnröhrenfehlbildungen und Harntransportstörungen"
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "handlungskompetenz": "Erste Assistenz bei der Korrektur von Harnröhrenfehlbildungen, Doppelnieren, Harntransportstörungen und Eingriffen zur Harnableitung, insbesondere Urethralplastik, Nierenbeckenplastik, Ureterozystoneostomie",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Niere, ableitende, Harnwege und Geschlechtsorgane",
+      "kognitive_und_methodenkompetenz": "Sexualdifferenzierungsstörungen (DSD)"
+    },
+    {
+      "abschnitt": "Haut und Weichteile",
+      "handlungskompetenz": "Konservative und operative Therapie entzündlicher Prozesse, insbesondere Abszess und Phlegmone"
+    },
+    {
+      "abschnitt": "Haut und Weichteile",
+      "handlungskompetenz": "Eingriffe an Haut und Weichteilen, insbesondere bei benignen Tumoren, Ganglien, Hautanhängseln sowie Lymphknoten-Biopsie und Muskel-Probeexzision"
+    },
+    {
+      "abschnitt": "Haut und Weichteile",
+      "kognitive_und_methodenkompetenz": "Management thermischer Verletzungen einschließlich Hauttransplantation und Hautersatz"
+    },
+    {
+      "abschnitt": "Haut und Weichteile",
+      "handlungskompetenz": "Behandlung thermischer Verletzungen bis Grad IIb"
+    },
+    {
+      "abschnitt": "Haut und Weichteile",
+      "kognitive_und_methodenkompetenz": "Narben- und Kontrakturbehandlung"
+    },
+    {
+      "abschnitt": "Hand und Fuß",
+      "kognitive_und_methodenkompetenz": "Poly- und Syndaktylien"
+    },
+    {
+      "abschnitt": "Hand und Fuß",
+      "kognitive_und_methodenkompetenz": "Sehnen- und Nervenverletzungen"
+    },
+    {
+      "abschnitt": "Gefäße",
+      "kognitive_und_methodenkompetenz": "Gefäßverletzungen"
+    },
+    {
+      "abschnitt": "Gefäße",
+      "handlungskompetenz": "Anlage von zentralen Venenverweilsystemen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Gefäße",
+      "kognitive_und_methodenkompetenz": "Gefäßtumore, insbesondere Hämangiom und Lymphangiom"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Krankheitsbilder der pädiatrischen Onkologie und ihre Behandlung im Rahmen von Therapieprotokollen, insbesondere operative Behandlungsprinzipien"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

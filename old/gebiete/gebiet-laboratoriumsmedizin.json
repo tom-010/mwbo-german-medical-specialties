@@ -1,0 +1,384 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Laboratoriumsmedizin",
+  "bezeichnung": "Facharzt/Fachärztin für Laboratoriumsmedizin",
+  "zusatzbezeichnung": "Laborarzt/Laborärztin",
+  "gebietsdefinition": "Die Laboratoriumsmedizin umfasst die Unterstützung bei der Erkennung von Krankheiten und ihren Ursachen, bei der Überwachung des Krankheitsverlaufes und bei der Bewertung therapeutischer Maßnahmen durch die Anwendung und Beurteilung morphologischer, chemischer, physikalischer, immunologischer, biochemischer, molekulargenetischer und mikrobiologischer Untersuchungsverfahren von Körperflüssigkeiten, Ausscheidungs- und Sekretionsprodukten sowie anderen Körpermaterialien einschließlich der dazu erforderlichen Funktionsprüfungen und Probennahmen sowie der Beratung von in der Vorsorge und Krankenbehandlung tätigen Ärzten.",
+  "weiterbildungszeit": "60 Monate Laboratoriumsmedizin unter Befugnis an Weiterbildungsstätten, davon müssen 30 Monate in klinischer Chemie, im immunologischen, hämatologischen, hämostaseologischen und molekulargenetischen Labor abgeleistet werden müssen 12 Monate im mikrobiologischen Labor abgeleistet werden müssen 6 Monate im immunhämatologischen Labor abgeleistet werden müssen 12 Monate in der stationären Patientenversorgung abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Laboratoriumsmedizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Laboratoriumsmedizin",
+      "kognitive_und_methodenkompetenz": "Grundsätze des Labormanagements einschließlich der Laborsicherheit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Laboratoriumsmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen laborspezifischer Informations- und Managementsysteme"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Laboratoriumsmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Laboranalysesysteme"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Laboratoriumsmedizin",
+      "handlungskompetenz": "Beratung der anfordernden Ärzte zu den Befunden labormedizinischer Untersuchungen"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "handlungskompetenz": "Erstellung von Standard Operating Procedures (SOP) oder vergleichbaren Qualitätsmanagement-Dokumenten"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "kognitive_und_methodenkompetenz": "Präanalytik, insbesondere Patientenvorbereitung, Probennahme, Probenvorbereitung, Eingangskontrolle, Einflussgrößen, Störfaktoren, Kurz- und Langzeitlagerung sowie Asservierung von Untersuchungsmaterial"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "handlungskompetenz": "Erstellung und Überarbeitung eines Präanalytikleitfadens"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "kognitive_und_methodenkompetenz": "Validierung analytischer Verfahren, insbesondere Spezifität, Sensitivität, Nachweisgrenzen, Interferenzen, Referenzmethoden, Rückführbarkeit, Verschleppung, Störfaktoren, Methodenvergleich und technische Plausibilitätsprüfung"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "handlungskompetenz": "Methodenvalidierung"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "kognitive_und_methodenkompetenz": "Postanalytik, insbesondere präsymptomatische diagnostische Methoden und Risikoberechnungen, Referenzintervalle und biologische Variabilität, prädiktive Werte klinisch-chemischer Kenngrößen einschließlich diagnostischer Sensitivität und Spezifität sowie Penetranz genetischer Merkmale"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "handlungskompetenz": "Labormedizinische Plausibilitätsprüfung, Befunderstellung und fallbezogene Interpretation von Befunden"
+    },
+    {
+      "abschnitt": "Analytik und Einordnung in den medizinischen Kontext",
+      "handlungskompetenz": "Teilnahme an klinischen Visiten",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "kognitive_und_methodenkompetenz": "Zelluläre Diagnostik"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Mikroskopie im Hellfeld, Phasenkontrast und Immunfluoreszenz mit geeigneten Färbeverfahren sowie Durchflusszytometrie"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "kognitive_und_methodenkompetenz": "Trenntechniken, z. B. Chromatographie, Elektrophorese"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundsätze qualitativer Nachweise und quantitativer Bestimmungsmethoden"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Durchführung analytischer Verfahren, insbesondere Photometrie, Spektrometrie, elektrochemische Verfahren, Nukleinsäureanalyse, immunchemische Verfahren"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "handlungskompetenz": "Bestimmung notwendiger Messgrößen und Funktionstests bei hereditären und erworbenen Stoffwechselstörungen und bei Erkrankungen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "Metabolismus und Regulation von"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Kohlenhydraten"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Lipiden und Lipoproteinen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Aminosäuren und Proteinen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Nukleinsäuren"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Porphyrinen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- biogenen Aminen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Eisenstoffwechsel"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Wasser- und Elektrolythaushalt"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Säuren- und Basen-Haushalt und Blutgasen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Vitaminen und Spurenelementen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "Metabolismus und Regulation im Kontext der Erkrankung von"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- exokrinem Pankreas und Verdauungstrakt"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Leber und Galle"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Nieren und abführenden Harnwegen"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Herz-Kreislaufsystem"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Skelett- und Bewegungssystem"
+    },
+    {
+      "abschnitt": "Klinische Chemie",
+      "kognitive_und_methodenkompetenz": "- Zentralnervensystem"
+    },
+    {
+      "abschnitt": "Maligne Tumoren",
+      "kognitive_und_methodenkompetenz": "Screening, Früherkennung, Tumorprädisposition und Entstehung von malignen Tumoren"
+    },
+    {
+      "abschnitt": "Maligne Tumoren",
+      "handlungskompetenz": "Bestimmung von Tumormarkern bei hereditären und sporadischen Tumoren"
+    },
+    {
+      "abschnitt": "Maligne Tumoren",
+      "kognitive_und_methodenkompetenz": "Onkogene und Tumorsuppressorgene"
+    },
+    {
+      "abschnitt": "Maligne Tumoren",
+      "handlungskompetenz": "Nachweis von Tumorzellen und freier DNA im zirkulierenden Blut"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Pharmakologie, insbesondere Pharmakokinetik, Pharmakodynamik, Pharmakogenetik, Bioverfügbarkeit"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "handlungskompetenz": "Planung und Bestimmung von Medikamentenspiegeln (TDM)"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Therapie unter Berücksichtigung individueller genetischer Veranlagung"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "kognitive_und_methodenkompetenz": "Pathomechanismen häufig vorkommender Vergiftungen"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "kognitive_und_methodenkompetenz": "Grundsätze der Bedeutung von Such- und Bestätigungsanalysen"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "handlungskompetenz": "Nachweis häufig vorkommender Gifte, Drogen und Medikamente"
+    },
+    {
+      "abschnitt": "Therapeutisches Drugmonitoring und Toxikologie",
+      "handlungskompetenz": "Labormedizinische Verlaufsbeurteilung von Intoxikationen mittels Anionenlücke, Osmolalität, Cholinesterase und Methämoglobin"
+    },
+    {
+      "abschnitt": "Hämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Hämatopoese und der Hämoglobinvarianten"
+    },
+    {
+      "abschnitt": "Hämatologisches Labor",
+      "handlungskompetenz": "Beurteilung der morphologischen Bestandteile des peripheren Blutbildes und des Knochenmarks"
+    },
+    {
+      "abschnitt": "Hämatologisches Labor",
+      "handlungskompetenz": "Beurteilung manueller mikroskopischer Differentialblutbilder mit pathologischen Zellmustern",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Hämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Immunphänotypisierung und molekulargenetische Diagnostik von hämatologischen Systemerkrankungen"
+    },
+    {
+      "abschnitt": "Hämatologisches Labor",
+      "handlungskompetenz": "Leukozytentypisierung mittels Immunphänotypisierung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Hämostaseologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Hämostase und hämostaseologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Hämostaseologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen antikoagulatorischer und fibrinolytischer Therapie"
+    },
+    {
+      "abschnitt": "Hämostaseologisches Labor",
+      "handlungskompetenz": "Hämostaseologische Diagnostik, insbesondere Bestimmung der Thrombozytenfunktion, Charakterisierung der plasmatischen Gerinnung mittels Globaltests und Bestimmung von Faktorenaktivitäten und -konzentrationen sowie Nachweis von Inhibitoren, Kontrolle gerinnungshemmender Therapien"
+    },
+    {
+      "abschnitt": "Endokrinologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der hereditären und erworbenen Erkrankungen der endokrinen Organe und Systeme"
+    },
+    {
+      "abschnitt": "Endokrinologisches Labor",
+      "handlungskompetenz": "Bestimmung von Parametern zur Erkennung und Verlaufsbeurteilung von Störungen endokriner Systeme, insbesondere der Schilddrüse, der Nebenschilddrüse, der Nebenniere, des Pankreas, der Gonaden, der Plazenta und des Hypothalamus-Hypophysensystems"
+    },
+    {
+      "abschnitt": "Endokrinologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen hormoneller Wirkung und endokriner Regelkreise"
+    },
+    {
+      "abschnitt": "Endokrinologisches Labor",
+      "handlungskompetenz": "Bestimmung von Hormonen bei Kinderwunsch und Schwangerschaft"
+    },
+    {
+      "abschnitt": "Endokrinologisches Labor",
+      "handlungskompetenz": "Beurteilung von Stimulations- und Suppressionstests"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "handlungskompetenz": "Erstellung von autoimmunologischen Befunden (mit je mehr als 2 Parametern)"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "handlungskompetenz": "Bestimmung von Immunglobulinen, Komplementfaktoren, Paraproteinen und Zytokinen"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen des humoralen und zellulären Immunsystems"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der häufigsten immunologischen Erkrankungen sowie von Autoimmunerkrankungen"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der immunmodulatorischen Therapie"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Allergiediagnostik"
+    },
+    {
+      "abschnitt": "Immunologisches und immungenetisches Labor",
+      "handlungskompetenz": "Zelluläre Stimulationstests",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "handlungskompetenz": "Blutgruppenbestimmungen bei Patienten"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen für den Verkehr von Blut und Blutprodukten sowie der Organisation der Blutversorgung im Katastrophenfall"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Führens einer Blutbank"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "handlungskompetenz": "Verträglichkeitsproben"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Management von transfusionsmedizinischen Nebenwirkungen einschließlich deren Therapiemaßnahmen"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "handlungskompetenz": "Bestimmung von irregulären immunhämatologischen Antikörpern und Antigenen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Transplantationsimmunologie und Organspende"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Therapie mit Hämotherapeutika"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "kognitive_und_methodenkompetenz": "Aufbau von Transfusionskommissionen"
+    },
+    {
+      "abschnitt": "Immunhämatologisches Labor",
+      "handlungskompetenz": "Diagnostische und therapeutische Konsiliartätigkeit"
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "handlungskompetenz": "Kulturelle bakteriologische und mykologische Untersuchungen, insbesondere Keimdifferenzierung und Resistenztestung einschließlich Beurteilung sowie molekularbiologische Methoden aus Blut, Sputum, bronchoalveolärer Lavage, Punktaten, Urin, Gewebe, Stuhl, Abstrichen und Kulturmaterial"
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "handlungskompetenz": "Mikroskopische, biochemische, immunologische und molekularbiologische Methoden zum Direktnachweis von Bakterien, Viren, Pilzen und anderen übertragbaren Agenzien"
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "handlungskompetenz": "Infektionsserologischer Nachweis von Antigenen und Antikörpern"
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "kognitive_und_methodenkompetenz": "Symptomatologie, Laboratoriumsdiagnostik und Verlaufsbeurteilung der durch infektiöse Agenzien verursachten Erkrankungen"
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "kognitive_und_methodenkompetenz": "Mikrobiologische, virologische und hygienische Überwachung von Krankenhausbereichen einschließlich der Bewertung therapeutischer und desinfizierender Substanzen"
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "handlungskompetenz": "Auswertung epidemiologischer Erhebungen nosokomialer Infektionen sowie die Erfassung von Erregern und Resistenzen/Multiresistenzen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Infektiologische Untersuchungen",
+      "kognitive_und_methodenkompetenz": "Empfindlichkeitsbestimmungen gegenüber Arznei-und Desinfektionsmitteln"
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Entstehung und Wirkung von Mutationen und Polymorphismen, Genwirkung, molekulare Genetik, formale Genetik und genetische Epidemiologie"
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "kognitive_und_methodenkompetenz": "Methoden molekulargenetischer und klinisch-chemischer Diagnostik und monogen, polygen, multifaktoriell und mitochondrial bedingter Erkrankungen"
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "handlungskompetenz": "Diagnostische genetische Untersuchungen von nativen oder amplifizierten Nukleinsäuren mit verschiedenen Nachweismethoden, z. B."
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "handlungskompetenz": "- allelspezifische Oligonukleotidhybridisierung (ASO)"
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "handlungskompetenz": "- allelspezifische Amplifikation (ASA)"
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "handlungskompetenz": "- Sequenzierung"
+    },
+    {
+      "abschnitt": "Genetische Untersuchungen",
+      "handlungskompetenz": "- Restriktionsfragmentlängenpolymorphismus (RFLP)"
+    }
+  ]
+}

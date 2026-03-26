@@ -1,0 +1,409 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Neurochirurgie",
+  "bezeichnung": "Facharzt/Fachärztin für Neurochirurgie",
+  "zusatzbezeichnung": "Neurochirurg/Neurochirurgin",
+  "gebietsdefinition": "Das Gebiet Neurochirurgie umfasst die Erkennung, operative, perioperative und konservative Behandlung, Nachsorge und Rehabilitation von Erkrankungen, Verletzungen, Verletzungsfolgen und Fehlbildungen des zentralen Nervensystems, seiner Gefäße und seiner Hüllen, des peripheren und vegetativen Nervensystems.",
+  "weiterbildungszeit": "72 Monate Neurochirurgie unter Befugnis an Weiterbildungsstätten, davon müssen 6 Monate in der intensivmedizinischen Versorgung neurochirurgischer Patienten abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "handlungskompetenz": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedener Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "handlungskompetenz": "Defektdeckung bei akuten und chronischen Wunden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "handlungskompetenz": "Betreuung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Scoresysteme und Risikoeinschätzung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Neurochirurgisch relevante neurologische Störungen"
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "Lagerung zur Operation"
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "- kranial",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "- spinal",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "Einrichtung und Durchführung der Neuronavigation",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "Kraniotomien, infra- und supratentoriell"
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "Operative Zugänge zur Wirbelsäule"
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "Lumbale und ventrikuläre Liquordrainage mit und ohne Druckmessung",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Operative Basistechnik",
+      "handlungskompetenz": "Wundverschluss und Wundrevision"
+    },
+    {
+      "abschnitt": "Neurochirurgische Bildgebung und technische Untersuchungsverfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung der intraoperativen radiologischen Befundkontrolle",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Neurochirurgische Bildgebung und technische Untersuchungsverfahren",
+      "handlungskompetenz": "Intraoperativer Ultraschall bei Interventionen und Operationen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Neurochirurgische Bildgebung und technische Untersuchungsverfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Neurochirurgische Bildgebung und technische Untersuchungsverfahren",
+      "handlungskompetenz": "Doppler- und duplexsonographische Untersuchungen intra- und extrazerebraler Gefäße einschließlich transkranieller Dopplersonographie",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Neurochirurgische Bildgebung und technische Untersuchungsverfahren",
+      "handlungskompetenz": "Intraoperatives multimodales Monitoring/Mapping, z. B. Elektromyographie, Nervenleitgeschwindigkeit, evozierte Potentiale, Elektroenzephalographie",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Erkennung, Erstversorgung und Management spontaner und traumatischer neurochirurgischer Notfälle, z. B. Schädelhirntrauma, Blutung, Querschnittssyndrom",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Intensivmedizinische Basisversorgung"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Einleitung und Überwachung frührehabilitativer Maßnahmen"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken, z. B. intrathekal, urethral, gastral, thorakal"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Tracheotomien"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Durchführung des Verfahrens zur Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms gemeinsam mit einem hierfür qualifizierten Facharzt"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Neuromonitoring, z. B. Gewebesauerstoffpartialdruck, Hirndurchblutung, Mikrodialyse"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Elektrolyt- und endokrinologisches Management bei neurochirurgischen Krankheitsbildern"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "Intensivmedizinische Behandlung bei"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "- Hirnödem und intrakraniellem Druckanstieg einschließlich Vasospasmus"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "- Liquorzirkulationsstörung mit Ventrikeldrainage-System einschließlich Entwöhnung/Indikation zur Shuntanlage"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "- Status epilepticus"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "- intrakraniellen und spinalen Infektionen"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "- akuten Läsionen des zentralen Nervensystems einschließlich der akuten Querschnittslähmung"
+    },
+    {
+      "abschnitt": "Neurochirurgische Intensivmedizin",
+      "handlungskompetenz": "- postoperativen Verläufen"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "kognitive_und_methodenkompetenz": "Entzündungen und Infektionen in der Neurochirurgie"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "handlungskompetenz": "Konservative Therapie neurochirurgischer Infektionen"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "handlungskompetenz": "Operative Therapie neurochirurgischer Infektionen, z. B. Abszesse, Empyeme, Wundheilungsstörungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Funktionelle Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Neurochirurgisch-funktionelle Therapien einschließlich der interdisziplinären Entscheidungsfindung"
+    },
+    {
+      "abschnitt": "Funktionelle Neurochirurgie",
+      "handlungskompetenz": "Erkennung und Therapie von Komplikationen einer funktionellen Therapie"
+    },
+    {
+      "abschnitt": "Funktionelle Neurochirurgie",
+      "handlungskompetenz": "Neurochirurgische Operationen bei Schmerzkrankheit"
+    },
+    {
+      "abschnitt": "Funktionelle Neurochirurgie",
+      "handlungskompetenz": "Adjustierung von Implantaten"
+    },
+    {
+      "abschnitt": "Epilepsiechirurgie",
+      "kognitive_und_methodenkompetenz": "Implantation von Elektrodenarrays"
+    },
+    {
+      "abschnitt": "Epilepsiechirurgie",
+      "kognitive_und_methodenkompetenz": "Epilepsiechirurgische Eingriffe einschließlich Mapping"
+    },
+    {
+      "abschnitt": "Neurochirurgische Schmerztherapie",
+      "handlungskompetenz": "Neurochirurgisch-invasive Schmerztherapie, z. B. Bildwandler/CT gestützte periradikuläre und Facetteninfiltration, Iliosakralgelenksinfiltration, Thermokoagulation oder Kryoläsion, epidurale Rückenmarksstimulation (SCS), Schmerzpumpen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Neurochirurgische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Verfahren der neurochirurgischen Schmerztherapie, z. B. neurovaskuläre Dekompression, destruierende Verfahren, Nervenwurzelhinterstrangeintrittszonen-(DREZ)Läsion, Chordotomie, Stimulationsverfahren, zentrale Neurostimulationsverfahren, neurolytische Verfahren"
+    },
+    {
+      "abschnitt": "Neurochirurgische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Einstellung von Stimulatoren"
+    },
+    {
+      "abschnitt": "Neurochirurgische Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Implantation, Befüllen und Programmieren von Pumpen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlentherapie und Radiochirurgie"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen",
+      "kognitive_und_methodenkompetenz": "Extra- und intrazerebrale Tumore einschließlich der Kalotte, der Schädelbasis, der Orbita, des Rückenmarks sowie der Hüllräume und der peripheren Nerven"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen",
+      "handlungskompetenz": "Prä- und postoperative Behandlung von Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen",
+      "handlungskompetenz": "Operationen bei intrakraniellen und intraduralen Tumoren einschließlich endoskopischer Eingriffe an der Schädelbasis, davon",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen",
+      "handlungskompetenz": "- diagnostische Eingriffe, z. B. rahmen- oder neuronavigationsgestützte stereotaktische Biopsien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Tumorerkrankungen des Gehirns, des Rückenmarks und deren Hüllstrukturen",
+      "handlungskompetenz": "Mitwirkung bei der systemischen Tumortherapie sowie der supportiven Therapie bei soliden Tumorerkrankungen der Facharztkompetenz"
+    },
+    {
+      "abschnitt": "Neurochirurgische Nachbehandlung und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Posttraumatische organische sowie psychische Pathologien"
+    },
+    {
+      "abschnitt": "Neurochirurgische Nachbehandlung und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Kontextorientierte Neurorehabilitation nach individuellen und sozialen Fähigkeiten und Funktionen"
+    },
+    {
+      "abschnitt": "Neurochirurgische Nachbehandlung und Rehabilitation",
+      "handlungskompetenz": "Indikationsstellung und Überwachung physiotherapeutischer, physikalischer, ergotherapeutischer, psychologischer und logopädischer Therapiemaßnahmen"
+    },
+    {
+      "abschnitt": "Neurochirurgische Nachbehandlung und Rehabilitation",
+      "handlungskompetenz": "Bewertung von verbliebenen Fähigkeiten und Monitoring der Erholung sowie des Rehabilitationspotentials, z. B. mittels Barthel-Index"
+    },
+    {
+      "abschnitt": "Neurochirurgische Nachbehandlung und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnostik und Therapieoptionen von Schluckstörungen"
+    },
+    {
+      "abschnitt": "Pädiatrische Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Intrakranielle und spinale Missbildungen und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Pädiatrische Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Pädiatrische Tumoroperationen des zentralen Nervensystems und seiner Hüllorgane sowie der peripheren Nerven"
+    },
+    {
+      "abschnitt": "Hydrozephalus und Fehlbildungen bei Kindern und Erwachsenen",
+      "handlungskompetenz": "Operationen bei Hydrozephalus, Schädel-, Hirn-oder spinalen Fehlbildungen",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Hydrozephalus und Fehlbildungen bei Kindern und Erwachsenen",
+      "handlungskompetenz": "Shunt-Techniken, z. B. ventrikuloperitoneal, ventrikuloatrial, ventrikulopleural, lumboperitoneal"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Operationen von intra-, extraduralen Hämatomen, Liquorfisteln, Impressionsfrakturen, Kranioplastien",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Trepanationstechniken bei Schädelhirntrauma"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Durchführung verschiedener Verfahren der Kranioplastie"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Anlage von Ventrikeldrainagen und intrakranielle Druckmessungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "handlungskompetenz": "Neuromonitoring einschließlich Befunderstellung bei neurophysiologischen Verfahren"
+    },
+    {
+      "abschnitt": "Traumatologie",
+      "kognitive_und_methodenkompetenz": "Traumatische Verletzungen der hirnversorgenden Gefäße einschließlich Carotis-Sinus-cavernosus-Fisteln"
+    },
+    {
+      "abschnitt": "Wirbelsäulen- und Rückenmarkschirurgie",
+      "handlungskompetenz": "Indikationsstellung zur konservativen und chirurgischen Therapie bei Wirbelsäulentrauma"
+    },
+    {
+      "abschnitt": "Wirbelsäulen- und Rückenmarkschirurgie",
+      "handlungskompetenz": "Eingriffe an der zervikalen, thorakalen oder lumbalen Wirbelsäule mit dorsalen, ventralen und dorsoventralen Zugängen zur Halswirbelsäule, Brustwirbelsäule, Lendenwirbelsäule und Sakrum",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Wirbelsäulen- und Rückenmarkschirurgie",
+      "handlungskompetenz": "Mitwirkung bei komplexen Stabilisierungsoperationen degenerativer und traumatischer Wirbelsäulenerkrankungen"
+    },
+    {
+      "abschnitt": "Wirbelsäulen- und Rückenmarkschirurgie",
+      "kognitive_und_methodenkompetenz": "Anlage eines Halo-Fixateurs"
+    },
+    {
+      "abschnitt": "Wirbelsäulen- und Rückenmarkschirurgie",
+      "kognitive_und_methodenkompetenz": "Nervenwurzel- und Rückenmarksdekompression extra- und intraspinaler Tumore, degenerativer, entzündlicher und vaskulärer Prozesse"
+    },
+    {
+      "abschnitt": "Wirbelsäulen- und Rückenmarkschirurgie",
+      "kognitive_und_methodenkompetenz": "Interdisziplinäre Therapieoptionen vaskulärer spinaler Erkrankungen"
+    },
+    {
+      "abschnitt": "Neurochirurgie peripherer Nerven",
+      "kognitive_und_methodenkompetenz": "Klinische und elektrophysiologische Untersuchungen peripherer Nerven und Muskeln"
+    },
+    {
+      "abschnitt": "Neurochirurgie peripherer Nerven",
+      "kognitive_und_methodenkompetenz": "Periphere Kompressionssyndrome, Tumorerkrankungen peripherer Nerven und Traumata der peripheren Nerven und des Plexus brachialis und lumbosacralis"
+    },
+    {
+      "abschnitt": "Neurochirurgie peripherer Nerven",
+      "kognitive_und_methodenkompetenz": "Periphere und vegetative Nervenläsionen sowie Einteilung traumatischer Nervenläsionen"
+    },
+    {
+      "abschnitt": "Neurochirurgie peripherer Nerven",
+      "handlungskompetenz": "Operationen an peripheren Nerven",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Neurochirurgie peripherer Nerven",
+      "kognitive_und_methodenkompetenz": "Konservative und chirurgischen Therapieoptionen einschließlich Rekonstruktionen sowie mikrochirurgischer und endoskopischer Verfahren"
+    },
+    {
+      "abschnitt": "Vaskuläre Neurochirurgie",
+      "handlungskompetenz": "Operationen bei spontanen intrazerebralen Blutungen einschließlich Infarktdekompressionen und Entlastungskraniotomien",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Vaskuläre Neurochirurgie",
+      "handlungskompetenz": "Mitwirkung bei vaskulären Operationen, z. B. Angiomen, Aneurysmen, Cavernomen, Bypasschirurgie, desobliterierende Verfahren der hirnversorgenden Gefäße"
+    },
+    {
+      "abschnitt": "Vaskuläre Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Konservative, offen chirurgische und interventionelle Behandlungsverfahren neurovaskulärer Läsionen und Malformationen sowie deren Indikationen"
+    },
+    {
+      "abschnitt": "Vaskuläre Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Chirurgische Therapieoptionen der zerebralen Ischämie"
+    },
+    {
+      "abschnitt": "Vaskuläre Neurochirurgie",
+      "kognitive_und_methodenkompetenz": "Neurovaskuläre Graduierungssysteme"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Urologie",
+  "bezeichnung": "Facharzt/Fachärztin für Urologie",
+  "zusatzbezeichnung": "Urologe/Urologin",
+  "gebietsdefinition": "Das Gebiet Urologie umfasst die Vorbeugung, Erkennung, Behandlung, Nachsorge und Rehabilitation von Erkrankungen, Funktionsstörungen, Fehlbildungen und Verletzungen des männlichen Urogenitalsystems und der weiblichen Harnorgane.",
+  "weiterbildungszeit": "60 Monate Urologie unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Urologie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Urologie",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie sowie enterale und parenterale Ernährung einschließlich Sondentechnik"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Urologie",
+      "handlungskompetenz": "Lokal- und Regionalanästhesien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Urologie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Urologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen proktologischer Erkrankungen und der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "kognitive_und_methodenkompetenz": "Ursachen, Symptomatik, Management, Verlauf urologischer Notfälle und deren Folgezustände"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "kognitive_und_methodenkompetenz": "Management bei polytraumatisierten Patienten"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Behandlung urologischer Notfälle"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Anlage eines suprapubischen Blasenkatheters",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Anlage eines transurethralen Katheters",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Evakuation einer Blasentamponade",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Blasenfunktionsstörungen",
+      "handlungskompetenz": "Behandlung von Blasenfunktionsstörungen einschließlich Inkontinenz"
+    },
+    {
+      "abschnitt": "Blasenfunktionsstörungen",
+      "handlungskompetenz": "Operative ablative Therapie der Prostatahyperplasie",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Blasenfunktionsstörungen",
+      "handlungskompetenz": "Operative Therapie der Harnröhrenstriktur",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "kognitive_und_methodenkompetenz": "Prävention, Epidemiologie, Bildung, Diagnostik und Metaphylaxe von Harnsteinen"
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "Therapie von Steinerkrankungen, davon"
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- Kolikbehandlung"
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- medikamentöse Steintherapie"
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- Einlage einer Ureterschiene",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- Anlage einer perkutanen Nephrostomie",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- endourologische Eingriffe, davon",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- Ureterorenoskopie"
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "handlungskompetenz": "- perkutane Nephrolitholapaxie"
+    },
+    {
+      "abschnitt": "Steintherapie",
+      "kognitive_und_methodenkompetenz": "Extrakorporale Stoßwellenlithotripsie"
+    },
+    {
+      "abschnitt": "Andrologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Symptome und Diagnostik einschließlich Interpretation bildgebender andrologischer Verfahren und Laboruntersuchungen, z. B. von erektiler Dysfunktion, Peniserkrankungen, Hypogonadismus, Fertilitätsstörungen, Gynäkomastie"
+    },
+    {
+      "abschnitt": "Andrologische Krankheitsbilder",
+      "handlungskompetenz": "Spermiogramme nach WHO-Standard",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Andrologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Sterilisation und (Re-)Fertilisierung des Mannes"
+    },
+    {
+      "abschnitt": "Andrologische Krankheitsbilder",
+      "handlungskompetenz": "Indikationsstellung zur weiterführenden Behandlung bei Sterilität und sonstigen andrologischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Andrologische Krankheitsbilder",
+      "handlungskompetenz": "Andrologisch relevante operative Eingriffe am äußeren Genitale",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Kinderurologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Symptomatik, Diagnostik, medikamentöse und operative Therapie von kindlichen Fehlbildungen, Funktionsstörungen und Neoplasien des Urogenitaltraktes, z. B. Genitalfehlbildungen, Refluxerkrankungen und sexuelle Differenzierungsstörungen"
+    },
+    {
+      "abschnitt": "Kinderurologische Krankheitsbilder",
+      "handlungskompetenz": "Zirkumzisionen",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Kinderurologische Krankheitsbilder",
+      "handlungskompetenz": "Orchidolysen und/oder Orchidopexien",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Kinderurologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Grundlagen von Biofeedbackverfahren und Konditionierungsverfahren bei kindlicher Enuresis"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Vorbeugung, Behandlung und Rehabilitation körperlicher und seelischer Erkrankungen im Alter im urologischen Kontext"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "handlungskompetenz": "Spezielle Therapie von Inkontinenz und Blasenfunktionsstörungen im Alter"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Diagnostik, Therapie und Prognose urologischer Tumorerkrankungen im Alter"
+    },
+    {
+      "abschnitt": "Nierenfunktionsstörungen",
+      "kognitive_und_methodenkompetenz": "Ursachen, Symptome, Stadien, Diagnostik und Therapie bei akutem und chronischem Nierenversagen"
+    },
+    {
+      "abschnitt": "Nierenfunktionsstörungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen und Indikation zur Nierenersatztherapie mit Dialyse und Nierentransplantation"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Diagnostik und stadiengerechte konservative und operative Therapie von Karzinomen der Niere und des Urogenitaltraktes, davon"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Operation beim Nierentumor",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- transurethrale Therapie des Blasentumors",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Ablatio testis bei Hodentumor",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- transrektale sonographisch gesteuerte Prostatabiopsie",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Nebennierentumore und Sarkome des Urogenitaltraktes"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Therapie bei Knochenmetastasen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Störungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen des bio-psycho-sozialen Sexualitätsmodells, der somato- und psychosexuellen Entwicklung über die Lebensspanne, sexueller Traumatisierungen und deren Auswirkungen einschließlich Paarkonflikt-und Beziehungsstörungen"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Störungen",
+      "handlungskompetenz": "Sexualanamnese",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Sexualmedizinische Störungen",
+      "handlungskompetenz": "Diagnostik und Therapie von sexuellen Funktionsstörungen beim Mann"
+    },
+    {
+      "abschnitt": "Sexualmedizinische Störungen",
+      "handlungskompetenz": "Bedarfsgerechte Kommunikation über Sexualität und Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Urethrozystoskopie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Stellenwert nuklearmedizinischer Verfahren, insbesondere Nieren- und Skelettszintigraphie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Röntgenuntersuchungen, insbesondere retrograde Urethrographie, Miktionszysturethrographie, Zystographie, i. v. Urographie, retrograde Ureteropyelographie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung der intraoperativen radiologischen Befundkontrolle"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Untersuchungen von Urin und Ejakulat, insbesondere von quantitativen und semi-quantitativen Urintestverfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Urodynamische Untersuchungen, davon"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- invasiv",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung von Ultraschalluntersuchungen, insbesondere",
+      "richtzahl": 300
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Niere"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Blase"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Hoden"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Penis"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Abdomen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Retroperitoneum"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ultraschallgestützte Interventionen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Transrektale Ultraschalluntersuchungen der Prostata",
+      "richtzahl": 80
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ultraschallgestützte Biopsien",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von urinzytologischen Untersuchungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Erste Assistenz bei Eingriffen höherer Schwierigkeitsgrade, insbesondere radikale Prostatektomie, radikale Zystektomie mit Harnableitung, Nierentumoreingriffe, retroperitoneale Lymphadenektomie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Einleitung funktioneller Rehabilitationsmaßnahmen nach Radikaloperationen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Versorgung bei Harnableitungsverfahren einschließlich Stomaversorgung und -pflege"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Anleitung zu Selbst-/Fremdkatheterismus"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Anleitung zur Inkontinenztherapie, insbesondere Toilettentraining, Urotherapie und Beckenbodentraining"
+    },
+    {
+      "abschnitt": "Prävention",
+      "kognitive_und_methodenkompetenz": "Genese und Bedingungen von Gesundheit und Gesundheitsrisiken von Jungen und Männern"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Durchführung von urologischen Früherkennungsuntersuchungen"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Urinmikroskopische Untersuchungen, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "- nativ"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "- Färbeverfahren"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Diagnostik und Therapie von urogenitalen Infektionen einschließlich sexuell übertragbarer Erkrankungen"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Urinmikrobiologische Kulturverfahren einschließlich Qualitätskontrolle",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung zu chirurgischen, strahlentherapeutischen, interventionellen und nuklearmedizinischen Behandlungsverfahren"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Regelmäßige Teilnahme an interdisziplinären Tumorkonferenzen, davon"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- Falldarstellungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Pharmakologie und Wirkungsweise von medikamentösen Tumortherapien"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Indikationsstellung zur medikamentösen Tumortherapie unter Berücksichtigung von Komorbiditäten"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Planung und Überwachung der medikamentösen Therapie bei Tumorerkrankungen des Fachgebietes einschließlich der Prävention, Erkennung und Behandlung spezifischer Nebenwirkungen von Tumortherapeutika"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Medikamentöse Therapie bei Patienten mit Tumoren des Fachgebietes in Behandlungsfällen, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- zytostatisch"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- zielgerichtet"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- immunmodulatorisch"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- antihormonell"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Aspekte der Nachsorge bei medikamentöser Tumortherapie"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Supportivtherapie und Rehabilitation bei Tumorerkrankungen des Fachgebietes"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Prophylaktische und interventionelle Supportivtherapie, insbesondere Antiemese, Ernährungsberatung und Diätetik einschließlich enteraler und parenteraler Ernährung, Infektionsprophylaxe und Therapie von Infektionen, Antikoagulation"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

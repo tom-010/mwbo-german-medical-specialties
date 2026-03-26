@@ -1,0 +1,25 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Sexualmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Sexualmedizin",
+  "definition": "Die Zusatz-Weiterbildung Sexualmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Erkennung, Behandlung, Prävention und Rehabilitation von Störungen oder Erkrankungen, welche die sexuellen Funktionen, das sexuelle und/oder partnerschaftliche Erleben und Verhalten sowie die geschlechtliche Identität betreffen, auch wenn diese infolge anderer Krankheiten und/oder deren Behandlung auftreten und/oder mit sexuellen Traumatisierungen verbunden sind.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung und zusätzlich 80 Stunden Kurs-Weiterbildung in Psychosomatische Grundversorgung oder Zusatz-Weiterbildung Psychotherapie oder Psychoanalyse und zusätzlich 240 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Sexualmedizin",
+  "inhalte": [
+    {
+      "abschnitt": "Kursinhalte",
+      "text": "Grundlagen der Sexualmedizin"
+    },
+    {
+      "abschnitt": "Kursinhalte",
+      "text": "Indikationsgebiete der Sexualmedizin, Krankheitsbilder und Störungslehre"
+    },
+    {
+      "abschnitt": "Kursinhalte",
+      "text": "Behandlungsprinzipien und Techniken in der Sexualmedizin"
+    },
+    {
+      "abschnitt": "Fallseminare",
+      "text": "Sexualmedizinisch geleitete kasuistisch technische Fallbesprechungen"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Rehabilitationswesen",
+  "bezeichnung": "Zusatz-Weiterbildung Rehabilitationswesen",
+  "definition": "Die Zusatz-Weiterbildung Rehabilitationswesen umfasst in Ergänzung zu einer Facharztkompetenz die Einleitung und Koordination von Rehabilitationsmaßnahmen zur beruflichen und sozialen (Wieder-)Eingliederung im Rahmen interdisziplinärer und interprofessioneller Zusammenarbeit einschließlich der damit zusammenhängenden Begutachtung.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung und zusätzlich 320 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Rehabilitationswesen, davon 160 Stunden Kurs-Weiterbildung in Rehabilitationswesen/Sozialmedizin 160 Stunden Kurs-Weiterbildung in Rehabilitationswesen und zusätzlich Rehabilitationswesen gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Gemeinsame Inhalte für die Zusatz-Weiterbildungen Rehabilitationswesen und Sozialmedizin",
+      "kognitive_und_methodenkompetenz": "Ethische und juristische Aspekte für die Tätigkeit als Sachverständiger"
+    },
+    {
+      "abschnitt": "Gemeinsame Inhalte für die Zusatz-Weiterbildungen Rehabilitationswesen und Sozialmedizin",
+      "handlungskompetenz": "Anwendung des biopsychosozialen Modells der WHO bei der Beurteilung von Funktionsfähigkeit unter Berücksichtigung von Kontextfaktoren sowie Erstellung von Funktionsdiagnosen"
+    },
+    {
+      "abschnitt": "Gemeinsame Inhalte für die Zusatz-Weiterbildungen Rehabilitationswesen und Sozialmedizin",
+      "kognitive_und_methodenkompetenz": "Begriffsbestimmung und Konzepte der Sozial- und Rehabilitationsmedizin einschließlich der Behindertenrechtskonvention der UN"
+    },
+    {
+      "abschnitt": "Gemeinsame Inhalte für die Zusatz-Weiterbildungen Rehabilitationswesen und Sozialmedizin",
+      "kognitive_und_methodenkompetenz": "Begriffsdefinitionen und Abgrenzung der Gesundheitsstrategien Prävention, Kuration, Rehabilitation und Pflege"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Prinzipien des Gesundheits- und Sozialsystems und deren Interaktion"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "handlungskompetenz": "Anwendung des trägerübergreifenden Teilhabebegriffs und Steuerung von trägerspezifischen und trägerübergreifenden Teilhabeleistungen"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Dokumentation, Statistik und Gesundheitsberichterstattung"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Sozialleistungsträger und ihre Aufgaben und Schnittstellen gemäß Sozialgesetzbuch"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "handlungskompetenz": "Anwendung der gesetzlichen Vorschriften und leistungsrechtlichen Begriffe im gegliederten System der sozialen Sicherung"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Strukturen und Aufgaben privater Versicherungen zur sozialen Absicherung"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Leistungsarten und Leistungsformen einschließlich Modellen der Prävention und Gesundheitsförderung"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Organisationen und Institutionen in der Rehabilitation einschließlich Einrichtungen der medizinischen, beruflichen und sozialen Rehabilitation"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Theoriemodelle der Rehabilitation und Grundlagen der internationalen Richtlinien und Empfehlungen zu Behinderung und Rehabilitation"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "Begehung von Einrichtungen, davon",
+      "richtzahl": 6
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "- Betriebe"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "- Rehabilitationseinrichtungen",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "- Berufsförderungswerke"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "- Einrichtungen der sozialen Rehabilitation"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Leistungsformenübergreifende Rehabilitationsplanung, Koordination der Leistungen, interdisziplinäre und intersektorale Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze und Richtlinien, insbesondere Sozialgesetzbuch, Heil- und Hilfsmittelrichtlinien"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Institutionen der rechtlichen Auseinandersetzung, z. B. Schlichtungsstellen, Gerichte sowie deren Arbeitsweise"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "handlungskompetenz": "Gutachtenerstellung in Gerichts- und Schlichtungsverfahren",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "handlungskompetenz": "Gutachtenerstellung nach den Anforderungen der Leistungsträger",
+      "richtzahl": 3
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "handlungskompetenz": "Indikationsstellung und Beratung zu rehabilitativen Leistungen bei Personen mit unterschiedlichen Krankheitsbildern"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "handlungskompetenz": "Erstellung und kontinuierliche Anpassung von Rehabilitationsplänen einschließlich Case Management"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "handlungskompetenz": "Schnittstellenmanagement im Versorgungssystem"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Aufgaben und Interaktion der Berufsgruppen im Rehabilitationsteam"
+    },
+    {
+      "abschnitt": "Begutachtung und Steuerung von Leistungen zur Rehabilitation",
+      "handlungskompetenz": "Leitung und Koordination eines interprofessionellen und patientenzentrierten Rehabilitationsteams einschließlich der Angehörigenarbeit",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Versorgungsformen und Phasenmodelle der Rehabilitation einschließlich der Frührehabilitation, stationärer oder ganztags ambulanter Anschlussrehabilitation sowie Heilverfahren"
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "handlungskompetenz": "Planung, Koordination und Beurteilung von stationären oder ganztags ambulanten Anschlussrehabilitationen und/oder Heilverfahren in Rehabilitationseinrichtungen, insbesondere",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "handlungskompetenz": "- patientenorientierte Rehabilitationsdiagnostik einschließlich indikationsbezogener Auswertung von Assessmentinstrumenten zur Selbst- und Fremdeinschätzung"
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "handlungskompetenz": "- Indikationsstellung, Einleitung und Verlaufsbeurteilung von Therapien"
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Formen und Inhalte der rehabilitativen Langzeitversorgung und Nachsorge"
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "handlungskompetenz": "Planung, Koordination und Beurteilung von Leistungen zur Teilhabe in der Langzeitversorgung von Menschen mit chronischen Krankheiten und langfristigen Behinderungen, insbesondere",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "handlungskompetenz": "- Verordnung von Nachsorgemaßnahmen wie Funktionstraining bzw. Rehabilitationssport"
+    },
+    {
+      "abschnitt": "Medizinische Rehabilitation",
+      "handlungskompetenz": "- Beurteilung des Leistungsvermögens, der Arbeitsunfähigkeit sowie der Pflegebedürftigkeit"
+    },
+    {
+      "abschnitt": "Schulisch-pädagogische, berufliche und soziale Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Versorgungsformen und Zugangskriterien der schulisch-pädagogischen Rehabilitation"
+    },
+    {
+      "abschnitt": "Schulisch-pädagogische, berufliche und soziale Rehabilitation",
+      "handlungskompetenz": "Koordination von Leistungen zur Teilhabe am Leben in der Gemeinschaft in verschiedenen Einrichtungen der sozialen Rehabilitation"
+    },
+    {
+      "abschnitt": "Schulisch-pädagogische, berufliche und soziale Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Grundlagen des betrieblichen Eingliederungsmanagements sowie der Schnittstellen zu anderen präventiven und rehabilitativen Maßnahmen"
+    },
+    {
+      "abschnitt": "Schulisch-pädagogische, berufliche und soziale Rehabilitation",
+      "handlungskompetenz": "Indikationsstellung und Einleitung beruflicher und/oder arbeitsplatzorientierter Rehabilitationsleistungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Technische Hilfen",
+      "kognitive_und_methodenkompetenz": "Technische Hilfen und Hilfsmittel für die Teilhabe am Arbeitsleben sowie für Aktivitäten des täglichen Lebens und der Teilhabe am Leben in der Gemeinschaft"
+    },
+    {
+      "abschnitt": "Technische Hilfen",
+      "handlungskompetenz": "Erarbeitung von individuellen Empfehlungen für technische Hilfen und Adaptationen am Arbeitsplatz und/oder in der Wohnung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Technische Hilfen",
+      "kognitive_und_methodenkompetenz": "Wirkungen und Verordnung körpernaher Hilfsmittel (Orthesen) sowie Grundlagen der Funktionsweise von Prothesen"
+    },
+    {
+      "abschnitt": "Technische Hilfen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Kommunikationstechnologien und assistierter Technologien"
+    }
+  ]
+}

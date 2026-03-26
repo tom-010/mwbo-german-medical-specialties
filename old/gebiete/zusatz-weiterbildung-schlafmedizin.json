@@ -1,0 +1,304 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Schlafmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Schlafmedizin",
+  "definition": "Die Zusatz-Weiterbildung Schlafmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Erkennung, Klassifikation und Behandlung von Störungen der Schlaf-Wach-Regulation und schlafbezogenen Störungen.",
+  "mindestanforderungen": "Facharztanerkennung für Allgemeinmedizin, Hals-Nasen-Ohrenheilkunde, Innere Medizin, Innere Medizin und Kardiologie, Innere Medizin und Pneumologie, Kinder-und Jugendmedizin, Mund-Kiefer-Gesichtschirurgie, Neurologie, Psychosomatische Medizin und Psychotherapie oder Psychiatrie und Psychotherapie und zusätzlich Schlafmedizin gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Physiologie und Pathophysiologie von Schlaf und Wachheit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Schlaf-Wach-Regulation einschließlich chronobiologischer Grundlagen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Atmungsregulation im Schlaf"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Altersspezifische Besonderheiten bei Schlafstörungen, insbesondere pädiatrische und geriatrische Aspekte"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Genderspezifische Besonderheiten bei Schlafstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Beeinflussung von Schlafen und Wachen z. B. durch Neuropeptide, Hormone, Verhalten, Reisen, Medikamente"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Pharmakologie von Substanzen mit schlafanstoßender und schlafstörender Wirkung einschließlich Hypnotika sowie deren Missbrauch"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der schlafmedizinischen Gutachtenerstellung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "handlungskompetenz": "Beurteilung der Fahreignung bei Schlafstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Schlafmedizin",
+      "handlungskompetenz": "Beurteilung des Grades der Behinderung und Erwerbsfähigkeit bei Schlafstörungen"
+    },
+    {
+      "abschnitt": "Insomnien",
+      "kognitive_und_methodenkompetenz": "Formen, Ursachen, Differentialdiagnose, Komorbiditäten und Prävention von Insomnien"
+    },
+    {
+      "abschnitt": "Insomnien",
+      "kognitive_und_methodenkompetenz": "Inadäquate Schlafhygiene"
+    },
+    {
+      "abschnitt": "Insomnien",
+      "handlungskompetenz": "Schlafprotokoll, Fragebögen zur Erfassung insomnischer Symptome"
+    },
+    {
+      "abschnitt": "Insomnien",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Insomnie spezifischen Verhaltenstherapie (Cognitive behavorial therapy for insomnia, CBT-I)"
+    },
+    {
+      "abschnitt": "Insomnien",
+      "kognitive_und_methodenkompetenz": "Grundlagen der verhaltensbedingten Insomnie bei Kindern"
+    },
+    {
+      "abschnitt": "Insomnien",
+      "handlungskompetenz": "Behandlung von Patienten mit Insomnie, insbesondere",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Insomnien",
+      "handlungskompetenz": "- medikamentöse Stufentherapie"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Risikofaktoren, Symptomatik, Differentialdiagnose, Prognose, kardiovaskuläre, verkehrsmedizinische und arbeitsmedizinische Konsequenzen sowie Therapieoptionen der folgenden Erkrankungen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- obstruktives Schlafapnoesyndrom einschließlich Schnarchen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- zentrales Schlafapnoesyndrom einschließlich Cheyne-Stokes Atmung"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- Obesitas-Hypoventilationssyndrom"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- primäre und kongenitale schlafbezogene Hypoventilationssyndrome"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- schlafbezogene Hypoventilationssyndrome bei neuromuskulären, muskuloskelettalen, pulmonalparenchymatösen, pulmonalvaskulären oder extrapulmonalen Erkrankungen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- primäre Säuglingsschlafapnoe"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "- obstruktive Schlafapnoe bei Kindern"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "handlungskompetenz": "Screening zur Erfassung schlafbezogener Atmungsstörungen mittels Fragebögen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von nächtlicher Oxymetrie und Blutgasanalysen, insbesondere bei Hyperkapnie im Wachen und im Schlaf, bei schlafbezogenen Atmungsstörungen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "handlungskompetenz": "Indikationsstellung und Therapie mit Positivdruckverfahren, Nicht-Positivdruckverfahren, Allgemeinmaßnahmen, z. B. Unterkiefer-Protrusionsschienen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "handlungskompetenz": "Beratung und Betreuung von Patienten bezüglich operativer Therapie, insbesondere zu Eingriffen im HNO- und MKG-Bereich"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "kognitive_und_methodenkompetenz": "Myofunktionelle Therapieoptionen einschließlich der Indikation und Abgrenzung der Ventilationstherapie"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atmungsstörungen",
+      "handlungskompetenz": "Nächtliche Überdrucktherapie-Titration einschließlich Evaluation des Behandlungsergebnisses, z. B. CPAP, APAP, Bilevel, adaptive Servo-Ventilation",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Hypersomnien",
+      "kognitive_und_methodenkompetenz": "Narkolepsie"
+    },
+    {
+      "abschnitt": "Hypersomnien",
+      "kognitive_und_methodenkompetenz": "Verhaltensinduziertes Schlafmangelsyndrom sowie andere Hypersomnien zentralen Ursprungs"
+    },
+    {
+      "abschnitt": "Hypersomnien",
+      "handlungskompetenz": "Testverfahren zur Erfassung und Objektivierung von Vigilanzstörungen, Tagesmüdigkeit und Tagesschläfrigkeit bei Hypersomnien, z. B. mittels Selbstbeurteilung, multiplem Schlaflatenztest, multiplem Wachbleibetest, Vigilanztest",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Hypersomnien",
+      "handlungskompetenz": "Pharmakologische und nicht-pharmakologische Differentialtherapie der Hypersomnie und Narkolepsie"
+    },
+    {
+      "abschnitt": "Hypersomnien",
+      "handlungskompetenz": "Behandlung von Patienten mit Narkolepsie mit und ohne Kataplexie einschließlich Hypersomnie",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Zirkadiane Schlaf-Wach-Rhythmusstörungen",
+      "kognitive_und_methodenkompetenz": "Primäre Schlaf-Wach-Rhythmusstörungen"
+    },
+    {
+      "abschnitt": "Zirkadiane Schlaf-Wach-Rhythmusstörungen",
+      "handlungskompetenz": "Beurteilung der Eignung/Nichteignung für Schichtarbeit"
+    },
+    {
+      "abschnitt": "Zirkadiane Schlaf-Wach-Rhythmusstörungen",
+      "handlungskompetenz": "Verhaltensberatung bei Jetlag, verzögerter Schlafphase und anderen zirkadianen Störungen"
+    },
+    {
+      "abschnitt": "Zirkadiane Schlaf-Wach-Rhythmusstörungen",
+      "handlungskompetenz": "Durchführung von Aktigraphie, Schlafprotokoll, Fragebögen bei zirkadianen Schlaf-Wach-Rhythmusstörungen"
+    },
+    {
+      "abschnitt": "Zirkadiane Schlaf-Wach-Rhythmusstörungen",
+      "handlungskompetenz": "Medikamentöse und nicht-medikamentöse Therapie bei zirkadianen Schlaf-Wach-Rhythmusstörungen"
+    },
+    {
+      "abschnitt": "Zirkadiane Schlaf-Wach-Rhythmusstörungen",
+      "kognitive_und_methodenkompetenz": "Lichttherapie"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "Mentale Inhalte im Schlaf, z. B. Träume"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "Non-REM-Parasomnien, z. B. Somnabulismus, Pavor nocturnus, Confusional arousal, Sleep related eating"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "REM-Parasomnien, z. B. Rapid-eye-movement-Schlaf Verhaltensstörungen, Albträume, Schlafparalyse"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "REM-Sleep Behaviour Disorder mit besonderer Relevanz für neurologische Erkrankungen"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "Non-REM-Parasomnien und REM-Parasomnien bei Kindern"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnose und Therapieoptionen bei Parasomnie, auch bei Kindern"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Albtraumtherapie"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "kognitive_und_methodenkompetenz": "Präventive Maßnahmen bei Somnabulismus"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "handlungskompetenz": "Bewertung und Therapie bei Somnabulismus"
+    },
+    {
+      "abschnitt": "Parasomnien",
+      "handlungskompetenz": "Differentialtherapie der REM-Verhaltensstörungen"
+    },
+    {
+      "abschnitt": "Schlafbezogene Bewegungsstörungen",
+      "kognitive_und_methodenkompetenz": "Normale Motorik im Schlaf"
+    },
+    {
+      "abschnitt": "Schlafbezogene Bewegungsstörungen",
+      "kognitive_und_methodenkompetenz": "Rhythmische Bewegungsstörungen im Schlaf, Restless Legs Syndrom und Periodic Limb Movements in Sleep"
+    },
+    {
+      "abschnitt": "Schlafbezogene Bewegungsstörungen",
+      "handlungskompetenz": "Schweregradabschätzung und Therapieindikation bei rhythmischen Bewegungsstörungen im Schlaf"
+    },
+    {
+      "abschnitt": "Schlafbezogene Bewegungsstörungen",
+      "handlungskompetenz": "Dopaminerge Therapie, Therapieeskalation gemäß Schweregrad"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Schlafstörungen bei neurologischen, pneumologischen und psychiatrischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Schlafstörungen bei körperlichen Erkrankungen"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Schlafstörungen bei psychischen Erkrankungen und Demenz"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Pharmakovigilanz und Arzneimitteltherapiesicherheit sowie Arzneimittelmissbrauch bei der Behandlung von Schlafstörungen bei anderen Erkrankungen mit Hypnotika"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "handlungskompetenz": "Therapie von Schlafstörungen bei anderen Erkrankungen mit Hypnotika einschließlich Indikationen und Kontraindikationen"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "handlungskompetenz": "Prävention und nicht-medikamentöse Therapie von Schlafstörungen bei anderen Erkrankungen"
+    },
+    {
+      "abschnitt": "Schlafstörungen bei anderen Erkrankungen",
+      "kognitive_und_methodenkompetenz": "CO2-Antworttest"
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Standardapplikation der Polysomnographie"
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und kontinuierliche Überwachung von Polysomnographien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Klassifikation der Schlafstadien und Ereignisse nach Standard-Empfehlungen"
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "handlungskompetenz": "Interpretation und Befunderstellung von Polysomnographien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Kardiorespiratorische Polygraphie"
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "handlungskompetenz": "Interpretation und Befunderstellung von Polygraphien",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Pupillographischer Schläfrigkeitstest"
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Aktimetrie"
+    },
+    {
+      "abschnitt": "Apparativ-diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Langzeitpulsoximetrie"
+    }
+  ]
+}

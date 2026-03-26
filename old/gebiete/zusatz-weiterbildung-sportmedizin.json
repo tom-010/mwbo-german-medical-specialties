@@ -1,0 +1,109 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Sportmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Sportmedizin",
+  "definition": "Die Zusatz-Weiterbildung Sportmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Beurteilung, Beratung und Betreuung gesunder und kranker Menschen im Kontext von körperlicher Aktivität, Inaktivität sowie Training im Leistungs-, Breiten-, Rehabilitations- und Behindertensport.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung und zusätzlich 320 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Sportmedizin",
+  "inhalte": [
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Energiebereitstellung und Leistungsdiagnostik"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Funktion und Anpassung, Trainingseffekte"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Basiskurs sportmedizinische Untersuchungen (Fokus internistisch, kardiologisch; Vorsorgeuntersuchung)"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Basiskurs sportmedizinische Aspekte des Stütz- und Bewegungsapparates (Untersuchungsverfahren)"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "(Sport-)Orthopädische Aspekte der Wirbelsäule und oberen Extremität"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "(Sport-)Orthopädische Aspekte der unteren Extremität; höhen- und umweltspezifische Aspekte"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Sportmedizinische internistische/kardiologische Grundlagen"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Kardiovaskulärer Schwerpunkt; Herzsport"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Metabolische, endokrinologische und gastrointestinale Schwerpunkte"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Pneumologische, nephrologische und urologische Schwerpunkte"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Onkologische und neurologisch/psychiatrische Schwerpunkte/Sinnesorgane"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Ausgewählte sportmedizinische Aspekte bei Menschen mit Behinderungen und ausgewählten Systemerkrankungen"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Geschlecht und Lebensalter"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Ausgewählte (sport-)pädiatrische Aspekte"
+    },
+    {
+      "abschnitt": "Kursinhalte (240 Stunden)",
+      "text": "Spezielle Aspekte in der Sportmedizin: Sporternährung, Nahrungsergänzungsmittel, Pharmaka und Doping sowie rechtliche und ethische Aspekte, Vereinsbetreuung"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Sportmedizinische Untersuchungsverfahren"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Leistungsdiagnostik und Erstellen von Trainingsplänen"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Sportorthopädische Fälle – Diagnostik, Verletzungen und Trainingskonzepte"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Sportkardiologische Fälle – Diagnostik, Therapie und Trainingskonzepte"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Bewegungstherapie bei metabolischen, endokrinologischen und gastrointestinalen Erkrankungen: Praxisfälle und Trainingskonzepte"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Bewegungstherapie bei pneumologischen, nephrologischen und urologischen Erkrankungen: Praxisfälle und Trainingskonzepte"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Bewegungstherapie bei onkologischen, neurologischen und psychiatrischen Erkrankungen: Praxisfälle und Trainingskonzepte"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Sport- und Bewegungsmedizin für Menschen mit Einschränkungen und Systemerkrankungen: Fallstudien und Therapieansätze"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Geschlechts- und altersgerechte Bewegungs- und Trainingskonzepte"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Sportmedizinische Betreuung von Kindern und Jugendlichen im Freizeit-/Breiten- und Leistungssport"
+    }
+  ]
+}

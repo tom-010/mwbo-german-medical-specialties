@@ -1,0 +1,161 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Hämostaseologie",
+  "bezeichnung": "Zusatz-Weiterbildung Hämostaseologie",
+  "definition": "Die Zusatz-Weiterbildung Hämostaseologie umfasst in Ergänzung zu einer Facharztkompetenz die Erkennung und Behandlung von angeborenen und erworbenen Hämostasestörungen, die zu Thromboembolien und Blutungsstörungen führen können.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung oder in Laboratoriumsmedizin und zusätzlich 12 Monate Hämostaseologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Hämostaseologie"
+    },
+    {
+      "abschnitt": "Wesentliche Gesetze und Richtlinien, insbesondere Transfusionsgesetz und Gendiagnostikgesetz, Richtlinien der Bundesärztekammer zur Qualitätssicherung laboratoriumsmedizinischer Untersuchungen"
+    },
+    {
+      "abschnitt": "Hämostaseologische Labormethoden"
+    },
+    {
+      "abschnitt": "Pharmakologie hämostaseologisch wirksamer Medikamente"
+    },
+    {
+      "abschnitt": "Interdisziplinäre Zusammenarbeit in der Indikationsstellung und Verlaufsbeurteilung hämostaseologisch wirksamer Therapien",
+      "handlungskompetenz": "Interdisziplinäre Zusammenarbeit in der Indikationsstellung und Verlaufsbeurteilung hämostaseologisch wirksamer Therapien"
+    },
+    {
+      "abschnitt": "Hämorrhagische Diathesen"
+    },
+    {
+      "abschnitt": "Angeborene und erworbene plasmatische Gerinnungsstörungen, insbesondere"
+    },
+    {
+      "abschnitt": "- Hämophilie A und B"
+    },
+    {
+      "abschnitt": "- von-Willebrand-Syndrom"
+    },
+    {
+      "abschnitt": "- thrombozytäre Erkrankungen"
+    },
+    {
+      "abschnitt": "- seltene Störungen der Hämostase"
+    },
+    {
+      "abschnitt": "Klinische Differentialdiagnostik einschließlich Befundinterpretation von Labordiagnostik bei unklarer Blutungsneigung",
+      "handlungskompetenz": "Klinische Differentialdiagnostik einschließlich Befundinterpretation von Labordiagnostik bei unklarer Blutungsneigung",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Prophylaktische und therapeutische Substitutionsbehandlung einschließlich der Verlaufsbeurteilung",
+      "handlungskompetenz": "Prophylaktische und therapeutische Substitutionsbehandlung einschließlich der Verlaufsbeurteilung"
+    },
+    {
+      "abschnitt": "Diagnostik und konservative Therapie der Hämophilie-Arthropathie",
+      "handlungskompetenz": "Diagnostik und konservative Therapie der Hämophilie-Arthropathie"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratungen vor und nach prädiktiver Gendiagnostik hämorrhagischer Diathesen",
+      "handlungskompetenz": "Fachgebundene genetische Beratungen vor und nach prädiktiver Gendiagnostik hämorrhagischer Diathesen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Thrombose und Thrombophilie"
+    },
+    {
+      "abschnitt": "Arterielle und venöse Thrombosen und Embolien"
+    },
+    {
+      "abschnitt": "Angeborene und erworbene Thrombophilie"
+    },
+    {
+      "abschnitt": "Heparin-induzierte Thrombozytopenie"
+    },
+    {
+      "abschnitt": "Klinische Differentialdiagnostik einschließlich der Befundinterpretation von Labordiagnostik bei unklarer Thromboseneigung",
+      "handlungskompetenz": "Klinische Differentialdiagnostik einschließlich der Befundinterpretation von Labordiagnostik bei unklarer Thromboseneigung",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Indikationsstellung zu antithrombotischen und thrombolytischen Medikamenten sowie Überwachung der Therapie",
+      "handlungskompetenz": "Indikationsstellung zu antithrombotischen und thrombolytischen Medikamenten sowie Überwachung der Therapie"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratungen vor und nach prädiktiver Gendiagnostik bei Thrombophilie",
+      "handlungskompetenz": "Fachgebundene genetische Beratungen vor und nach prädiktiver Gendiagnostik bei Thrombophilie",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Thrombohämorrhagische Erkrankungen"
+    },
+    {
+      "abschnitt": "Thrombotische Mikroangiopathien"
+    },
+    {
+      "abschnitt": "Disseminierte intravasale Gerinnung"
+    },
+    {
+      "abschnitt": "Therapie mit Blutprodukten"
+    },
+    {
+      "abschnitt": "Plasmatische und rekombinante Blutgerinnungsfaktoren-Konzentrate einschließlich Bypass-Produkte"
+    },
+    {
+      "abschnitt": "Gefrorenes Frischplasma"
+    },
+    {
+      "abschnitt": "Thrombozytenkonzentrate"
+    },
+    {
+      "abschnitt": "Indikationsstellung und klinische Beurteilung der Wirksamkeit der Therapie mit Blutprodukten einschließlich der Überwachung",
+      "handlungskompetenz": "Indikationsstellung und klinische Beurteilung der Wirksamkeit der Therapie mit Blutprodukten einschließlich der Überwachung"
+    },
+    {
+      "abschnitt": "Verlaufsbeurteilung der langfristigen Heimselbsttherapie bei Hämophilie A und B",
+      "handlungskompetenz": "Verlaufsbeurteilung der langfristigen Heimselbsttherapie bei Hämophilie A und B"
+    },
+    {
+      "abschnitt": "Erstellung von Substitutionsplänen zum periprozeduralen Management bei Patienten mit Hämophilie und von-Willebrand-Syndrom",
+      "handlungskompetenz": "Erstellung von Substitutionsplänen zum periprozeduralen Management bei Patienten mit Hämophilie und von-Willebrand-Syndrom",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Hämostaseologische Notfälle und periprozedurales Management"
+    },
+    {
+      "abschnitt": "Periprozeduraler Einsatz von Antikoagulanzien und antithrombozytären Substanzen"
+    },
+    {
+      "abschnitt": "Intoxikation oder Überdosierung von antithrombotischen Substanzen"
+    },
+    {
+      "abschnitt": "Therapieoptionen bei massiven oder rezidivierenden perioperativen Blutungen"
+    },
+    {
+      "abschnitt": "Einsatz von Antidoten"
+    },
+    {
+      "abschnitt": "Konsiliarärztliche Beratung und Mitbetreuung des periprozeduralen Managements bei Patienten unter Therapie mit antithrombozytären Substanzen und/oder bei massiven Blutungen",
+      "handlungskompetenz": "Konsiliarärztliche Beratung und Mitbetreuung des periprozeduralen Managements bei Patienten unter Therapie mit antithrombozytären Substanzen und/oder bei massiven Blutungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung"
+    },
+    {
+      "abschnitt": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    }
+  ]
+}

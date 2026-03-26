@@ -1,0 +1,228 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Infektiologie",
+  "bezeichnung": "Zusatz-Weiterbildung Infektiologie",
+  "definition": "Die Zusatz-Weiterbildung Infektiologie umfasst in Ergänzung zu einer Facharztkompetenz die Vorbeugung, Erkennung und Behandlung erregerbedingter Erkrankungen sowie die interdisziplinäre Beratung bei Fragen, die Infektionskrankheiten oder deren Ausschluss betreffen.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung oder in Mikrobiologie, Virologie und Infektionsepidemiologie oder in Hygiene und Umweltmedizin und zusätzlich 12 Monate Infektiologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Infektionsprävention und Infektionsschutz"
+    },
+    {
+      "abschnitt": "Individuelle und öffentliche Infektionsprävention, Prävention der Übertragung infektiöser Erreger"
+    },
+    {
+      "abschnitt": "Meldung und Dokumentation von Infektionen/Infektionsketten, Mitwirkung bei infektionsepidemiologischen Erhebungen und bei Präventionsplanungen",
+      "handlungskompetenz": "Meldung und Dokumentation von Infektionen/Infektionsketten, Mitwirkung bei infektionsepidemiologischen Erhebungen und bei Präventionsplanungen"
+    },
+    {
+      "abschnitt": "Impfprophylaxe einschließlich Impf-Empfehlungen und Impfpläne, aktive und passive Immunisierung"
+    },
+    {
+      "abschnitt": "Nosokomiale Infektionen"
+    },
+    {
+      "abschnitt": "Screening und Dekolonisation von Infektionserregern einschließlich multiresistenter Erreger"
+    },
+    {
+      "abschnitt": "Behandlung nosokomialer Infektionen",
+      "handlungskompetenz": "Behandlung nosokomialer Infektionen"
+    },
+    {
+      "abschnitt": "Behandlung von Patienten mit Infektionen durch multiresistente Erreger, Meldung und Maßnahmen zur Übertragungsprävention, Dokumentation von Übertragungen und Management von Ausbrüchen",
+      "handlungskompetenz": "Behandlung von Patienten mit Infektionen durch multiresistente Erreger, Meldung und Maßnahmen zur Übertragungsprävention, Dokumentation von Übertragungen und Management von Ausbrüchen"
+    },
+    {
+      "abschnitt": "Infektionsdiagnostik"
+    },
+    {
+      "abschnitt": "Pathomechanismen und Epidemiologie von Bakterien, Pilzen, Parasiten, Viren und anderen infektiösen Agenzien einschließlich ihres lokalisations- und krankheitsspezifischen Erregerspektrums"
+    },
+    {
+      "abschnitt": "Unterscheidung zwischen Kolonisation und Infektion"
+    },
+    {
+      "abschnitt": "Erregerspezifische Prä- und Postanalytik"
+    },
+    {
+      "abschnitt": "Indikationsstellung zu diagnostischen und differentialdiagnostischen Verfahren sowie Auswahl geeigneter Untersuchungsmaterialien",
+      "handlungskompetenz": "Indikationsstellung zu diagnostischen und differentialdiagnostischen Verfahren sowie Auswahl geeigneter Untersuchungsmaterialien"
+    },
+    {
+      "abschnitt": "Verfahren der mikrobiologischen und virologischen Diagnostik, insbesondere zur Identifizierung und Empfindlichkeitstestung"
+    },
+    {
+      "abschnitt": "Interpretation von Untersuchungsergebnissen",
+      "handlungskompetenz": "Interpretation von Untersuchungsergebnissen"
+    },
+    {
+      "abschnitt": "Indikationsstellung und Befundinterpretation bildgebender Verfahren bei Infektionskrankheiten",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation bildgebender Verfahren bei Infektionskrankheiten"
+    },
+    {
+      "abschnitt": "Antiinfektive Prophylaxe/Therapie"
+    },
+    {
+      "abschnitt": "Pharmakologie, Pharmakokinetik und Pharmakodynamik, Wirkungsspektrum, Resistenzentwicklung, Nebenwirkungen und Interaktionen von Antiinfektiva"
+    },
+    {
+      "abschnitt": "Therapieempfehlung, Indikationsstellung sowie Auswahl, Dosierung, Therapiedauer und Applikation von Antiinfektiva",
+      "handlungskompetenz": "Therapieempfehlung, Indikationsstellung sowie Auswahl, Dosierung, Therapiedauer und Applikation von Antiinfektiva"
+    },
+    {
+      "abschnitt": "Bewertung von Konzentrationsmessungen von Antiinfektiva in Körperflüssigkeiten",
+      "handlungskompetenz": "Bewertung von Konzentrationsmessungen von Antiinfektiva in Körperflüssigkeiten"
+    },
+    {
+      "abschnitt": "Interpretation von Resistenzstatistiken"
+    },
+    {
+      "abschnitt": "Bewertung von Resistenztests im klinischen Kontext",
+      "handlungskompetenz": "Bewertung von Resistenztests im klinischen Kontext"
+    },
+    {
+      "abschnitt": "Perioperative antibiotische Prophylaxe"
+    },
+    {
+      "abschnitt": "Antibiotic Stewardship (ABS)"
+    },
+    {
+      "abschnitt": "Prinzipien und Methoden von Antibiotic-Stewardship, Nebeneffekte der antiinfektiven Therapie und deren Prävention"
+    },
+    {
+      "abschnitt": "Bewertung des Antiinfektiva-Verbrauchs",
+      "handlungskompetenz": "Bewertung des Antiinfektiva-Verbrauchs"
+    },
+    {
+      "abschnitt": "Anwendung der Empfehlungen zur Verordnung von Antiinfektiva",
+      "handlungskompetenz": "Anwendung der Empfehlungen zur Verordnung von Antiinfektiva"
+    },
+    {
+      "abschnitt": "Teilnahme am fachübergreifenden Antibiotic-Stewardship-Team",
+      "handlungskompetenz": "Teilnahme am fachübergreifenden Antibiotic-Stewardship-Team"
+    },
+    {
+      "abschnitt": "Infektiologische Notfälle"
+    },
+    {
+      "abschnitt": "Akute lebensbedrohliche Infektionen und infektiologische Notfälle"
+    },
+    {
+      "abschnitt": "Beurteilung des Schweregrads von Infektionen",
+      "handlungskompetenz": "Beurteilung des Schweregrads von Infektionen"
+    },
+    {
+      "abschnitt": "Erkennung von Infektionen mit hoher Kontagiosität",
+      "handlungskompetenz": "Erkennung von Infektionen mit hoher Kontagiosität"
+    },
+    {
+      "abschnitt": "Therapie der Sepsis, auch in interdisziplinärer Zusammenarbeit",
+      "handlungskompetenz": "Therapie der Sepsis, auch in interdisziplinärer Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Systemische und Organ-Infektionen"
+    },
+    {
+      "abschnitt": "Epidemiologie, Vorbeugung, Pathophysiologie, Symptomatik, Erregerspektrum, operative und antimikrobielle Strategien, Wundbehandlung, operative und interventionelle Fokuskontrolle von Infektionskrankheiten"
+    },
+    {
+      "abschnitt": "Interdisziplinäre infektiologische Beratung zu Differentialdiagnostik und Therapieoptionen systemischer und Organ-Infektionen einschließlich der Mitwirkung bei der Erstellung von Behandlungsplänen (infektiologischer Konsiliarservice) in Fällen",
+      "handlungskompetenz": "Interdisziplinäre infektiologische Beratung zu Differentialdiagnostik und Therapieoptionen systemischer und Organ-Infektionen einschließlich der Mitwirkung bei der Erstellung von Behandlungsplänen (infektiologischer Konsiliarservice) in Fällen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Stufendiagnostik, Differentialdiagnose und Therapieoptionen bei"
+    },
+    {
+      "abschnitt": "- Blutstrominfektionen"
+    },
+    {
+      "abschnitt": "- Infektionen der Lunge, der Pleura und der oberen Atemwege"
+    },
+    {
+      "abschnitt": "- kardiovaskulären Infektionen"
+    },
+    {
+      "abschnitt": "- Harnwegs- und Niereninfektionen"
+    },
+    {
+      "abschnitt": "- abdominellen und gastrointestinalen Infektionen"
+    },
+    {
+      "abschnitt": "- Hepatitis"
+    },
+    {
+      "abschnitt": "- Infektionen und Infektionsprophylaxe bei Immundefekten und bei erworbener Immundefizienz"
+    },
+    {
+      "abschnitt": "- HIV-Infektionen und ihren Komplikationen"
+    },
+    {
+      "abschnitt": "- Infektionen des Nervensystems, parainfektiöse neurologische Manifestationen"
+    },
+    {
+      "abschnitt": "- Infektionen der Knochen und Gelenke"
+    },
+    {
+      "abschnitt": "- Haut- und Weichgewebeinfektionen"
+    },
+    {
+      "abschnitt": "- postoperative Wundinfektionen"
+    },
+    {
+      "abschnitt": "- Fremdkörper-assoziierte Infektionen"
+    },
+    {
+      "abschnitt": "- Fieber unklarer Genese"
+    },
+    {
+      "abschnitt": "Infektiologische Behandlung"
+    },
+    {
+      "abschnitt": "Behandlung von schweren und/oder komplikativen infektiologischen, fachspezifischen Erkrankungen",
+      "handlungskompetenz": "Behandlung von schweren und/oder komplikativen infektiologischen, fachspezifischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Behandlung opportunistischer Infektionen einschließlich Beherrschen der Infektionskomplikationen im Rahmen einer Immundefizienz",
+      "handlungskompetenz": "Behandlung opportunistischer Infektionen einschließlich Beherrschen der Infektionskomplikationen im Rahmen einer Immundefizienz"
+    },
+    {
+      "abschnitt": "Mykobakteriosen und parasitäre Erkrankungen"
+    },
+    {
+      "abschnitt": "Behandlung von Pilzinfektionen",
+      "handlungskompetenz": "Behandlung von Pilzinfektionen"
+    },
+    {
+      "abschnitt": "Behandlung ambulant erworbener und nosokomialer System- und Organinfektionen bei schweren Verläufen",
+      "handlungskompetenz": "Behandlung ambulant erworbener und nosokomialer System- und Organinfektionen bei schweren Verläufen"
+    },
+    {
+      "abschnitt": "Behandlung fremdkörper-assoziierter Infektionen",
+      "handlungskompetenz": "Behandlung fremdkörper-assoziierter Infektionen"
+    },
+    {
+      "abschnitt": "Mitbehandlung von intensivpflichtigen Patienten mit schweren Infektionskrankheiten einschließlich Sepsis und septischem Schock",
+      "handlungskompetenz": "Mitbehandlung von intensivpflichtigen Patienten mit schweren Infektionskrankheiten einschließlich Sepsis und septischem Schock"
+    },
+    {
+      "abschnitt": "Langzeitbehandlung von Patienten mit chronischen Infektionen",
+      "handlungskompetenz": "Langzeitbehandlung von Patienten mit chronischen Infektionen"
+    },
+    {
+      "abschnitt": "Infektionen bei besonderen Patientengruppen"
+    },
+    {
+      "abschnitt": "Infektionen bei pädiatrischen und geriatrischen Patienten sowie während der Schwangerschaft"
+    },
+    {
+      "abschnitt": "Infektionen bei Patienten mit chronischen Erkrankungen wie Diabetes, Nieren-, Leberinsuffizienz"
+    },
+    {
+      "abschnitt": "Infektionen bei Reisenden und Tropenrückkehrern"
+    },
+    {
+      "abschnitt": "Sexuell übertragbare Infektionen"
+    }
+  ]
+}

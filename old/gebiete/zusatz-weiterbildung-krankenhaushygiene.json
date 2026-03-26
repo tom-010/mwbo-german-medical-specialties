@@ -1,0 +1,100 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Krankenhaushygiene",
+  "bezeichnung": "Zusatz-Weiterbildung Krankenhaushygiene",
+  "definition": "Die Zusatz-Weiterbildung Krankenhaushygiene umfasst in Ergänzung zu einer Facharztkompetenz die Prävention, Erfassung und Bewertung nosokomialer Infektionen und multiresistenter Erreger sowie die Durchführung und Koordination insbesondere von patientenbezogenen Maßnahmen zur Prävention und Kontrolle in medizinischen Einrichtungen.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung und zusätzlich 200 Stunden Kurs-Weiterbildung gem. § 4 Abs. 8 in Krankenhaushygiene, davon 40 Stunden Grundkurs und anschließend 160 Stunden Aufbaukurs, und Krankenhaushygiene gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "kognitive_und_methodenkompetenz": "Hygiene und Infektionsprävention in Krankenhäusern und Praxen"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "kognitive_und_methodenkompetenz": "Hygienisches Qualitätsmanagement"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Erstellung von Hygieneplänen und Überwachung von deren Umsetzung"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "kognitive_und_methodenkompetenz": "Vorbeugung und Epidemiologie von infektiösen Krankheiten einschließlich des individuellen und allgemeinen Seuchenschutzes"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Beratung bezüglich Infektionsverhütung, Infektionserkennung und Infektionsbekämpfung"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Überwachung der Desinfektion, Medizinprodukteaufbereitung, Versorgung und Entsorgung"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "kognitive_und_methodenkompetenz": "Surveillance nosokomialer Infektionen"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Ermittlung des Risikoprofils einer Einrichtung für die Entstehung nosokomialer Infektionen"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Erkennung nosokomialer Infektionen, Erreger- und Resistenzüberwachung"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Beteiligung bei der Bewertung der Antibiotikaverbrauchsdaten, auch im ABS-Team"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Planung und Durchführung von Interventionen zur Reduktion nosokomialer Infektionen und Besiedlungen mit multiresistenten Erregern",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Beratung beim Umgang mit multiresistenten Erregern",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Hygiene von Lebensmitteln, Gebrauchs- und Bedarfsgegenständen und der Lebensmittelversorgung im Krankenhaus"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "kognitive_und_methodenkompetenz": "Grundlagen der technischen Hygiene, der Wasserversorgung und der Raumlufttechnik im Krankenhaus"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Hygienische Beratung bei der Planung und patientengerechten Durchführung von Bau- und Umbaumaßnahmen in medizinischen Einrichtungen"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Hygienische Begehungen und Inspektionen in klinisch-medizinischen Einrichtungen mit Analyse spezifischer hygienischer Risiken vor Ort"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "- OP-Trakt und dezentrale Eingriffs- und Untersuchungsräume, insbesondere Endoskopie, Herzkatheterlabor, Dialyse",
+      "richtzahl": 4
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "- Pflegestationen einschließlich Bereiche mit besonderen hygienischen Anforderungen, z. B. Intensivstationen, hämatologisch-onkologische Stationen",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "- patientennahe Versorgungs- und Entsorgungsbereiche, z. B. Krankenhausküche und Lebensmittelversorgung, Hauswirtschaft, Wäscheversorgung, Bettenaufbereitung, Hausreinigung, Entsorgung",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Schulungen für ärztliche Mitarbeiter und Pflegepersonal",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Krankenhaushygiene",
+      "handlungskompetenz": "Mitwirkung bei der Durchführung eines Ausbruchsmanagements",
+      "richtzahl": 3
+    }
+  ]
+}

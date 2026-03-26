@@ -1,0 +1,344 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Chirurgie",
+  "bezeichnung": "Facharzt/Fachärztin für Herzchirurgie",
+  "zusatzbezeichnung": "Herzchirurg/Herzchirurgin",
+  "gebietsdefinition": "Das Gebiet Chirurgie umfasst die Vorbeugung, Erkennung, konservative und operative Behandlung, Nachsorge und Rehabilitation von chirurgischen Erkrankungen, Verletzungen und Verletzungsfolgen sowie angeborenen und erworbenen Formveränderungen und Fehlbildungen der Gefäße, der inneren Organe einschließlich des Herzens, der Stütz- und Bewegungsorgane sowie der Wiederherstellungs- und Transplantationschirurgie.",
+  "weiterbildungszeit": "72 Monate im Gebiet Chirurgie unter Befugnis an Weiterbildungsstätten, davon müssen 48 Monate in Herzchirurgie abgeleistet werden müssen 6 Monate in der Notfallaufnahme abgeleistet werden müssen 6 Monate in der Intensivmedizin abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Lagerungstechniken, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Techniken der temporären Ruhigstellung und Fixationsverbände"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Defektdeckung bei akuten und chronischen Wunden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Tumortherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Scoresysteme und Risikoeinschätzung"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Lokal- und Regionalanästhesien"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Abklärung peri- und postoperativer Schmerzzustände"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Diagnostik und Therapie nach dokumentierten Schmerztherapieplänen"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Behandlung von Patienten mit komplexen Schmerzzuständen"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Injektionen und Punktionen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Überwachung, Monitoring, Dokumentation und Betreuung von intensivmedizinischen Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Mitbehandlung bei septischen Krankheitsbildern"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pharmakologie der Herz-Kreislauf-Unterstützung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Zentralvenöse Zugänge",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Arterielle Kanülierung und Punktionen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Thorax-Drainage"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Legen eines transurethralen und/oder suprapubischen Katheters"
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "kognitive_und_methodenkompetenz": "Pathophysiologie der myokardialen Ischämie und der Myokardprotektion einschließlich der Techniken"
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "kognitive_und_methodenkompetenz": "Grundlagen von Herzassistenzsystemen, Links-und Rechtsherzunterstützungssystemen sowie Kunstherzsystemen"
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "handlungskompetenz": "Indikationsstellung zur mechanischen Herz-Kreislaufunterstützung in der prä-, peri- und postoperativen Anwendung"
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "handlungskompetenz": "Indikationsstellung zur Anwendung, technische Durchführung, postoperative Überwachung und Komplikationsmanagement von konventionellen und/oder perkutanen Herz- Kreislauf- und/oder Lungenunterstützungssystemen, z. B. extrakorporale Membranoxygenierung (ECMO), extracorporal Life Support System (ECLS), intraaortale Ballonpumpengegenpulsation (IABP)",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "handlungskompetenz": "Pharmakotherapie der akuten Herz- und Lungeninsuffizienz"
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "kognitive_und_methodenkompetenz": "Aufbau und Funktion der extrakorporalen Zirkulation"
+    },
+    {
+      "abschnitt": "Kreislaufassistenzsysteme",
+      "handlungskompetenz": "Intra- und postoperative Überwachung der extrakorporalen Zirkulation",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Angeborene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "Grundlagen der angeborenen Erkrankungen des Herzens und der thorakalen Gefäße, insbesondere Symptomatik, Diagnostik und differenzierte Indikationsstellung zur Therapie"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "Symptomatik, Diagnostik und differenzierte Therapie von erworbenen Erkrankungen des Herzens und der thorakalen Gefäße, insbesondere"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- koronare Herzkrankheit"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Vitien der Aorten- und Pulmonalklappe"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Vitien der AV-Klappen"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Aneurysmen und Dissektionen der thorakalen und thorako-abdominellen Aorta"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- brady- und tachykarde Rhythmusstörungen"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Herztumore und Erkrankungen des Perikards"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Verletzungen des Herzens und des Mediastinum"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Infektionen des Herzens und der Herzklappen"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "kognitive_und_methodenkompetenz": "- Wundmanagement und stadiengerechte Wundtherapie, z. B. bei Sternuminstabilität, Mediastinitis"
+    },
+    {
+      "abschnitt": "Erworbene Erkrankungen des Herzens und der thorakalen Gefäße",
+      "handlungskompetenz": "Indikationsstellung zur Implantation und Funktionsweise von implantierbaren kardialen elektronischen Geräten"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "12-Kanalableitungs-Elektrokardiogramme"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung zu und Befundinterpretation von Langzeit-Elektrokardiogrammen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung zu und Befundinterpretation von Ergometrien, Spiroergometrien und spirometrischen Untersuchungen der Lunge"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung zu und Befundinterpretation von Koronarangiographien und Herzkatheteruntersuchungen einschließlich interdisziplinärer Therapieentscheidung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Kontrollen von permanenten Herzschrittmachern und implantierbaren kardialen elektronischen Geräten"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Sonographie der Thoraxorgane und der thorakalen Gefäße einschließlich Doppler- und Duplexuntersuchungen",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Mitwirkung bei intra- und/oder perioperativer transoesophagealer Echokardiographien einschließlich interdisziplinärer Befundinterpretation"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Mitwirkung bei transthorakalen Echokardiographien einschließlich interdisziplinärer Befundinterpretation"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung der intraoperativen und intraprozeduralen radiologischen Befundkontrolle"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Indikationsstellung zu konventionell chirurgischen, minimal-invasiven und interventionellen Eingriffen bei angeborenen und erworbenen Erkrankungen des Herzens und der thorakalen Gefäße"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Indikationsstellung zu herzchirurgischen Eingriffen und Hybridverfahren bei multimorbiden Patienten"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Operative Eingriffe mit Hilfe oder in Bereitschaft der extrakorporalen Zirkulation, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- an Koronargefäßen",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- an Herzklappen, konventionell und/oder kathetergestützt",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- bei angeborenen Herzfehlern"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- an der thorakalen Aorta, konventionell und/oder kathetergestützt"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- am Reizleitungssystem"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- am Perikard"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- bei Verletzungen, Tumoren und Thromboembolien"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Erste Assistenz bei komplexen fachspezifischen Operationen, z. B. Kombinationseingriffe und Re-Operationen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Operative Eingriffe ohne Einsatz der extrakorporalen Zirkulation, davon",
+      "richtzahl": 170
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Anlage von passageren Schrittmachersonden",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Implantation von kardialen elektronischen Geräten",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Thorakotomie und Exploration des Situs, z. B. bei Thoraxstabilisierung, Fremdkörperexstirpation, Thoraxverletzungen, Implantatentfernung",
+      "richtzahl": 35
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Operationen an der Lunge und am angrenzenden Mediastinum in Zusammenhang mit herzchirurgischen Eingriffen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Operationen an peripheren Gefäßen in Zusammenhang mit herzchirurgischen Eingriffen, z. B. Rekonstruktionen peripherer Gefäße nach Einsatz von Kreislaufassistenzsystemen und/oder der extrakorporalen Zirkulation, Entnahme von Bypassconduits, Thrombektomien",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

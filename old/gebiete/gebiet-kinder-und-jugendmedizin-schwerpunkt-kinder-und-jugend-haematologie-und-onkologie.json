@@ -1,0 +1,144 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Schwerpunkt Kinder- und Jugend-Hämatologie und -Onkologie",
+  "zusatzbezeichnung": "Kinder- und Jugend-Hämatologe und -Onkologe/Kinder- und Jugend-Hämatologin und -Onkologin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und -Onkologie baut auf der Facharzt-Weiterbildung Kinder- und Jugendmedizin auf.",
+  "weiterbildungszeit": "24 Monate Kinder- und Jugend-Hämatologie und -Onkologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und - Onkologie",
+      "handlungskompetenz": "Diagnostik bei hämatologisch-onkologischen Erkrankungen, Tumorerkrankungen und hämo-staseologischen Erkrankungen unter Berücksichtigung immunologischer und (molekular-) genetischer Untersuchungsverfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und - Onkologie",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung zu chirurgischen, strahlentherapeutischen und nuklearmedizinischen Therapieverfahren sowie deren prognostische Beurteilung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und - Onkologie",
+      "handlungskompetenz": "Interdisziplinäre Zusammenarbeit einschließlich regelmäßiger Teilnahme an interdisziplinären Tumorkonferenzen, davon"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und - Onkologie",
+      "handlungskompetenz": "- Falldarstellungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und - Onkologie",
+      "handlungskompetenz": "Management multimodaler Therapiestudien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Hämatologie und - Onkologie",
+      "handlungskompetenz": "Aufklärung und situationsgerechte Kommunikation mit Patienten und Angehörigen einschließlich psychosozialer Aspekte bei lebensbedrohlichen oder fortgeschrittenen onkologischen und hämatologischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik einschließlich Stadieneinteilung und konservative Therapie solider Tumoren"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Vorbeugung, Diagnostik und Therapie angeborener und erworbener Blutgerinnungsstörungen einschließlich hämorrhagischer Diathesen und Beurteilung von Blutungs- und Thromboemboliegefährdung"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von benignen Erkrankungen des Blutes und der blutbildenden Organe"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von malignen Erkrankungen des Blutes und der blutbildenden Organe"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Autologe und allogene Stammzelltransplantation"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Indikationsstellung zur Stammzelltransplantation"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Behandlung von bakteriellen, viralen und mykotischen Infektionen"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Notfalltherapie, z. B. bei Tumorlyse, Einflussstauung, Intoxikation, Paravasat, Sepsis"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Nachsorge und Einleitung von rehabilitativen Maßnahmen"
+    },
+    {
+      "abschnitt": "Hämatologisch-onkologische Erkrankungen und Tumorerkrankungen",
+      "handlungskompetenz": "Therapie von Rezidiven und Therapie-Folgeschäden"
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Punktionen und Biopsien des Knochenmarks",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Zytologische Beurteilung von Ausstrich,- Tupf-oder Quetschpräparaten des Knochenmarks",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Punktion des Liquorraums, auch mit intrathekaler oder intraventrikulärer Instillation chemotherapeutischer Medikamente",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Sonographische Untersuchungen bei hämatologischen und onkologischen Erkrankungen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Transfusion von Blut und Blutbestandteilen"
+    },
+    {
+      "abschnitt": "Untersuchungs- und Behandlungsverfahren",
+      "handlungskompetenz": "Spezielle palliativmedizinische Betreuung bei Patienten mit Systemerkrankungen und malignen Tumoren"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Pharmakologie und Wirkungsweise medikamentöser Tumortherapie"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Indikationsstellung zur medikamentösen Tumortherapie unter Berücksichtigung von Komorbiditäten"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Planung und Überwachung der medikamentösen Therapie bei Tumorerkrankungen des Fachgebietes einschließlich der Prävention, Erkennung und Behandlung spezifischer Nebenwirkungen von Tumortherapeutika"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Medikamentöse Therapie bei Patienten mit Tumoren des Fachgebietes in Behandlungsfällen, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- zytostatisch"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- zielgerichtet"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- immunmodulatorisch"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- antihormonell"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Supportivtherapie bei Tumorerkrankungen des Fachgebietes"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Prophylaktische und interventionelle Supportivtherapie, insbesondere Antiemese, Ernährungsberatung und Diätetik einschließlich enteraler und parenteraler Ernährung, Infektionsprophylaxe und Therapie von Infektionen, Antikoagulation"
+    }
+  ]
+}

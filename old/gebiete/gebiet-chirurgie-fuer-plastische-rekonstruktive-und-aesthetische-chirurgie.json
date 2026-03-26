@@ -1,0 +1,540 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Chirurgie",
+  "bezeichnung": "Facharzt/Fachärztin für Plastische, Rekonstruktive und Ästhetische Chirurgie",
+  "zusatzbezeichnung": "Plastischer, Rekonstruktiver und Ästhetischer Chirurg/Plastische, Rekonstruktive und Ästhetische Chirurgin",
+  "gebietsdefinition": "Das Gebiet Chirurgie umfasst die Vorbeugung, Erkennung, konservative und operative Behandlung, Nachsorge und Rehabilitation von chirurgischen Erkrankungen, Verletzungen und Verletzungsfolgen sowie angeborenen und erworbenen Formveränderungen und Fehlbildungen der Gefäße, der inneren Organe einschließlich des Herzens, der Stütz- und Bewegungsorgane sowie der Wiederherstellungs- und Transplantationschirurgie.",
+  "weiterbildungszeit": "72 Monate im Gebiet Chirurgie unter Befugnis an Weiterbildungsstätten, davon müssen 48 Monate in Plastische, Rekonstruktive und Ästhetische Chirurgie abgeleistet werden müssen 6 Monate in der Notfallaufnahme abgeleistet werden müssen 6 Monate in der Intensivmedizin abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Lagerungstechniken, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Techniken der temporären Ruhigstellung und Fixationsverbände"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Defektdeckung bei akuten und chronischen Wunden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Tumortherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Scoresysteme und Risikoeinschätzung"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Lokal- und Regionalanästhesien"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Abklärung peri- und postoperativer Schmerzzustände"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Diagnostik und Therapie nach dokumentierten Schmerztherapieplänen"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Behandlung von Patienten mit komplexen Schmerzzuständen"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Injektionen und Punktionen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Überwachung, Monitoring, Dokumentation und Betreuung von intensivmedizinischen Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Mitbehandlung bei septischen Krankheitsbildern"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pharmakologie der Herz-Kreislauf-Unterstützung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Zentralvenöse Zugänge",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Arterielle Kanülierung und Punktionen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Thorax-Drainage"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Legen eines transurethralen und/oder suprapubischen Katheters"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Plastische, Rekonstruktive und Ästhetische Chirurgie",
+      "handlungskompetenz": "Einleitung und Durchführung von berufsgenossenschaftlichen Heilverfahren einschließlich Durchgangsarztverfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Plastische, Rekonstruktive und Ästhetische Chirurgie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Verwendung alloplastischer Materialien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Plastische, Rekonstruktive und Ästhetische Chirurgie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "kognitive_und_methodenkompetenz": "Behandlungsoptionen fachspezifischer akuter Organstörungen, Verletzungen, Infektionen, Durchblutungsstörungen, insbesondere der Hand, der Weichteile und der Haut"
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Erstversorgung von komplexen Verletzungen"
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Schwere Weichteilverletzungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Erstversorgung komplexer Handverletzungen und Amputationen sowie Therapieplanung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Wundversorgung großer Gesichts- und Kopfwunden",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Weichteilinfektionen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Primäre Reposition von Luxationen und Frakturen an Hand und Handgelenk",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Extravasationen"
+    },
+    {
+      "abschnitt": "Plastisch-chirurgische Notfälle",
+      "handlungskompetenz": "Escharotomie und Kompartmentspaltung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung der intraoperativen radiologischen Befundkontrolle"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Weichteilsonographie",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Duplexsonographie der peripheren Gefäße"
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen bei tiefgehenden, ausgedehnten und fortschreitenden Entzündungen nach operativer Versorgung oder bei Weichteiluntergang mit Nekrosen von Haut, Faszien und Muskeln einschließlich Kompartmentsyndrom sowie angeborener Fehlbildungen, erworbener Erkrankungen und Verletzungen von funktionellen Strukturen"
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Grundlagen der chirurgischen Onkologie einschließlich der konservativen und operativen Behandlungsmethoden"
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Operationsschritte bei rekonstruktiven Eingriffen an Rumpf und Extremitäten, bei Narben- und Nabelhernien"
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Débridement und Resektionen sowie Defektdeckung bei Infektionen und Tumoren einschließlich der septischen Traumachirurgie, davon",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- allschichtige Resektionen bei Osteomyelitis",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Mikrochirurgische Gefäßanastomosen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Erste Assistenz bei freien mikrovaskulär angeschlossenen Lappenplastiken einschließlich Hebung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Erste Assistenz bei motorischen Ersatzplastiken",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Erste Assistenz bei mikrovaskulären gestielten Lappenplastiken",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Hauttransplantationen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Myokutane Lappenplastiken",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Rekonstruktive Eingriffe im Kopf- und Halsbereich, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- lokale Lappenplastiken",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- gefäßgestielte Lappenplastiken",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Erste Assistenz bei komplexen Rekonstruktionen im Kopf- und Halsbereich",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Rekonstruktive Eingriffe an der Thoraxwand, davon",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- gefäßgestielte Lappenplastiken",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Rekonstruktive Eingriffe im Bereich der Mamma, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- Brustrekonstruktionen mit Expander, Implantat und/oder Eigengewebe",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Rekonstruktive Eingriffe an Rumpf und Extremitäten, davon"
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- lokale Lappenplastiken, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- gefäßgestielte Lappenplastiken",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- Defektdeckung bei Dekubitalulcera",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Rekonstruktive Eingriffe am äußeren Genitale, z. B. bei Tumoren, Genitalverstümmelung"
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Nervendekompressionen, auch bei Karpaltunnelsyndrom",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Primäre Koaptationen bzw. Transplantationen an Nerven, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- an stammnahen Nerven",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "- bei Transplantationen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Wiederherstellung von Knorpel- und Knochenstrukturen an den Extremitäten",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Rekonstruktive plastische Eingriffe",
+      "handlungskompetenz": "Rekonstruktiv-plastische Eingriffe am Fuß einschließlich Korrekturen am knöchernen Skelett",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "kognitive_und_methodenkompetenz": "Planung, Indikation, Aufklärung und Grenzen bei der Anwendung ästhetischer Maßnahmen unter Berücksichtigung psychologischer und psychosomatischer Exploration"
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "kognitive_und_methodenkompetenz": "Standardisierte Fotodokumentation"
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Ohrmuschelkorrekturen"
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "kognitive_und_methodenkompetenz": "Augenlidkorrekturen"
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Eingriffe an der Mamma, davon",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "- Mammareduktionsplastiken und Mastopexien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "- Augmentationsplastiken",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "- operative Korrektur von Gynäkomastie/Lipomastie",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Aspirationslipektomien zur Körperkonturierung an Rumpf und Extremitäten",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Abdominoplastiken",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Oberarm- oder Oberschenkelstraffungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Erste Assistenz bei der Septorhinoplastik",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Ästhetisch-chirurgische und körperformende Maßnahmen",
+      "handlungskompetenz": "Erste Assistenz bei Gesichts- und Halsstraffungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "Diagnostik und Erstversorgung (Schwer-)Brandverletzter, davon",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "- Verbrennungen 2. Grades von mehr als 10 % der Körperoberfläche bei Erwachsenen",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "- Verbrennungen 3. Grades von mehr als 5 % der Körperoberfläche bei Erwachsenen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "- Verbrennungen der Hände, Füße, im Gesichts- und Genitalbereich"
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "- Verbrennungen 2. und 3. Grades bei Kindern"
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Therapieroptionen bei Verbrennungen 2. und 3. Grades sowie bei durch elektrischen Strom verursachten thermischen Schäden oder entsprechender Schädigung durch chemische Substanzen, auch im Gesicht, an Hand, Fuß oder im Genitalbereich sowie bei schwerwiegenden, großflächigen exfolitativen Hauterkrankungen oder allergischen Hautreaktionen"
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "Anwendung chirurgischer Hautersatzverfahren, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "- nicht autolog",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "Rekonstruktive Eingriffe bei Verbrennungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "handlungskompetenz": "Narbenkorrekturen nach Verbrennungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Verbrennungsmedizinische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Gewinnung und Verwendung von Hauttransplantaten einschließlich Keratinozytenzüchtung"
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Angeborene Fehlbildungen und erworbene Erkrankungen und Verletzungen der Hand"
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "Eingriffe an der Hand, davon"
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "- Dupuytrensche Kontrakturen unterschiedlicher Schweregrade",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "- Ringbandspaltungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "- Resektion von Ganglien sowie Synovialitis",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "- Strecksehnen-Naht",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "- Beugesehnen-Naht",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "- Bandersatzplastik einschließlich Bandnaht",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Fingeramputationen und Handverschmälerungen"
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "Erste Assistenz bei Replantationen und schweren komplexen Handverletzungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "Operative Versorgung bei Infektionen im Bereich der Hand"
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "Osteosynthetische Versorgung der Hand im Rahmen von Replantationen",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "kognitive_und_methodenkompetenz": "Konservative Frakturbehandlung und Ruhigstellungsverfahren nach Handoperationen"
+    },
+    {
+      "abschnitt": "Handchirurgische Eingriffe",
+      "handlungskompetenz": "Einleitung von Rehabilitationsmaßnahmen nach Handverletzungen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

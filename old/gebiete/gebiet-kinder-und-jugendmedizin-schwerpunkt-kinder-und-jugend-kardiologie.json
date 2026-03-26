@@ -1,0 +1,185 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Schwerpunkt Kinder- und Jugend-Kardiologie",
+  "zusatzbezeichnung": "Kinder- und Jugend-Kardiologe/Kinder- und Jugend-Kardiologin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Kinder-Kardiologie baut auf der Facharzt-Weiterbildung Kinder- und Jugendmedizin auf.",
+  "weiterbildungszeit": "24 Monate Kinder- und Jugend-Kardiologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Beratung bei prä- und postoperativen Zuständen und ihre medikamentösen, operativen und katheterinterventionellen korrektiven bzw. palliativen Behandlungsmöglichkeiten einschließlich Herz- und Herz-Lungen-Transplantation unter Berücksichtigung ihrer kurz-, mittel- und langfristigen Auswirkungen, Risiken und Limitationen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "kognitive_und_methodenkompetenz": "Intrauterine Therapieoptionen und Prognose von fetalen kardiovaskulären Fehlbildungen und Arrhythmien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "kognitive_und_methodenkompetenz": "Primäre und sekundäre Prävention kardiovaskulärer Erkrankungen einschließlich von Herzrhythmusstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Diagnostik und Therapie angeborener kardiovaskulärer Fehlbildungen und Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Prävention, Diagnostik und Therapie erworbener kardiovaskulärer Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Prävention, Diagnostik und weiterführende Therapie der arteriellen Hypertonie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Diagnostik und Therapie der pulmonalarteriellen Hypertonie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Beurteilung und Testung kardio-pulmonaler und vaskulärer Funktionen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Diagnostik und weiterführende Therapie der Herzinsuffizienz"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Differentialtherapie zur Antikoagulation bei kardiovaskulären Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Kardiologie",
+      "handlungskompetenz": "Beratung zu Kontrazeption sowie Schwangerschaftsrisiken und -verlauf bei angeborenen und erworbenen Herzerkrankungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ergometrie und Spiroergometrie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Auswertung und Interpretation 12-Kanal-EKG",
+      "richtzahl": 250
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Mitwirkung bei fetaler Echokardiographie",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Röntgen-Thoraxuntersuchungen mit kardiovaskulärer Pathologie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation kardiovaskulärer Magnetresonanztomographie und Computertomographie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- transthorakalen Echokardiographien einschließlich dopplersonographischer Untersuchungen von thorakalen und herznahen Gefäßen",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- transösophagealen Echokardiographien",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Stress-Echokardiographie und Echo-Kontrastuntersuchung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Interdisziplinäre Indikation zu nuklearmedizinischen Untersuchungen sowie Beurteilung ihrer diagnostischen Wertigkeit und Limitationen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von Rechts- und Linksherzkatheteruntersuchungen, auch mit Angiokardiographien",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Mitwirkung bei Katheterinterventionen des Herzens",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "kognitive_und_methodenkompetenz": "Schrittmacherfunktionen und -typen"
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Indikationsstellung zur Schrittmacher-Therapie, Schrittmacher-Abfrage und Schrittmacher-Programmierung"
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Mitwirkung bei Schrittmacherimplantationen epimyokardial, transvenös"
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Mitwirkung bei Schrittmacherkontrollen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Mitwirkung bei invasiven elektrophysiologischen Untersuchungen und interventionell ablativen Behandlungen"
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Indikationsstellung zur medikamentösen oder interventionell ablativen Behandlungen von Rhythmusstörungen"
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Langzeit-EKG einschließlich Event-Monitoring-Bewertung",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Indikationsstellung und Durchführung apparativer antiarrhythmischer Therapie einschließlich mit Automatisiertem Externen Defibrillator (AED), davon"
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "- Kardioversionen/Defibrillationen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Herzrhythmusstörungen",
+      "handlungskompetenz": "Diagnostik und Therapie von postoperativen Herzrhythmusstörungen"
+    },
+    {
+      "abschnitt": "Postoperative Therapie",
+      "handlungskompetenz": "Intensivmedizinische Behandlung im postoperativen Verlauf einschließlich maschineller Beatmung unter spezieller Berücksichtigung der hämodynamischen Situation sowie Beatmungsentwöhnung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Postoperative Therapie",
+      "handlungskompetenz": "Spezifische kardiovaskuläre Therapie"
+    },
+    {
+      "abschnitt": "Postoperative Therapie",
+      "handlungskompetenz": "- der dekompensierten akuten und chronischen Herzinsuffizienz"
+    },
+    {
+      "abschnitt": "Postoperative Therapie",
+      "handlungskompetenz": "- der systemischen Entzündungsreaktion (systemic inflammatory response syndrome)"
+    },
+    {
+      "abschnitt": "Postoperative Therapie",
+      "handlungskompetenz": "- postoperativer Hämostasestörungen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Anatomie",
+  "bezeichnung": "Facharzt/Fachärztin für Anatomie",
+  "zusatzbezeichnung": "Anatom/Anatomin",
+  "gebietsdefinition": "Das Gebiet Anatomie umfasst die Lehre und Forschung vom normalen Bau und Zustand des Körpers mit seinen Zellen, Geweben und Organen einschließlich systematischer, topographischer und klinisch-funktioneller Aspekte sowie der Embryologie.",
+  "weiterbildungszeit": "48 Monate Anatomie unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Anatomie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Humangenetik, Pathologie, Paläontologie, Anthropologie und Rechtsmedizin"
+    },
+    {
+      "abschnitt": "Klinische Anatomie",
+      "handlungskompetenz": "Häufige Krankheitsbilder und klinische Fragestellungen aus anatomischer Sicht"
+    },
+    {
+      "abschnitt": "Klinische Anatomie",
+      "handlungskompetenz": "Mitwirkung bei klinisch-anatomischen Fort- und Weiterbildungskursen"
+    },
+    {
+      "abschnitt": "Bilddiagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Bildgebende diagnostische Verfahren z. B. Sonographie, Röntgen, CT, MRT, PET"
+    },
+    {
+      "abschnitt": "Bilddiagnostische Verfahren",
+      "handlungskompetenz": "Beurteilung bilddiagnostisch dargestellter anatomischer Strukturen, z. B. der Röntgenanatomie"
+    },
+    {
+      "abschnitt": "Körperspendewesen",
+      "kognitive_und_methodenkompetenz": "Geschichte der Anatomie, insbesondere des Körperspendewesens"
+    },
+    {
+      "abschnitt": "Körperspendewesen",
+      "kognitive_und_methodenkompetenz": "Anatomisches Donationswesen, Konservierung und Aufbewahrung von Körperspendern"
+    },
+    {
+      "abschnitt": "Körperspendewesen",
+      "handlungskompetenz": "Herstellung, Montage und Pflege von anatomischen Sammlungspräparaten und deren Demonstration"
+    },
+    {
+      "abschnitt": "Körperspendewesen",
+      "kognitive_und_methodenkompetenz": "Vorschriften des Leichentransport- und Bestattungswesens sowie der entsprechenden Hygiene- und Rechtsvorschriften und der Vermächtnisse"
+    },
+    {
+      "abschnitt": "Embryologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Embryologie und Entwicklungsbiologie sowie Gewebezüchtung"
+    },
+    {
+      "abschnitt": "Embryologie",
+      "handlungskompetenz": "Systematische, vergleichende, topographische, makroskopische und mikroskopische embryonale Anatomie einschließlich der Zusammenhänge zwischen Struktur und Funktion"
+    },
+    {
+      "abschnitt": "Mikroskopische Anatomie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Histologie und mikroskopischen Anatomie einschließlich der Enzym- und Immunhistochemie, Autoradiographie und in-situ-Hybridisierung"
+    },
+    {
+      "abschnitt": "Mikroskopische Anatomie",
+      "handlungskompetenz": "Mikroskopische Präparationstechniken, z. B. Fixations-, Schnitt- und Färbetechniken, sowie Präparationsmethoden"
+    },
+    {
+      "abschnitt": "Makroskopische Anatomie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der makroskopischen Anatomie"
+    },
+    {
+      "abschnitt": "Makroskopische Anatomie",
+      "handlungskompetenz": "Makroskopische Präparationstechniken und Präparationsmethoden"
+    },
+    {
+      "abschnitt": "Methoden und Techniken",
+      "kognitive_und_methodenkompetenz": "Grundlegende Methoden zur Untersuchung morphologisch- medizinischer und molekular- bzw. zellbiologischer Fragestellungen in der makroskopischen und mikroskopischen Anatomie sowie der Embryologie"
+    },
+    {
+      "abschnitt": "Methoden und Techniken",
+      "handlungskompetenz": "Zell- und molekularbiologische Methoden und Techniken sowie Morphometrie, Gewebezüchtung und experimentelle Zytologie"
+    },
+    {
+      "abschnitt": "Methoden und Techniken",
+      "handlungskompetenz": "Licht-, Fluoreszenz- und Elektronenmikroskopie mit den verschiedenen Techniken"
+    },
+    {
+      "abschnitt": "Forschung und Lehre",
+      "handlungskompetenz": "Konzeptionierung und Durchführung von Forschungsprojekten"
+    },
+    {
+      "abschnitt": "Forschung und Lehre",
+      "kognitive_und_methodenkompetenz": "Methoden der Biomathematik und Statistik"
+    },
+    {
+      "abschnitt": "Forschung und Lehre",
+      "handlungskompetenz": "Vermittlung der mikroskopischen und makroskopischen Anatomie in Lehrveranstaltungen"
+    },
+    {
+      "abschnitt": "Forschung und Lehre",
+      "kognitive_und_methodenkompetenz": "Didaktische Grundlagen der universitären Lehre"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Transplantationsmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Transplantationsmedizin",
+  "definition": "Die Zusatz-Weiterbildung Transplantationsmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Indikationsstellung, Vorbereitung, Durchführung und/oder Nachsorge bei Organtransplantationen, Lebend-Organspenden, Erkennung und Behandlung von Komplikationen nach Organspende, das Wartelistenmanagement und umfassende immunologische Kenntnisse einschließlich der Anwendung und Überwachung der medikamentösen Immunsuppression nach Organtransplantation und supportiver Maßnahmen.",
+  "mindestanforderungen": "Facharztanerkennung für Allgemeinchirurgie, Anästhesiologie, Gefäßchirurgie, Herzchirurgie, Thoraxchirurgie, Viszeralchirurgie, Innere Medizin und Gastroenterologie, Innere Medizin und Kardiologie, Innere Medizin und Nephrologie, Innere Medizin und Pneumologie, Kinder- und Jugendmedizin oder Urologie und zusätzlich 24 Monate Transplantationsmedizin in einem Transplantationszentrum unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Transplantationsmedizin",
+      "kognitive_und_methodenkompetenz": "Rechtliche, ethische und gesellschaftliche Rahmenbedingungen der Organtransplantation, insbesondere hinsichtlich postmortaler Organspende und Lebendorganspende sowie Allokationsverfahren | Grundlagen der Spender- und Empfängerauswahl | Immunsuppressive Therapieoptionen bei Organtransplantation | Infektiologische Aspekte der Transplantation | Transplantationsmedizinische Qualitätssicherung | Grundlagen der Immunologie, insbesondere der Humanen Leukozyten Antigene (HLA) und Antikörper relevanten Organallokation und Kompatibilitätsdiagnostik",
+      "handlungskompetenz": "Vorbereitung und Meldung auf die Warteliste zur Organtransplantation sowie Wartelistenmanagement | Indikationsstellung und Kontraindikationen für die Transplantation | Erkennung und ggf. interdisziplinäre Behandlung von immunologischen, chirurgischen und pharmakologischen Komplikationen nach Organtransplantation | Nachsorge nach Organtransplantation, auch in interdisziplinärer Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Allgemeinchirurgie, Gefäßchirurgie, Viszeralchirurgie, Urologie",
+      "handlungskompetenz": "Perioperative Behandlung von Patienten vor und nach Nieren-, Leber-, Pankreas- und/oder Dünndarmtransplantation | Farbkodierte Duplexsonographie der Leber und/oder Niere | Organentnahme bei Nierenlebendspende und/oder Leberlebendspende | Organentnahme bei postmortaler Organspende | Nieren-, Leber-, oder Pankreastransplantationen | Nieren- und/oder Lebertransplantatbiopsie",
+      "inhalte": [
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie der Leber und/oder Niere",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Organentnahme bei Nierenlebendspende und/oder Leberlebendspende",
+          "richtzahl": 20
+        },
+        {
+          "abschnitt": "Organentnahme bei postmortaler Organspende",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Nierентransplantation",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Lebertransplantation",
+          "richtzahl": 30
+        },
+        {
+          "abschnitt": "Pankreastransplantation",
+          "richtzahl": 15
+        },
+        {
+          "abschnitt": "Nieren- und/oder Lebertransplantatbiopsie",
+          "richtzahl": 25
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Anästhesiologie",
+      "handlungskompetenz": "Mitbeurteilung des Operationsrisikos bei Patienten zur Nieren-, Leber-, Pankreas-, Dünndarm-, Herz- oder Lungentransplantation | Anästhesieverfahren bei Organtransplantationen | Intensivmedizinische Behandlung von Patienten vor und nach Organtransplantationen | Farbkodierte Duplexsonographie Leber oder Niere | Betreuung transplantierter Patienten für Zusatzeingriffe | Gerinnungsdiagnostik mittels POC (viskoelastische Testmethoden)",
+      "inhalte": [
+        {
+          "abschnitt": "Anästhesieverfahren bei Organtransplantationen",
+          "richtzahl": 20
+        },
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie Leber oder Niere",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Gerinnungsdiagnostik mittels POC",
+          "richtzahl": 50
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Herzchirurgie",
+      "handlungskompetenz": "Perioperative Behandlung von Patienten vor und nach Herz- und/oder Lungentransplantation | Organentnahme bei postmortaler Organspende | Thorakale Transplantation von Herz und/oder Lunge und/oder kombiniert Herz-Lunge",
+      "inhalte": [
+        {
+          "abschnitt": "Organentnahme bei postmortaler Organspende",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Thorakale Transplantation von Herz und/oder Lunge und/oder kombiniert Herz-Lunge",
+          "richtzahl": 15
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Thoraxchirurgie",
+      "handlungskompetenz": "Perioperative Behandlung von Patienten vor und nach Lungentransplantation | Organentnahme bei postmortaler Organspende | Lungentransplantation",
+      "inhalte": [
+        {
+          "abschnitt": "Organentnahme bei postmortaler Organspende",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Lungentransplantation",
+          "richtzahl": 15
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Innere Medizin und Gastroenterologie",
+      "handlungskompetenz": "Behandlung von Patienten vor und nach Lebertransplantation, auch im Langzeitverlauf | Farbkodierte Duplexsonographie des Lebertransplantats | ERCP nach Lebertransplantation | Lebertransplantatbiopsie nach Lebertransplantation | Teilnahme an Lebertransplantationen",
+      "inhalte": [
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie des Lebertransplantats",
+          "richtzahl": 50
+        },
+        {
+          "abschnitt": "Lebertransplantatbiopsie nach Lebertransplantation",
+          "richtzahl": 25
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Innere Medizin und Kardiologie",
+      "handlungskompetenz": "Behandlung von Patienten vor und nach Herz- und Herz-Lungentransplantation, auch im Langzeitverlauf | Endomyokardbiopsie nach Herztransplantation | Linksherzkatheter einschließlich Koronarangiographie nach Herztransplantation | Teilnahme an Herztransplantationen",
+      "inhalte": [
+        {
+          "abschnitt": "Endomyokardbiopsie nach Herztransplantation",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Linksherzkatheter einschließlich Koronarangiographie nach Herztransplantation",
+          "richtzahl": 25
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Innere Medizin und Nephrologie",
+      "handlungskompetenz": "Behandlung von Patienten vor und nach Nierentransplantation und Pankreastransplantation, auch im Langzeitverlauf | Farbkodierte Duplexsonographie des Nierentransplantats | Nierentransplantatbiopsie | Teilnahme an Nierentransplantationen",
+      "inhalte": [
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie des Nierentransplantats",
+          "richtzahl": 50
+        },
+        {
+          "abschnitt": "Nierentransplantatbiopsie",
+          "richtzahl": 25
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Innere Medizin und Pneumologie",
+      "handlungskompetenz": "Behandlung von Patienten vor und nach Lungen- und Herz-Lungentransplantation, auch im Langzeitverlauf | Bronchoskopie mit bronchoalveolärer Lavage nach Lungentransplantation | Lungenfunktionsuntersuchungen nach Lungentransplantation | Teilnahme an Lungen- und/oder Herz-Lungentransplantationen",
+      "inhalte": [
+        {
+          "abschnitt": "Bronchoskopie mit bronchoalveolärer Lavage nach Lungentransplantation",
+          "richtzahl": 25
+        },
+        {
+          "abschnitt": "Lungenfunktionsuntersuchungen nach Lungentransplantation",
+          "richtzahl": 50
+        }
+      ]
+    },
+    {
+      "abschnitt": "Spezifische Inhalte für Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Behandlung von Kindern und Jugendlichen vor und nach Nieren-, Leber-, Darm-, Herz- und/oder Lungentransplantation, auch im Langzeitverlauf | Farbkodierte Duplexsonographie (entweder des Nierentransplantats oder des Lebertransplantats) | Nieren- und/oder Lebertransplantatbiopsie | Teilnahme an Nieren- und/oder Lebertransplantationen bei Kindern und Jugendlichen | Echokardiographie und EKG | Re-/Linksherzkatheter einschließlich Koronarangiographie nach Herztransplantation | Endomyokardbiopsie nach Herztransplantation | Teilnahme an Herztransplantationen bei Kindern und Jugendlichen",
+      "inhalte": [
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie - entweder des Nierentransplantats",
+          "richtzahl": 50
+        },
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie - vor Transplantation",
+          "richtzahl": 20
+        },
+        {
+          "abschnitt": "Farbkodierte Duplexsonographie - nach Transplantation",
+          "richtzahl": 100
+        },
+        {
+          "abschnitt": "Nieren- und/oder Lebertransplantatbiopsie",
+          "richtzahl": 10
+        },
+        {
+          "abschnitt": "Echokardiographie und EKG - vor Transplantation",
+          "richtzahl": 50
+        },
+        {
+          "abschnitt": "Echokardiographie und EKG - nach Transplantation",
+          "richtzahl": 100
+        }
+      ]
+    }
+  ]
+}

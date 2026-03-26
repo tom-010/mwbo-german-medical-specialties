@@ -1,0 +1,208 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Schwerpunkt Kinder- und Jugend-Nephrologie",
+  "zusatzbezeichnung": "Kinder- und Jugend-Nephrologe/Kinder- und Jugend-Nephrologin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie baut auf der Facharzt-Weiterbildung Kinder- und Jugendmedizin auf.",
+  "weiterbildungszeit": "24 Monate Kinder- und Jugend-Nephrologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Epidemiologie nephrologisch-urologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "kognitive_und_methodenkompetenz": "Molekulargenetische, embryologische, infektiologische und immunologische Grundlagen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Indikationsstellung zur genetischen Diagnostik"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "kognitive_und_methodenkompetenz": "Wirkungsweise von und Indikationen für Immunsuppressiva und Biologika"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "kognitive_und_methodenkompetenz": "Indikationen für Impfungen unter Immunsuppression"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Koordination der interdisziplinären und interprofessionellen Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Langzeitversorgung in Kooperation mit spezialisierten Einrichtungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Ernährungsberatung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Schulungsmaßnahmen unter Einbindung von Bezugspersonen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Einleitung von präventiven und rehabilitativen Maßnahmen bei chronischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Indikationsstellung zur psychosozialen Therapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "kognitive_und_methodenkompetenz": "Palliativmedizinische Versorgung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Nephrologie",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation bildgebender Verfahren, z. B. Computertomographie, Röntgen-Untersuchungen, Magnetresonanztomographie, Sonographie und Szintigraphie"
+    },
+    {
+      "abschnitt": "Angeborene und hereditäre Fehlbildungen der Nieren und ableitenden Harnwege",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie der angeborenen und hereditären Fehlbildungen der Nieren und ableitenden Harnwege"
+    },
+    {
+      "abschnitt": "Angeborene und hereditäre Fehlbildungen der Nieren und ableitenden Harnwege",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung zu urologisch-chirurgischen Behandlungsverfahren"
+    },
+    {
+      "abschnitt": "Blasenentleerungsstörungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von Blasenentleerungsstörungen"
+    },
+    {
+      "abschnitt": "Infektiöse Erkrankungen der Nieren und ableitenden Harnwege",
+      "handlungskompetenz": "Diagnostik und Therapie der komplizierten Infektionen der Nieren und ableitenden Harnwege"
+    },
+    {
+      "abschnitt": "Glomerulopathien",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie des nephrotischen Syndroms"
+    },
+    {
+      "abschnitt": "Glomerulopathien",
+      "handlungskompetenz": "Diagnostik und Therapie akuter und chronischer Glomerulopathien, auch im Rahmen von Systemerkrankungen"
+    },
+    {
+      "abschnitt": "Tubulopathien",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von Tubulopathien"
+    },
+    {
+      "abschnitt": "Tubulopathien",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von Störungen des Wasser-, Elektrolyt- und Säure-Basen-Haushaltes"
+    },
+    {
+      "abschnitt": "Tubulointerstitielle Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie von tubulointerstitiellen Erkrankungen, Nephrokalzinosen und Nierensteinen"
+    },
+    {
+      "abschnitt": "Arterielle Hypertonie",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei arterieller Hypertonie"
+    },
+    {
+      "abschnitt": "Akutes Nierenversagen",
+      "kognitive_und_methodenkompetenz": "Ursachen und Management"
+    },
+    {
+      "abschnitt": "Akutes Nierenversagen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei akutem Nierenversagen"
+    },
+    {
+      "abschnitt": "Chronisches Nierenversagen",
+      "kognitive_und_methodenkompetenz": "Ursachen und Management sowie Nephroprotektion"
+    },
+    {
+      "abschnitt": "Chronisches Nierenversagen",
+      "kognitive_und_methodenkompetenz": "Neurokognitive Entwicklung"
+    },
+    {
+      "abschnitt": "Chronisches Nierenversagen",
+      "handlungskompetenz": "Diagnostik und Therapie bei chronischem Nierenversagen einschließlich der hormonellen, metabolischen, ossären und kardiovaskulären Folgeerkrankungen"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "kognitive_und_methodenkompetenz": "Ethische und rechtliche Aspekte"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "handlungskompetenz": "Immunsuppressive Therapie"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "handlungskompetenz": "Differentialdiagnostik und Therapie infektiologischer Komplikationen"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen maligner Komplikationen"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "handlungskompetenz": "Differentialdiagnostik und Therapie von akuter und chronischer zellulärer und humoraler Transplantatabstoßung"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "kognitive_und_methodenkompetenz": "Transplantationsstandards"
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "handlungskompetenz": "Vorbereitung sowie prä- und postoperative Versorgung von Kindern mit Nierentransplantation",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "handlungskompetenz": "Langzeitversorgung einschließlich Steuerung und Überwachung der immunsuppressiven Medikation",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Nierentransplantation",
+      "handlungskompetenz": "Doppler-/Duplex-Untersuchungen der Transplantatnieren",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Pharmakotherapie bei Störungen der Nierenfunktion",
+      "handlungskompetenz": "Medikamentöse Therapie bei Nierenfunktions-einschränkung einschließlich Monitoring"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Doppler-/Duplex-Untersuchungen der Nieren- und Abdominalgefäße einschließlich bei Transplantierten",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Sonographie der Halsgefäße als \u201evascular access\u201c für Blutreinigungsverfahren",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Shuntsonographie",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Nierenbiopsie einschließlich bei Transplantatnieren",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundlagen, Technik und Indikation von Blutreinigungsverfahren, Apheresemethoden, Entgiftungsverfahren, Peritonealdialyse und apparativer Nierenersatztherapie"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "kognitive_und_methodenkompetenz": "Dialyse-Standards"
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Hämodialyse und verwandte Techniken wie Filtration, Adsorption und Separation in unterschiedlichen Altersgruppen",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Peritonealdialyse in unterschiedlichen Altersgruppen",
+      "richtzahl": 1000
+    },
+    {
+      "abschnitt": "Technische Verfahren",
+      "handlungskompetenz": "Extrakorporale Blutreinigungsverfahren bei Intoxikationen, Stoffwechselerkrankungen, Stoffwechselkrisen",
+      "richtzahl": 10
+    }
+  ]
+}

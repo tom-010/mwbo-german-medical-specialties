@@ -1,0 +1,124 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Schwerpunkt Kinder- und Jugend-Rheumatologie",
+  "zusatzbezeichnung": "Kinder- und Jugend-Rheumatologe /Kinder- und Jugend-Rheumatologin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie baut auf der Facharzt-Weiterbildung Kinder- und Jugendmedizin auf.",
+  "weiterbildungszeit": "24 Monate Kinder- und Jugend-Rheumatologie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Grundlagen entzündlicher und nicht-entzündlicher rheumatischer Erkrankungen einschließlich molekulargenetischer und immunologischer Mechanismen bei systemischen Autoimmunerkrankungen, autoinflammatorischen Erkrankungen einschließlich genetischer Fiebersyndrome, nicht-bakterieller Osteitis, Interferonopathien, Schmerzsyndromen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "kognitive_und_methodenkompetenz": "Pharmakologie, Nebenwirkungen und Interaktion von nicht-steroidalen Antirheumatika, Glukokortikoiden, konventionellen und biologischen disease-modifying anti-rheumatic drugs, Immunsuppressiva"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Indikationsstellung und Überwachung der Therapie mit nicht-steroidalen Antirheumatika, Glukokortikoiden, konventionellen und biologischen disease-modifying anti-rheumatic drugs, Immunsuppressiva"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Supplementäre Therapien, z. B. Gastroprotektion, Folsäuresupplementierung, Osteoporoseprophylaxe, Osteoporosetherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Koordination der interdisziplinären und interprofessionellen Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Langzeitversorgung in Kooperation mit spezialisierten Einrichtungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "kognitive_und_methodenkompetenz": "Indikationen für Impfungen unter Immunsuppression"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Indikationsstellung zur genetischen Diagnostik"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Ernährungsberatung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Schulungsmaßnahmen unter Einbindung von Bezugspersonen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "kognitive_und_methodenkompetenz": "Physikalische, krankengymnastische, ergotherapeutische Behandlungskonzepte"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Einleitung von präventiven und rehabilitativen Maßnahmen bei chronischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Sportberatung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "handlungskompetenz": "Indikationsstellung zur psychosozialen Therapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Kinder- und Jugend-Rheumatologie",
+      "kognitive_und_methodenkompetenz": "Palliativmedizinische Versorgung"
+    },
+    {
+      "abschnitt": "Juvenile idiopathische Arthritis",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnose und Prognose der unterschiedlichen Subtypen der juvenilen idiopathischen Arthritis"
+    },
+    {
+      "abschnitt": "Juvenile idiopathische Arthritis",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie der verschiedenen Formen der juvenilen idiopathischen Arthritis, auch Langzeitversorgung"
+    },
+    {
+      "abschnitt": "Kollagenosen und Vaskulitiden",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei systemischem Lupus erythematodes, juveniler Dermatomyositis, Sklerodermie und Overlap-Kollagenosen, Vaskulitiden"
+    },
+    {
+      "abschnitt": "Autoinflammatorische Erkrankungen",
+      "handlungskompetenz": "Weiterführende Diagnostik und Therapie bei autoinflammatorischen Erkrankungen, z. B. Fieber-Syndromen, nicht-infektiösen Inflammationen des Knochens, Interferonopathien"
+    },
+    {
+      "abschnitt": "Chronische Schmerzerkrankungen des muskuloskelettalen Systems",
+      "kognitive_und_methodenkompetenz": "Grundlagen der multimodalen und medikamentösen Schmerztherapie"
+    },
+    {
+      "abschnitt": "Chronische Schmerzerkrankungen des muskuloskelettalen Systems",
+      "handlungskompetenz": "Diagnostik und Differentialdiagnostik chronischer Schmerzerkrankungen des muskuloskelettalen Systems"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung verschiedener standardisierter Untersuchungsverfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation hämatologischer, biochemischer, immunologischer Untersuchungen einschließlich Synoviaanalyse"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Punktion verschiedener Gelenke sowie intraartikuläre Injektion",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Gelenksonographie",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Untersuchungen"
+    },
+    {
+      "abschnitt": "Rheumatologische Notfälle",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnose akuter rheumatischer Krankheitsbilder einschließlich Abgrenzung von malignen Erkrankungen, z. B. Leukämie sowie Infektionen"
+    },
+    {
+      "abschnitt": "Rheumatologische Notfälle",
+      "handlungskompetenz": "Diagnostische und therapeutische Notfall-maßnahmen, z. B. bei akuter Arthritis, systemischem Lupus erythematodes, juveniler Dermatomyositis, Makrophagen-aktivierungssyndrom, Vaskulitiden"
+    }
+  ]
+}

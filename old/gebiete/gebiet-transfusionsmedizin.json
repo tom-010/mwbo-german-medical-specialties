@@ -1,0 +1,417 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Transfusionsmedizin",
+  "bezeichnung": "Facharzt/Fachärztin für Transfusionsmedizin",
+  "zusatzbezeichnung": "Transfusionsmediziner/Transfusionsmedizinerin",
+  "gebietsdefinition": "Das Gebiet Transfusionsmedizin umfasst als klinisches Fach die hämotherapeutische Behandlung von Patienten sowie die Erfüllung von Aufgaben in der Vorbereitung, Durchführung und Bewertung hämotherapeutischer und transplantationsmedizinischer Maßnahmen, die Auswahl und medizinische Betreuung von autologen und allogenen Blut-, Zell- und Gewebespendern, die Herstellung, Prüfung und Weiterentwicklung biologischer Arzneimittel wie allogener und autologer zellulärer und plasmatischer Blut- , Zell-, Gewebe-und Stammzellpräparate, die Beurteilung der Histokompatibilität allogener Zell-, Gewebe-und Organtransplantate sowie die Durchführung von transfusionsmedizinischen Therapieverfahren einschließlich therapeutischer Hämapheresen am Patienten.",
+  "weiterbildungszeit": "60 Monate Transfusionsmedizin unter Befugnis an Weiterbildungsstätten, davon müssen 18 Monate in anderen Gebieten der unmittelbaren Patientenversorgung mit hämotherapeutischem Bezug abgeleistet werden - können zum Kompetenzerwerb bis zu 6 Monate Weiterbildung in Laboratoriumsmedizin und/oder Mikrobiologie, Virologie und Infektionsepidemiologie erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Organisation des Blutspendewesens und für den Verkehr von Blutkomponenten und Plasmaderivaten, auch im Not- und Katastrophenfall"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Organisation des Transplantationswesens und der Allokation von Zellen, Geweben und Organen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "kognitive_und_methodenkompetenz": "Labor- und Qualitätsmanagement"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "handlungskompetenz": "Dokumentation im Rahmen von Hämo-, Zell- und Gewebetherapien sowie Transplantationen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Transfusionsmedizin",
+      "handlungskompetenz": "Teilnahme an Sitzungen der Transfusionskommissionen und/oder Transplantationskommissionen"
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "kognitive_und_methodenkompetenz": "Hämotherapie bei hämolytischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "kognitive_und_methodenkompetenz": "Hämostyptische Therapien bei Blutungsneigung"
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "kognitive_und_methodenkompetenz": "Organisation von Notfall-Transfusionen"
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "handlungskompetenz": "Herstellung von Spezialpräparaten für Notfälle, davon",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "handlungskompetenz": "- zelluläre Präparate",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "handlungskompetenz": "Planung der Bereitstellung, Durchführung und Überwachung hämotherapeutischer Maßnahmen einschließlich Massivtransfusionen und Maßnahmen zur Blutstillung"
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "handlungskompetenz": "Durchführung von notfallmedizinischen Maßnahmen im Zusammenhang mit der Spende"
+    },
+    {
+      "abschnitt": "Notfallbehandlungen",
+      "handlungskompetenz": "Erfassung und Behandlung von Nebenwirkungen im Rahmen der Hämo-, Zell- und Gewebetherapie sowie bei Transplantationen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "kognitive_und_methodenkompetenz": "Infektionen durch transfusionsmedizinisch bedeutsame Erreger einschließlich deren Erkennung, Epidemiologie, Behandlung und Prophylaxe"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "kognitive_und_methodenkompetenz": "Behandlung von Infektionen durch Blutprodukte, somatische Zelltherapeutika, Gentherapeutika und andere biologische Arzneimittel"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "handlungskompetenz": "Behandlung infektionsassoziierter Blutungen, z. B. bei Sepsis oder Multiorganversagen sowie transfusionsassoziierter Infektionen"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "handlungskompetenz": "Behandlung von Infektionen durch zelluläre Therapien, z. B. Granulozyten, Antigen-spezifische T-Zellen oder modifizierte Effektorzellen"
+    },
+    {
+      "abschnitt": "Entzündungen und Infektionen",
+      "handlungskompetenz": "Durchführung und Befunderstellung spezieller infektiologischer Untersuchungen mit serologischen, biochemischen und molekulargenetischen Methoden",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Schwangerschaftsspezifische Immunisierungen und transfusionsmedizinisch relevante Erkrankungen, insbesondere Alloimmunisierung gegen Blutgruppen- und Gewebemerkmale, Morbus hämolyticus neonatorum (MHN) sowie peripartale Koagulopathie"
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "Immunhämatologische Diagnostik in der Schwangerschaft, davon"
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "- in der Schwangerschaftsvorsorge",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "- bei feto-maternaler Inkompatibilität",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Pädiatrische Hämotherapie, insbesondere Blutgruppen-Inkompatibilität, angeborene Defekte der Hämatopoese und des Immunsystems sowie intrauterine Hämotherapie"
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "Hämotherapeutische Behandlung, z. B. bei MHN, neonataler Autoimmunthrombozytopenie (NAIT), Haemolysis-Elevated Liver Enzyme-Low Platelet (HELLP)-Syndrom"
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "Organisation der Hämotherapie bei Herstellung und Bereitstellung von Spezialpräparaten für die fetale und pädiatrische Transfusion",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Altersspezifische Transfusionsmedizin und Transplantationsverfahren"
+    },
+    {
+      "abschnitt": "Alters-, geschlechts- und kulturspezifische Erkrankungen",
+      "handlungskompetenz": "Allokation von Organen, Geweben oder Stammzellen nach Geschlecht und Alter"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Hämato-onkologische Erkrankungen, solide Malignome einschließlich der Behandlungsoptionen funktioneller Störungen sowie Bildungs- und Abbaustörungen von Blutzellen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Planung und Bereitstellung onkologischer Hämotherapien, z. B. unter Berücksichtigung der Immunkompetenz zur Infektionsabwehr (z. B. CMV) und Vermeidung einer Graft-versus-Host Disease (z. B. Blutproduktebestrahlung)",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Immuntherapie und der Behandlung von Malignomen durch Blutprodukte, somatische Zelltherapeutika, Gentherapeutika und andere biologische Arzneimittel"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Zelluläre Therapieoptionen bei Tumorerkrankungen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Mitbehandlung von Tumorerkrankungen durch die Herstellung und unmittelbare Anwendung zellulärer Arzneimittel wie Lymphozyten, Antigen-spezifische T-Zellen oder modifizierte Effektorzellen einschließlich der die Anwendung begleitenden Diagnostik"
+    },
+    {
+      "abschnitt": "Transplantation",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Transplantationsimmunologie"
+    },
+    {
+      "abschnitt": "Transplantation",
+      "handlungskompetenz": "Planung und Bereitstellung von Hämotherapien im Rahmen von Transplantationen, z. B. bei AB0-Blutgruppenwechsel bei Stammzelltransplantation"
+    },
+    {
+      "abschnitt": "Transplantation",
+      "handlungskompetenz": "Allokation von Organen, Geweben oder Stammzellen, z. B. nach Histokompatibilität und Immunstatus"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Spenderaufklärung und -information sowie Spendervorbehandlung und -konditionierung für spezielle Spende- und Entnahmeverfahren, z. B. periphere Blutstammzellen und Knochenmark"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Spenderauswahl bei besonderen Populationen"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Indikation, Differenzierung, Stimulation, Modifikation biologischer Arzneimittel, z. B. von differenzierten Zellen, Stammzellen, Arzneimitteln für neuartige Therapien (ATMP), Geweben und plasmatischen Bestandteilen"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Spenderauswahl, Gewinnung, Präparation, Prüfung, Freigabe, Lagerung, Transport und Entsorgung biologischer Arzneimittel"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Verfahren zur Pathogenreduktion und -inaktivierung"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Autologe Hämotherapie und alternative blutsparende Verfahren, z. B. intraoperative maschinelle Autotransfusion"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Durchführung von allogenen und autologen Blut-und Apheresespenden, davon"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- Vollblutspenden",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- präparative Hämapheresen, z. B. Plasmaspenden, Zytapheresenspenden",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- hämatopoetische Stammzellspenden",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Mitwirkung bei Knochenmarkentnahmen für therapeutische Zwecke"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Herstellung von allogenen und autologen biologischen Arzneimitteln, insbesondere"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- Blutprodukte aus Vollblutspenden"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- Blutprodukte aus präparativer Hämapherese"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- andere Blutprodukte, z. B. autologe Serum-Augentropfen und Thrombozytenlysate"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "- zelluläre Arzneimittel und Präparationen aus Stammzellen, Vorläuferzellen und Immunzellen einschließlich Arzneimittel für neuartige Therapien (ATMP)"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Präparation von Blutkomponenten und Zelltherapeutika",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "handlungskompetenz": "Bearbeitung und Bewertung von Rückverfolgungsverfahren",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Mobilisierung von peripheren Blutstammzellen bei allogenen und autologen Spendern sowie von Granulozyten bei allogenen Spendern"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Entnahme von Vorläuferzellen mittels Knochenmarkpunktion"
+    },
+    {
+      "abschnitt": "Blut-, Zell- und Gewebespende und Herstellung von biologischen Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Evaluation, Standardisierung und Validierung transfusionsmedizinisch relevanter Verfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundlagen der immunhämatologischen, infektiologischen, immunologischen, hämostaseologischen, molekulargenetischen, zytometrischen, klinisch-chemischen sowie immungenetischen und Histokompatibilitäts-Diagnostik"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Auswahl und Anwendung von Untersuchungsverfahren zur Kompatibilitätsbewertung, Prognoseabschätzung und Bewertung therapeutischer Maßnahmen einschließlich technischer und medizinischer Validierung im Zusammenhang mit Transfusionen und Transplantationen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Nachweis und Verträglichkeitsuntersuchungen von transfusionsrelevanten Antigenen und Antikörpern sowie der zugrundeliegenden Gene"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Nachweis und Verträglichkeitsuntersuchungen von transplantationsrelevanten Antigenen und Antikörpern sowie der zugrundeliegenden Gene"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Diagnostik von Erkrankungen durch erythrozytäre Auto- oder Alloantikörper, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Mehrfachantikörper in mehr als 2 Blutgruppensystemen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Diagnostik bei Spendern und Patienten einschließlich molekulargenetischer Verfahren, davon"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- infektiologische Labordiagnostik bei Spendern",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- infektiologische Labordiagnostik bei Patienten"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- hämostaseologische und klinisch-chemische Diagnostik",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- immunhämatologische Blutgruppen-Diagnostik, davon",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- in mindestens 5 Blutgruppensystemen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- transplantationsimmunologische Diagnostik, davon",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- HLA-Typisierungen (Klasse I, Klasse II), davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- mit Haplotyp-Zuordnung in Kernfamilie",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- weitere transplantationsrelevante Merkmale"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Verträglichkeitsproben im Zusammenhang mit Transfusionen und Transplantationen",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "HPA-Inkompatibilität und Abklärung von transfusionsassoziierter akuter Lungeninsuffizienz (TRALI)"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Genetische Segregationsanalysen bei Familienmitgliedern mittels immungenetischer Methoden"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung zur fachgebundenen genetischen Beratung"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Behandlung mit Blutprodukten, weiteren Zellen, Geweben und Organen sowie transfusionsmedizinischer Therapieverfahren und Interventionen einschließlich zellulärer und plasmatischer Depletionsverfahren"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Durchführung von Transfusionen mit Blutkomponenten, Zelltherapeutika und Plasmaderivaten, davon"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Transfusion erythrozytärer Blutkomponenten",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Transfusion nicht-erythrozytärer Blutkomponenten",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Austauschtransfusion (erythrozytär und plasmatisch)"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Hämotherapie bei Erkrankungen mit Destruktion von Blutzellen, z. B. bei immunhämolytischen Anämien oder Immunthrombozytopenien"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Management der patientenindividualisierten Hämotherapie",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Autologe hämotherapeutische Maßnahmen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Therapeutische Apheresen für zelluläre und plasmatische Bestandteile, z. B. Leukozytapherese, Erythrozytapherese, Thrombozytapherese, extrakorporale Photopherese, Plasma-Apherese und Plasma-Austausch, Verfahren der Immunadsorption"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Durchführung von therapeutischen Apheresen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Transfusionsmedizinische und transplantationsimmunologische Konsile im Zusammenhang mit der Therapie mit Blutprodukten, weiteren Zellen, Geweben und Organen sowie transfusionsmedizinischer Therapieverfahren und Interventionen einschließlich zellulärer und plasmatischer Depletionsverfahren",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Beratung von Ärzten im Zusammenhang mit der Transfusion von Blutkomponenten einschließlich der Abklärung von Abweichungen und unerwünschten Reaktionen"
+    },
+    {
+      "abschnitt": "Hämostasestörungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Behandlung funktioneller Störungen des Gerinnungssystems (zellulär, plasmatisch, fibrinolytisch)"
+    },
+    {
+      "abschnitt": "Hämostasestörungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Thrombozytopathien"
+    },
+    {
+      "abschnitt": "Hämostasestörungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Erkrankungen aus dem Formenkreis der Koagulopathien, insbesondere Hämophilie und Thrombophilie"
+    },
+    {
+      "abschnitt": "Hämostasestörungen",
+      "handlungskompetenz": "Klinisch-hämostaseologische Konsile",
+      "richtzahl": 5
+    }
+  ]
+}
