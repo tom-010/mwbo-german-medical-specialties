@@ -1,5 +1,7 @@
 # mwbo - German Medical Specialties (MWBO), machine-readable
 
+tldr; download [catalog.duckdb](./catalog.duckdb)
+
 The [Muster-Weiterbildungsordnung (MWBO)](https://www.bundesaerztekammer.de/themen/aerzte/aus-fort-und-weiterbildung/aerztliche-weiterbildung/muster-weiterbildungsordnung) is the official model regulation by the German Medical Association (Bundesärztekammer) that defines all recognized medical specialties, their grouping into fields, and the competencies required during specialist training. It is the authoritative source for what German physicians must learn to become board-certified specialists.
 
 Unfortunately, the MWBO is only published as a PDF. This project makes it machine-readable.
