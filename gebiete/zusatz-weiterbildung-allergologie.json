@@ -1,0 +1,196 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Allergologie",
+  "bezeichnung": "Zusatz-Weiterbildung Allergologie",
+  "definition": "Die Zusatz-Weiterbildung Allergologie umfasst in Ergänzung zu einer Facharztkompetenz die Vorbeugung, Erkennung und Behandlung der durch Allergene und Pseudoallergene ausgelösten Erkrankungen verschiedener Organsysteme einschließlich der immunologischen Aspekte.",
+  "mindestanforderungen": "Facharztanerkennung in den Gebieten Allgemeinmedizin, Arbeitsmedizin, Hals-Nasen-Ohrenheilkunde, Haut- und Geschlechtskrankheiten, Innere Medizin oder Kinder- und Jugendmedizin und zusätzlich Allergologie gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Immunologische und allergologische Grundlagen, Eigenschaften und Ökologie der Allergene, Allergenextrakte einschließlich der Insektengifte"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Immundefekte und Regulationsstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Immuntoleranz und Autoimmunität"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Epidemiologie allergischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Allergencharakterisierung und Allergenverbreitung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Auslöser und Symptomatik von Pseudoallergien einschließlich Therapieoptionen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Allergenkarenz und Allergen-Elimination"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Therapieallergene-Verordnung (TAV)"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Psychogene Symptome und somatopsychische Reaktionen im Zusammenhang mit allergischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Allergologie",
+      "kognitive_und_methodenkompetenz": "Psychosoziale und berufsbedingte Aspekte allergischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Allergologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Symptomatik, Genetik/Epigenetik, Differentialdiagnose und Therapieoptionen allergischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Allergologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "– der Atemwege, insbesondere Asthma"
+    },
+    {
+      "abschnitt": "Allergologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "– an Hals, Nasen, Ohren und Augen, z. B. allergische Rhinitis, Rhinokonjunktivitis, chronische Rhinosinusitis"
+    },
+    {
+      "abschnitt": "Allergologische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "– an der Haut, z. B. Urtikaria und Angioödem, atopisches Ekzem, Kontaktdermatitis, Mastozytose"
+    },
+    {
+      "abschnitt": "Allergologische Krankheitsbilder",
+      "handlungskompetenz": "Behandlung gebietsbezogener allergischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Nahrungsmittelallergien",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Einteilung, Symptomatik, Differentialdiagnose, Therapieoptionen sowie Prognose von Nahrungsmittelallergien und - unverträglichkeiten einschließlich Risikofaktoren, Augmentationsfaktoren"
+    },
+    {
+      "abschnitt": "Nahrungsmittelallergien",
+      "handlungskompetenz": "Diagnostik von Nahrungsmittelallergien und Therapie von Nahrungsmittelreaktionen"
+    },
+    {
+      "abschnitt": "Insektengiftallergien",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Symptomatik, Therapieoptionen sowie Prognose von Insektengiftallergien, nicht allergischen Reaktionen auf Insekten/Insektenstiche"
+    },
+    {
+      "abschnitt": "Insektengiftallergien",
+      "handlungskompetenz": "Diagnostik von Insektengiftallergien und Therapie von Insektengiftreaktionen"
+    },
+    {
+      "abschnitt": "Medikamentenallergien",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Definition und Typen von Medikamentenallergien und -unverträglichkeiten sowie Management und Therapieoptionen"
+    },
+    {
+      "abschnitt": "Medikamentenallergien",
+      "handlungskompetenz": "Diagnostik von Arzneimittelallergien und Therapie von Arzneimittelreaktionen"
+    },
+    {
+      "abschnitt": "Anaphylaxie",
+      "kognitive_und_methodenkompetenz": "Definition, Symptome, Schweregrade, Epidemiologie, Auslösefaktoren, Augmentationsfaktoren sowie Differentialdiagnose bei Anaphylaxie"
+    },
+    {
+      "abschnitt": "Anaphylaxie",
+      "handlungskompetenz": "Therapie der Anaphylaxie gemäß Schweregrad einschließlich des anaphylaktischen Schocks"
+    },
+    {
+      "abschnitt": "Anaphylaxie",
+      "handlungskompetenz": "Beratung des Patienten zum Umgang mit Notfallmedikation"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "kognitive_und_methodenkompetenz": "Prinzipien der allergologischen Diagnostik"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "handlungskompetenz": "Erhebung und Dokumentation der speziellen allergologischen Anamnese"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "kognitive_und_methodenkompetenz": "Methoden zum Nachweis von Sensibilisierungen"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von serologischen und pharmakologischen in-vitro-Testverfahren"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "handlungskompetenz": "Bestimmung sensibilisierender Antikörper vom Soforttyp (Ig E)"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation zellulärer in-vitro-Testverfahren, z. B. Antigen-abhängige Lymphozytenstimulation, Durchflusszytometrie, Histamin- und Leukotrien-Freisetzung"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "handlungskompetenz": "Kutan- und Epikutantest bei Soforttyp- und Spättyp-Reaktionen bei Patienten",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "kognitive_und_methodenkompetenz": "Funktionsteste der Lunge"
+    },
+    {
+      "abschnitt": "Diagnostik von Allergien",
+      "handlungskompetenz": "Indikationsstellung und Durchführung gebietsbezogener Provokationsteste bei Patienten, z. B. nasal, bronchial, oral, parenteral",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Therapie von Allergien",
+      "kognitive_und_methodenkompetenz": "Prinzipien der allergologischen Therapie"
+    },
+    {
+      "abschnitt": "Therapie von Allergien",
+      "handlungskompetenz": "Medikamentöse und physikalische Therapie, Karenzmaßnahmen sowie alternative Therapieformen"
+    },
+    {
+      "abschnitt": "Therapie von Allergien",
+      "handlungskompetenz": "Ernährungsberatung einschließlich Eliminationsdiäten"
+    },
+    {
+      "abschnitt": "Therapie von Allergien",
+      "kognitive_und_methodenkompetenz": "Patientenschulungsprogramme"
+    },
+    {
+      "abschnitt": "Therapie von Allergien",
+      "kognitive_und_methodenkompetenz": "Wirkmechanismen, Vorteile, Risikofaktoren, Nebenwirkungen, Kontraindikationen und Formen der allergen-spezifischen Immuntherapie (ASIT)"
+    },
+    {
+      "abschnitt": "Therapie von Allergien",
+      "handlungskompetenz": "Indikationsstellung und Durchführung der spezifischen Immuntherapie bis zur Erhaltungsdosis einschließlich der Erstellung des Behandlungsplans und von Therapieverlaufskontrollen bei Patienten, z. B. mittels Stichprovokationstestung",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "handlungskompetenz": "Einleitung von Maßnahmen der primären, sekundären und tertiären Prävention bei Risikogruppen und bereits Erkrankten"
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Berufliche Risikofaktoren für allergische Sensibilisierung"
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Allergisch bedingte Berufskrankheiten, insbesondere des Respirationstraktes und der Haut"
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Kriterien zur Anerkennung einer allergisch bedingten Berufskrankheit"
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Toxikologie der Umweltschadstoffe"
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Umweltbedingte Risikofaktoren für allergische Sensibilisierung"
+    },
+    {
+      "abschnitt": "Prävention, arbeits- und umweltmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Symptomatik und Differentialdiagnose umweltmedizinischer Erkrankungen"
+    }
+  ]
+}

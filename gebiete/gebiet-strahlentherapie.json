@@ -1,0 +1,283 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Strahlentherapie",
+  "bezeichnung": "Facharzt/Fachärztin für Strahlentherapie",
+  "zusatzbezeichnung": "Strahlentherapeut/Strahlentherapeutin",
+  "gebietsdefinition": "Das Gebiet Strahlentherapie umfasst die Strahlenbehandlung maligner und benigner Erkrankungen einschließlich der medikamentösen und physikalischen Verfahren zur Radiosensibilisierung und Verstärkung der Strahlenwirkung am Tumor unter Berücksichtigung von Schutzmaßnahmen der gesunden Gewebe.",
+  "weiterbildungszeit": "60 Monate Strahlentherapie unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Strahlentherapie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Indikationsstellung für alle strahlentherapeutischen Verfahren unter Berücksichtigung der spezifischen Risiken und möglicher Komplikationen"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Bewertung und Vergleich der unterschiedlichen strahlentherapeutischen Verfahren"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von vorbereitender und weiterführender Diagnostik im Rahmen von strahlentherapeutischen Behandlungen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Umgangs mit offenen und geschlossenen radioaktiven Strahlen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    },
+    {
+      "abschnitt": "Medizinische Strahlenphysik und Informationstechnologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Radioaktivität, Strahlerzeugung, Strahlcharakteristik sowie der Wechselwirkungen von Strahlung mit Materie"
+    },
+    {
+      "abschnitt": "Medizinische Strahlenphysik und Informationstechnologie",
+      "kognitive_und_methodenkompetenz": "Dosimetrie und Bestrahlungsplanungssysteme sowie in der Strahlentherapie eingesetzte Geräte, z. B. Linearbeschleuniger, sonstige Teilchenbeschleuniger, radioaktive Quellen, Röntgentherapie, Bildgebungsanlagen, Zusatzgeräte"
+    },
+    {
+      "abschnitt": "Medizinische Strahlenphysik und Informationstechnologie",
+      "kognitive_und_methodenkompetenz": "Strahlentherapeutisch relevante Informationstechnologie"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "kognitive_und_methodenkompetenz": "Biologie unterschiedlicher Strahlenarten, insbesondere linearer Energietransfer (LET) und relative biologische Wirksamkeit (RBE)"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "kognitive_und_methodenkompetenz": "Biologische Grundlagen der Strahlenbehandlung gutartiger Erkrankungen"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "kognitive_und_methodenkompetenz": "Akute und späte Nebenwirkungen an gesunden Geweben"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "handlungskompetenz": "Bewertung von Risiken für strahlentherapieassoziierte Nebenwirkungen, insbesondere Spätfolgen (Toleranzdosen, linear-quadratisches Modell, Dosisvolumeneffekte von Normalgewebsschäden) einschließlich Einsatz von Radioprotektoren"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "kognitive_und_methodenkompetenz": "Strahlenbiologie von Tumoren"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "handlungskompetenz": "Bewertung von Tumorkontrollwahrscheinlichkeiten"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "kognitive_und_methodenkompetenz": "Strahlenbiologie der Kombination der Bestrahlung mit medikamentösen und physikalischen Verfahren"
+    },
+    {
+      "abschnitt": "Strahlenbiologie",
+      "handlungskompetenz": "Bewertung der Radiosensibilisierung und Verstärkung der Strahlenwirkung"
+    },
+    {
+      "abschnitt": "Strahlentherapie gutartiger Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Konzepte der strahlentherapeutischen Behandlung gutartiger Erkrankungen"
+    },
+    {
+      "abschnitt": "Strahlentherapie gutartiger Erkrankungen",
+      "handlungskompetenz": "Strahlentherapeutische Behandlung auch im Kontext interdisziplinärer Behandlungskonzepte von gutartigen Erkrankungen"
+    },
+    {
+      "abschnitt": "Grundlagen der Onkologie",
+      "kognitive_und_methodenkompetenz": "Interdisziplinäre Behandlungskonzepte"
+    },
+    {
+      "abschnitt": "Grundlagen der Onkologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Tumorbiologie und Tumorpathologie einschließlich der molekularen Diagnostik und Kategorisierung onkologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Grundlagen der Onkologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen nicht-radioonkologischer Therapieverfahren in interdisziplinären Konzepten, insbesondere operative Verfahren, systemische Therapien einschließlich myeloablativer Verfahren, Radionuklidtherapie und immunologischer Therapie"
+    },
+    {
+      "abschnitt": "Grundlagen der Onkologie",
+      "handlungskompetenz": "Indikationsstellung zur radioonkologischen Kombinationsbehandlung"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Strahlentherapeutische Behandlung, auch im Kontext interdisziplinärer Behandlungskonzepte von verschiedenen Tumorentitäten einschließlich onkologischer Notfälle und der Behandlung von Metastasen, insbesondere"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumore des zentralen Nervensystems"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Kopf-Hals-Tumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- gastrointestinale Tumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumore der Lunge und des Mediastinum"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumore der Brust"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- gynäkologische Tumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- urologische Tumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Lymphome und Leukämien"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Knochen- und Weichteilsarkome"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Hauttumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumore mit unbekanntem Primärtumor"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumore des Auges und der Orbita"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- pädiatrische Tumore"
+    },
+    {
+      "abschnitt": "Bestrahlungsplanung und Therapieverifikation",
+      "kognitive_und_methodenkompetenz": "Lagerung und Immobilisation von Patienten"
+    },
+    {
+      "abschnitt": "Bestrahlungsplanung und Therapieverifikation",
+      "handlungskompetenz": "Indikation und Durchführung bildgebender Verfahren zur Therapieplanung und Verifikation der Bestrahlungsfelder, insbesondere konventionelle Simulation, CT-Simulation"
+    },
+    {
+      "abschnitt": "Bestrahlungsplanung und Therapieverifikation",
+      "handlungskompetenz": "Definition von Tumorvolumina und Normalgeweben anhand bildgebender Methoden"
+    },
+    {
+      "abschnitt": "Bestrahlungsplanung und Therapieverifikation",
+      "handlungskompetenz": "Computergestützte Bestrahlungsplanung auf der Basis von CT-Untersuchungen für die Strahlentherapie unter Berücksichtigung möglicher Kombinationstherapien und interdisziplinärer Behandlungen, ggf. unter Einbeziehung weiterer bildgebender Verfahren, z. B. MRT, Positronenemissionstomographie (PET), davon",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Bestrahlungsplanung und Therapieverifikation",
+      "handlungskompetenz": "- CT verschiedener Körperregionen",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Externe Strahlentherapie",
+      "handlungskompetenz": "Durchführung von externer Strahlentherapie mit Linearbeschleunigern einschließlich Ersteinstellung, Genauigkeitskontrolle, Korrekturen, Dokumentation, Überwachung des Patienten, Erkennung und Behandlung von Nebenwirkungen, davon"
+    },
+    {
+      "abschnitt": "Externe Strahlentherapie",
+      "handlungskompetenz": "- bei gutartigen Erkrankungen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Externe Strahlentherapie",
+      "handlungskompetenz": "- bei bösartigen Erkrankungen mit Linearbeschleuniger",
+      "richtzahl": 450
+    },
+    {
+      "abschnitt": "Brachytherapie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Anwendung umschlossener radioaktiver Stoffe zur permanenten Implantation, zur Afterloadingtherapie sowie zur endovaskulären Strahlentherapie"
+    },
+    {
+      "abschnitt": "Brachytherapie",
+      "handlungskompetenz": "Durchführung von Brachytherapie, insbesondere bei Tumoren des weiblichen Genitales, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Brachytherapie",
+      "handlungskompetenz": "- mit Afterloading-Einrichtung",
+      "richtzahl": 60
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Begleitbehandlungen zur Verstärkung der Strahlenwirkung im Tumor und zur Protektion gesunder Gewebe"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Indikation, Durchführung und Überwachung der systemischen Tumortherapie in Kombination mit Bestrahlungen bei soliden Tumorerkrankungen einschließlich der Beherrschung auftretender Komplikationen in Behandlungsfällen, davon",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- mit Chemotherapie",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Strahlentherapeutische Nachsorge von Tumorpatienten"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Regelmäßige Teilnahme an interdisziplinären Tumorkonferenzen, davon"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "- Falldarstellungen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Pharmakologie und Wirkungsweise von medikamentösen Tumortherapien"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Indikationsstellung zur medikamentösen Tumortherapie unter Berücksichtigung von Komorbiditäten"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Prävention, Erkennung und Behandlung spezifischer Nebenwirkungen von Tumortherapeutika"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Aspekte der Nachsorge bei medikamentöser Tumortherapie"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Supportivtherapie und Rehabilitation bei Tumorerkrankungen"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Prophylaktische und interventionelle Supportivtherapie, insbesondere Antiemese, Ernährungsberatung und Diätetik einschließlich enteraler und parenteraler Ernährung, Infektionsprophylaxe und Therapie von Infektionen, Antikoagulation"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Einleitung und Überwachung physikalischer Maßnahmen"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "kognitive_und_methodenkompetenz": "Psychogene Symptome, somatopsychische Reaktionen und psychosoziale Zusammenhänge"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie sowie parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Einleitung und Überwachung rehabilitativer Maßnahmen"
+    },
+    {
+      "abschnitt": "Medikamentöse Tumortherapie und Supportivtherapie",
+      "handlungskompetenz": "Betreuung palliativmedizinisch zu versorgender Patienten"
+    }
+  ]
+}

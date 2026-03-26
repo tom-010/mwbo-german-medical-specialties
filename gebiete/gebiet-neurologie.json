@@ -1,0 +1,586 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Neurologie",
+  "bezeichnung": "Facharzt/Fachärztin für Neurologie",
+  "zusatzbezeichnung": "Neurologe/Neurologin",
+  "gebietsdefinition": "Das Gebiet Neurologie umfasst die Vorbeugung, Erkennung, Behandlung und Rehabilitation der Erkrankungen des zentralen, peripheren und vegetativen Nervensystems einschließlich der Muskulatur.",
+  "weiterbildungszeit": "60 Monate Neurologie unter Befugnis an Weiterbildungsstätten, davon müssen 6 Monate in der intensivmedizinischen Versorgung neurologischer Patienten abgeleistet werden müssen 12 Monate in Psychiatrie und Psychotherapie abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Begutachtung, Vorsorgevollmacht, Betreuung und Geschäftsfähigkeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Erstellung von Rehabilitationsplänen, Überwachung und epikritische Bewertung der Anwendung von Rehabilitationsverfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Neurologische Anamneseerhebung und Unter-suchung unter Berücksichtigung biographischer und psychosozialer Zusammenhänge, psychogener Symptome und somatopsychischer Reaktionen, auch unter Einbezug von Angehörigen/relevanten Drittpersonen, einschließlich Erhebung des neuro-psychologischen und psychopathologischen Befundes"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "kognitive_und_methodenkompetenz": "Hirnnervensyndrome, zerebrale Syndrome einschließlich Störungen des Bewusstseins, zerebelläre Syndrome, Hirnstamm-Syndrome, Rückenmarkssyndrome, Syndrome der peripheren Nerven und der Muskeln, vegetative Syndrome, Schmerz, Gangstörungen und Stürze, Blasen- und Mastdarmfunktionsstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Aufklärung von und situationsgerechte Kommunikation mit Patienten mit reduzierter Auffassungs- und Gedächtnisleistung, eingeschränkter affektiver und autopsychischer Wahrnehmungsfähigkeit sowie Beurteilung der Einwilligungsfähigkeit einschließlich der Beratung Angehöriger"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Betreuung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Teilnahme an interdisziplinären Teambesprechungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "handlungskompetenz": "Indikationsstellung und Nebenwirkungen von Schmerztherapie, Psychopharmakotherapie und neurologischer Pharmakotherapie einschließlich Immun- und Chemotherapien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neurologie",
+      "kognitive_und_methodenkompetenz": "Bedeutung molekulargenetischer Signaturen"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "Erstversorgung neurologischer Notfälle, insbesondere"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- neurovaskuläre Notfälle einschließlich intrakranieller Blutungen"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- vigilanzgeminderte und komatöse Patienten"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- epileptische Anfälle einschließlich Status epilepticus"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- spinale Notfälle"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- hypokinetische Krisen"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- myasthene Krisen"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- Meningitiden/Enzephalitiden"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- Eklampsie/Präeklampsie"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- Schwindel"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- Intoxikationen"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "- psychiatrische Notfälle, Verwirrtheitszustände, Delir einschließlich Alkoholentzugssyndrome, maligne Hyperthermie und malignes neuroleptisches Syndrom"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "Erstversorgung eines Schlaganfalls einschließlich systemischer Lyse"
+    },
+    {
+      "abschnitt": "Neurologische Notfälle",
+      "handlungskompetenz": "Diagnostik und Erstversorgung von Schädel-Hirn-Traumata, traumatischen Rückenmarksverletzungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Elektroenzephalographien",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Elektromyographien (EMG)",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung evozierter Potentiale (MEP, SSEP, VEP, AEP)",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Elektroneurographien (NLG)",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Elektrophysiologische Funktionsdiagnostik des autonomen Nervensystems",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Sonographische Untersuchungen von Nervensystem, Nerven und Muskeln"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Doppler-/Duplexsonographien extra- und intrakranieller hirnversorgender Gefäße",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Funktionsanalysen bei Schluckstörungen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von neuro-otologischen Untersuchungen, z. B. Verfahren zur Nystagmusprüfung",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Punktionen des Liquorraumes",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Anlage zentralvenöser Zugänge"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Computertomographie- und Magnetresonanztomographieuntersuchungen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Differentialdiagnostisches Management bei Störungen des Bewusstseins einschließlich der Einteilung in Schweregrade"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Neurologische Untersuchung von analgosedierten Patienten"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Methodische Grundlagen des (invasiven) Neuromonitorings"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Hirnödemtherapie"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Management vegetativer Krisen und zentraler Atemregulationsstörungen"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapien einschließlich der Erstellung von Therapieplänen zur parenteralen Ernährung"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Störungen des Säure-Basen- und des Elektrolyt-Haushaltes"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Durchführung von Intubationen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Critical-Illness-Myopathie und Neuropathie"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Einschätzung der Prognose bei anoxischer Hirnschädigung und residuellen Defektsyndromen"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Angehörigengespräche bei irreversiblem Hirnfunktionsausfall"
+    },
+    {
+      "abschnitt": "Neurologische Intensivmedizin",
+      "handlungskompetenz": "Durchführung des Verfahrens zur Feststellung des endgültigen, nicht behebbaren Ausfalls der Gesamtfunktion des Großhirns, des Kleinhirns und des Hirnstamms gemeinsam mit einem hierfür qualifizierten Facharzt"
+    },
+    {
+      "abschnitt": "Neuropsychologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen neuropsychologischer/verhaltens-neurologischer Syndrome nach Hirnschädigung und bei Hirnfunktionsstörungen"
+    },
+    {
+      "abschnitt": "Neuropsychologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen kognitiver Störungen sowie von Störungen der Emotion, Motivation und Persönlichkeit"
+    },
+    {
+      "abschnitt": "Neuropsychologie",
+      "handlungskompetenz": "Durchführung und Befunderstellung von standardisierten Testverfahren und Skalen bei neuropsychologischen/verhaltensneurologischen Störungen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Neuropsychologie",
+      "handlungskompetenz": "Neuro- und Psychopharmakotherapie bei neuropsychologischen Störungen"
+    },
+    {
+      "abschnitt": "Neuropsychologie",
+      "handlungskompetenz": "Therapieplanung einschließlich Festlegung und Überprüfung von Therapiezielen sowie Einleitung von Maßnahmen zur Wiedereingliederung in das Erwerbsleben und in das soziale Umfeld"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Typische Krankheitsbilder des alternden Menschen einschließlich gerontopsychiatrischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "handlungskompetenz": "Geriatrisches Assessment einschließlich Test-, Untersuchungs- und Schätzskalen zur Einordnung und Behandlung von geriatrischen Syndromen und deren Krankheitsfolgen"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "handlungskompetenz": "Pharmakotherapie im Alter, insbesondere bei der Behandlung mit zentralnervös-wirksamen Medikamenten"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "handlungskompetenz": "Einleitung von Maßnahmen zur Wiederherstellung der Selbständigkeit und Minderung der Pflegebedürftigkeit sowie zur Sicherung von Geschäftsfähigkeit bzw. Vorsorgevollmacht/Betreuung und von Pflege"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der geriatrischen Rehabilitation sowie der neurologischen Rehabilitation im Alter"
+    },
+    {
+      "abschnitt": "Geriatrische Krankheitsbilder",
+      "handlungskompetenz": "Prophylaxe alterstypischer und altersassoziierter körperlicher und seelischer Erkrankungen sowie von Immobilität, Gangstörungen und Stürzen"
+    },
+    {
+      "abschnitt": "Neuro-Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Neurologische und physikalische Behandlungsverfahren und soziotherapeutische Maßnahmen einschließlich Physiotherapie, Logopädie, Neuropsychologie und Ergotherapie"
+    },
+    {
+      "abschnitt": "Neuro-Rehabilitation",
+      "handlungskompetenz": "Indikationsstellung für neurologische Rehabilitationsverfahren, Erstellung von Rehabilitationsplänen, Überwachung und epikritische Bewertung der Anwendung der Rehabilitationsverfahren, insbesondere"
+    },
+    {
+      "abschnitt": "Neuro-Rehabilitation",
+      "handlungskompetenz": "- Beantragung von Phase B-Frührehabilitation"
+    },
+    {
+      "abschnitt": "Schmerzbehandlung",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen bei Schmerzsyndromen, insbesondere Neuralgien, sympathisch unterhaltenen Schmerzen und chronischen Schmerzsyndromen"
+    },
+    {
+      "abschnitt": "Schmerzbehandlung",
+      "handlungskompetenz": "Diagnostik und Therapie von Kopf- und Gesichtsschmerzen, zentralen und peripheren Schmerzsyndromen"
+    },
+    {
+      "abschnitt": "Erkrankungen der Hirnnerven und des Hirnstamms",
+      "handlungskompetenz": "Diagnostik und Therapie isolierter und kombinierter Hirnnervenerkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen der Hirnnerven und des Hirnstamms",
+      "handlungskompetenz": "Diagnostik von typischen Hirnstamm-Syndromen"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Risikofaktoren und Symptome zerebraler Ischämien, intrakranieller Blutungen einschließlich Subarachnoidalblutungen sowie intrakranieller Sinus- oder Venenthrombosen"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie ischämisch verursachter neurologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie intrakranieller Blutungen"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie der Subarachnoidalblutungen sowie Vasospasmustherapie"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie intrakranieller Sinus- oder Venenthrombose"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Risikofaktoren sowie Symptome von Rückenmarksgefäßen ausgehender Erkrankungen"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie vaskulär bedingter Erkrankungen des Rückenmarks"
+    },
+    {
+      "abschnitt": "Vaskuläre Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Primär- und Sekundärprophylaxe vaskulärer Erkrankungen"
+    },
+    {
+      "abschnitt": "Infektiöse Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Klinische Manifestationen und Therapieprinzipien von Infektionserkrankungen des zentralen und peripheren Nervensystems sowie der Muskeln einschließlich des Erregerspektrums"
+    },
+    {
+      "abschnitt": "Infektiöse Erkrankungen",
+      "handlungskompetenz": "Septische Enzephalopathie"
+    },
+    {
+      "abschnitt": "Infektiöse Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie von neurologischen Infektionserkrankungen, insbesondere Meningitis/Enzephalitis einschließlich Neurolues, Tuberkulose, Borreliose und der HIV-Erkrankung"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "kognitive_und_methodenkompetenz": "Verlaufsformen und sozialmedizinische Aspekte der Multiplen Sklerose und anderer demyelinisierender Erkrankungen"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "Diagnostik einschließlich der MRT-Kriterien der zeitlichen und räumlichen Dissemination, Schubdefinition, Akuttherapie und immunmodulatorische Therapie der Multiplen Sklerose"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Antikörperdiagnostik und Therapie anderer Autoimmunerkrankungen des Zentralnervensystems einschließlich ZNS-Manifestationen von systemischen Autoimmunerkrankungen, paraneoplastischer und autoimmuner Erkrankungen, z. B. Neuropil-AK assoziierten Enzephalitiden"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie von autoimmun bedingten einschließlich paraneoplastisch bedingten Erkrankungen der Plexus, der peripheren Nerven, der neuromuskulären Endplatte und des vegetativen Nervensystems, insbesondere"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- neuralgische Schulteramyotrophie"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- Guillain-Barré Syndrom (GBS)"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- chronisch inflammatorische demyelinisierende Polyneuropathie (CIDP)"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- Myasthenia gravis und andere myasthene Syndrome"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie von autoimmun bedingten einschließlich paraneoplastisch bedingten Myopathien, insbesondere"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- Polymyositis"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- Dermatomyositis"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- Polymyalgia rheumatica"
+    },
+    {
+      "abschnitt": "Autoimmunerkrankungen",
+      "handlungskompetenz": "- Einschlusskörperchenmyositis"
+    },
+    {
+      "abschnitt": "Metabolische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Metabolische und endokrine Enzephalopathien, Neuropathien und Myopathien einschließlich Mitochondriopathien"
+    },
+    {
+      "abschnitt": "Metabolische Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie neurologischer Komplikationen des Diabetes mellitus"
+    },
+    {
+      "abschnitt": "Metabolische Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie neurologischer Komplikationen der Niereninsuffizienz"
+    },
+    {
+      "abschnitt": "Metabolische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Toxische und medikamentös induzierte Enzephalo-, Neuro- und Myopathien"
+    },
+    {
+      "abschnitt": "Metabolische Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie alkohol-assoziierter neurologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Metabolische Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie chemotherapie-assoziierter neurologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Diagnostik, konservative Therapie und Prognose primärer intrakranieller und spinaler Tumore sowie Tumore der peripheren Nerven einschließlich intrathekaler Therapie"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Diagnostik, konservative Therapie und Prognose von Hirnmetastasen unter Berücksichtigung typischer Primärtumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Mitwirkung bei der systemischen Tumortherapie sowie der supportiven Therapie bei soliden Tumorerkrankungen der Facharztkompetenz"
+    },
+    {
+      "abschnitt": "Traumatisch bedingte Erkrankungen des zentralen und peripheren Nervensystems",
+      "handlungskompetenz": "Diagnostik und konservative Therapie von Schädel-Hirn-Traumata oder Verletzungen des Rückenmarks"
+    },
+    {
+      "abschnitt": "Traumatisch bedingte Erkrankungen des zentralen und peripheren Nervensystems",
+      "handlungskompetenz": "Diagnostik und konservative Therapie traumatisch verursachter Nerven- und Nervenwurzelkompressionen bzw. der Nervengeflechte einschließlich typischer Engpasssyndrome"
+    },
+    {
+      "abschnitt": "Epileptische und andere anfallsartig auftretende Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Anfallssemiologie und Einteilung von Anfällen"
+    },
+    {
+      "abschnitt": "Epileptische und andere anfallsartig auftretende Erkrankungen",
+      "handlungskompetenz": "Diagnostik anfallsartiger Störungen des Bewusstseins einschließlich Synkopen"
+    },
+    {
+      "abschnitt": "Epileptische und andere anfallsartig auftretende Erkrankungen",
+      "handlungskompetenz": "Diagnostik, Therapie und Prognose epileptischer Erkrankungen einschließlich Beratung zu rechtlichen Implikationen und Lebensplanung"
+    },
+    {
+      "abschnitt": "Epileptische und andere anfallsartig auftretende Erkrankungen",
+      "handlungskompetenz": "Diagnostik, Therapie der Altersepilepsie bei degenerativen, vaskulären und anderen zerebralen Läsionen"
+    },
+    {
+      "abschnitt": "Epileptische und andere anfallsartig auftretende Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Pharmakologie von Antikonvulsiva"
+    },
+    {
+      "abschnitt": "Schlafstörungen",
+      "kognitive_und_methodenkompetenz": "Neurologisch relevante Schlaf- und Vigilanzstörungen einschließlich Narkolepsie und Schlaf-Apnoesyndrom"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "Diagnostik und konservative Therapie von Erkrankungen des peripheren Nervensystems einschließlich elektrophysiologischer Lokalisationsdiagnostik, insbesondere von"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "- Syndromen des Plexus brachialis und Plexus lumbosacralis"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "- Syndromen der Nervenwurzeln"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "- Polyneuropathien"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "- Syndromen einzelner peripherer Nerven und ihrer Abschnitte"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "- typischen Engpasssyndromen"
+    },
+    {
+      "abschnitt": "Erkrankungen des peripheren Nervensystems",
+      "handlungskompetenz": "- Blasen-, Mastdarmfunktions- und Erektionsstörungen"
+    },
+    {
+      "abschnitt": "Neurodegenerative Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie des Morbus Parkinson und anderer degenerativer hypokinetisch-rigider oder hyperkinetischer Syndrome einschließlich relevanter Skalen"
+    },
+    {
+      "abschnitt": "Neurodegenerative Erkrankungen",
+      "handlungskompetenz": "Indikationsstellung und Betreuung von Patienten mit invasiven Therapieverfahren"
+    },
+    {
+      "abschnitt": "Neurodegenerative Erkrankungen",
+      "handlungskompetenz": "Botulinumtoxin-Therapie zur Behandlung von Dystonien und Spastik"
+    },
+    {
+      "abschnitt": "Neurodegenerative Erkrankungen",
+      "handlungskompetenz": "Differentialdiagnostik von Gangstörungen und bei Stürzen einschließlich posturaler Störungen"
+    },
+    {
+      "abschnitt": "Neurodegenerative Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie der Alzheimer-Demenz einschließlich der Abgrenzung zu anderen Demenzsyndromen, organisch und nicht-organisch bedingten kognitiven Störungen im Alter"
+    },
+    {
+      "abschnitt": "Neurodegenerative Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie hereditärer degenerativer Erkrankungen und anderer degenerativer Erkrankungen wie amyotrophe Lateralsklerose, spinale Muskelatrophie"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "Psychiatrische Anamnese und differentialdiagnostische psychopathologische Befunderhebung insbesondere von Störungen der Affektivität, des formalen und inhaltlichen Denkens, der Wahrnehmung und Ich-Störungen"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "Erkennung von Suizidalität"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "Anamneseerhebung bei Menschen mit substanzabhängigen und substanzunabhängigen Abhängigkeitserkrankungen einschließlich der Berücksichtigung der Motivationsentwicklung und des sozialen Umfeldes"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "Psychiatrisch-psychotherapeutische Gesprächsführung"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Grundlagen der psychiatrischen Krankheitslehre und Diagnostik"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Therapie von Menschen mit psychischen Erkrankungen und Störungen im Alter"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Qualifizierte Entzugsbehandlung aller stoffgebundenen Süchte, z. B. Alkohol, Medikamente, Nikotin und illegale Drogen"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "Erkennung von und Umgang mit"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "- somatoformen Störungen"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "- organischen Psychosen"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "- bipolaren Störungen"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "- unipolaren Depressionen"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "handlungskompetenz": "- Abhängigkeitserkrankungen, insbesondere Alkoholabhängigkeit"
+    },
+    {
+      "abschnitt": "Psychiatrie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Deeskalierende Maßnahmen im Vorrang zu Zwangsmaßnahmen"
+    }
+  ]
+}

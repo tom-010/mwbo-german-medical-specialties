@@ -1,0 +1,436 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Chirurgie",
+  "bezeichnung": "Facharzt/Fachärztin für Gefäßchirurgie",
+  "zusatzbezeichnung": "Gefäßchirurg/Gefäßchirurgin",
+  "gebietsdefinition": "Das Gebiet Chirurgie umfasst die Vorbeugung, Erkennung, konservative und operative Behandlung, Nachsorge und Rehabilitation von chirurgischen Erkrankungen, Verletzungen und Verletzungsfolgen sowie angeborenen und erworbenen Formveränderungen und Fehlbildungen der Gefäße, der inneren Organe einschließlich des Herzens, der Stütz- und Bewegungsorgane sowie der Wiederherstellungs- und Transplantationschirurgie.",
+  "weiterbildungszeit": "72 Monate im Gebiet Chirurgie unter Befugnis an Weiterbildungsstätten, davon müssen 48 Monate in Gefäßchirurgie abgeleistet werden müssen 6 Monate in der Notfallaufnahme abgeleistet werden müssen 6 Monate in der Intensivmedizin abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken einschließlich Laseranwendung unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Lagerungstechniken, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Techniken der temporären Ruhigstellung und Fixationsverbände"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Defektdeckung bei akuten und chronischen Wunden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Tumortherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Chirurgie",
+      "kognitive_und_methodenkompetenz": "Scoresysteme und Risikoeinschätzung"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Lokal- und Regionalanästhesien"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Abklärung peri- und postoperativer Schmerzzustände"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Diagnostik und Therapie nach dokumentierten Schmerztherapieplänen"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Behandlung von Patienten mit komplexen Schmerzzuständen"
+    },
+    {
+      "abschnitt": "Lokalanästhesie und Schmerztherapie",
+      "handlungskompetenz": "Injektionen und Punktionen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Indikationsstellung zur Notfall-Laparotomie und Thorakotomie"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Überwachung, Monitoring, Dokumentation und Betreuung von intensivmedizinischen Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Mitbehandlung bei septischen Krankheitsbildern"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Pharmakologie der Herz-Kreislauf-Unterstützung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Zentralvenöse Zugänge",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Arterielle Kanülierung und Punktionen"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Thorax-Drainage"
+    },
+    {
+      "abschnitt": "Notfall- und Intensivmedizin",
+      "handlungskompetenz": "Legen eines transurethralen und/oder suprapubischen Katheters"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Gefäßchirurgie",
+      "kognitive_und_methodenkompetenz": "Erkrankungen, Verletzungen, Infektionen und Fehlbildungen bei Arterien, Venen und Lymphgefäßen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Gefäßchirurgie",
+      "handlungskompetenz": "Periinterventionelle Behandlung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Gefäßchirurgie",
+      "handlungskompetenz": "Indikationsstellung zur fachbezogenen humangenetischen Beratung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Gefäßchirurgie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "Diagnostik und Erstmaßnahmen bei akutem Verschluss von peripheren/zentralen Arterien, Venen und nach Gefäßeingriffen, insbesondere",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- bei akutem arteriellem Verschluss bei peripherer Thrombose/Embolie"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- bei akutem arteriellem Verschluss bei Tourniquet-Syndrom"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- bei akutem arteriellem Verschluss bei Kompartmentsyndrom"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- bei akutem Leriche Syndrom"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- bei akuter viszeraler Ischämie"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "Operative und endovaskuläre Therapie gefäßchirurgischer Notfälle, insbesondere",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- peripherer oder zentraler Gefäßverletzung"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- akuter schwerer Blutung aus zentralen und peripheren Gefäßen"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- Aortendissektion, Ruptur eines Aortenaneurysma"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- Gefäßdissektion"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- an Viszeralarterien"
+    },
+    {
+      "abschnitt": "Gefäßchirurgische Notfälle",
+      "handlungskompetenz": "- akuter zentralneurologischer vaskulärer Notfall"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Klinische und apparative Gefäßuntersuchungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Gerinnungsphysiologische, immunologische und hämostaseologische Testverfahren und Labordiagnostik"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "B-Modus-Sonographie der peripheren Arterien und Venen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "CW-Doppler-Sonographie der peripheren Arterien und Venen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "CW-Doppler-Sonographie der extrakraniellen hirnversorgenden Arterien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Duplex-Sonographie der peripheren Arterien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Duplex-Sonographie der peripheren Venen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Duplex-Sonographie der abdominellen, retroperitonealen und mediastinalen Gefäße",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Duplex-Sonographie der extrakraniellen hirnversorgenden Arterien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung der intraoperativen und intraprozeduralen radiologischen Befundkontrolle"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren, insbesondere"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Angiographien einschließlich interventioneller Verfahren, davon"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Digitale Subtraktionsangiographie (DSA)"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- CT-Angiographie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- MR-Angiographie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Planung von endovaskulären Eingriffen einschließlich Beurteilung und Ausmessung von Schnittbilddiagnostik",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken einschließlich der Gewinnung von Untersuchungsmaterial"
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Weichteil-Drainagen"
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Anlage und Korrektur von getunnelten zentralvenösen Kathetern und Portsystemen",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Anlage und Korrektur von Dialyse-Shunts",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Gliedmaßen- und Grenzzonenamputation, operative Behandlung des diabetischen Fußsyndroms und operative Ulkusbehandlung einschließlich Defektdeckung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Thrombolytische Verfahren in Arterien und Venen"
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Revaskularisierende und rekonstruierende Eingriffe an supraaortalen Arterien, davon",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "- offene Eingriffe",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Revaskularisierende und rekonstruierende Eingriffe im brachialen, femoro-poplitealen und cruro-pedalen Gefäßabschnitt",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Revaskularisierende und rekonstruierende Eingriffe an thorakalen, aortalen, viszeralen und iliakalen Gefäßen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Endovaskuläre Eingriffe, auch in interdisziplinärer Kooperation, davon",
+      "richtzahl": 60
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "- an peripheren Arterien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "- an der Aorta",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Neurovaskuläre Kompressionssyndrome"
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Methoden und Techniken der endovaskulären Embolisation und Okklusion bei Gefäßerkrankungen"
+    },
+    {
+      "abschnitt": "Offen-operative und endovaskulär-therapeutische Verfahren",
+      "handlungskompetenz": "Erste Assistenz bei operativen Eingriffen höherer Schwierigkeitsgrade, z. B. komplexe intrathorakale und intraabdominale Rekonstruktionen"
+    },
+    {
+      "abschnitt": "Phlebologische Therapie",
+      "handlungskompetenz": "Eingriffe am Venensystem, davon",
+      "richtzahl": 60
+    },
+    {
+      "abschnitt": "Phlebologische Therapie",
+      "handlungskompetenz": "- offen chirurgisch, z. B. Varizen-Stripping, Perforatorligaturen, Seitenastexhairese",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Phlebologische Therapie",
+      "handlungskompetenz": "- endovenös, Sklerosierungsverfahren"
+    },
+    {
+      "abschnitt": "Phlebologische Therapie",
+      "handlungskompetenz": "Periprozedurale und operative Therapie des postthrombotischen Syndroms"
+    },
+    {
+      "abschnitt": "Phlebologische Therapie",
+      "handlungskompetenz": "Periprozedurale Behandlung von sekundären venösen und lymphatischen Ödemen"
+    },
+    {
+      "abschnitt": "Phlebologische Therapie",
+      "kognitive_und_methodenkompetenz": "Primäre venöse und lymphatische Ödeme"
+    },
+    {
+      "abschnitt": "Perioperative Gefäßmedizin",
+      "handlungskompetenz": "Perioperative Therapie gefäßmedizinischer Erkrankungen einschließlich Infusionstherapie mit vasoaktiven Substanzen"
+    },
+    {
+      "abschnitt": "Perioperative Gefäßmedizin",
+      "kognitive_und_methodenkompetenz": "Maßnahmen der Primärprävention von Gefäßerkrankungen"
+    },
+    {
+      "abschnitt": "Perioperative Gefäßmedizin",
+      "handlungskompetenz": "Beratung einschließlich Basismaßnahmen der Sekundär- und Tertiärprävention von Gefäßerkrankungen"
+    },
+    {
+      "abschnitt": "Perioperative Gefäßmedizin",
+      "kognitive_und_methodenkompetenz": "Strukturierte Raucherentwöhnung"
+    },
+    {
+      "abschnitt": "Vaskuläre Malformationen",
+      "handlungskompetenz": "Klinische und sonographische Diagnostik von vaskulären Malformationen einschließlich Gefäßtumoren"
+    },
+    {
+      "abschnitt": "Vaskuläre Malformationen",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen bei Gefäßmalformationen und von gebietsbezogenen Tumoren, z. B. konservativ, endovaskulär, lasergestützt und operativ"
+    },
+    {
+      "abschnitt": "Septische Gefäßchirurgie",
+      "kognitive_und_methodenkompetenz": "Septische Gefäßerkrankungen und deren Komplikationen"
+    },
+    {
+      "abschnitt": "Septische Gefäßchirurgie",
+      "kognitive_und_methodenkompetenz": "Einsatz autologer, allogener und xenogener Gefäßersatzmaterialien"
+    },
+    {
+      "abschnitt": "Wundmanagement bei vaskulärer Ursache",
+      "handlungskompetenz": "Chirurgisches Wunddébridement",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Wundmanagement bei vaskulärer Ursache",
+      "handlungskompetenz": "Spalthauttransplantationen",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Wundmanagement bei vaskulärer Ursache",
+      "handlungskompetenz": "Indikationsstellung zur kausalen und lokalen Therapie sowie Management vaskulär verursachter Wunden einschließlich des diabetischen Fußsyndroms",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

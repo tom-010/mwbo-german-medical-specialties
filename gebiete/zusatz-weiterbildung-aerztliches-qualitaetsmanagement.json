@@ -1,0 +1,33 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Ärztliches Qualitätsmanagement",
+  "bezeichnung": "Zusatz-Weiterbildung Ärztliches Qualitätsmanagement",
+  "definition": "Die Zusatz-Weiterbildung Ärztliches Qualitätsmanagement umfasst die Grundlagen für eine kontinuierliche Verbesserung von Strukturen, Prozessen und Ergebnissen in der medizinischen Versorgung.",
+  "mindestanforderungen": "24 Monate Weiterbildung in einem Gebiet und zusätzlich 200 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Ärztliches Qualitätsmanagement",
+  "inhalte": [
+    {
+      "abschnitt": "Kursinhalte (200 Stunden)",
+      "text": "Rechtliche Grundlagen"
+    },
+    {
+      "abschnitt": "Kursinhalte (200 Stunden)",
+      "text": "Terminologie, Grundbegriffe und Grundprinzipien des Qualitätsmanagements"
+    },
+    {
+      "abschnitt": "Kursinhalte (200 Stunden)",
+      "text": "Qualitätsmanagement als Führungsaufgabe"
+    },
+    {
+      "abschnitt": "Kursinhalte (200 Stunden)",
+      "text": "Vorgehen im Qualitätsmanagement"
+    },
+    {
+      "abschnitt": "Kursinhalte (200 Stunden)",
+      "text": "Spezielle Aspekte des Qualitätsmanagements"
+    },
+    {
+      "abschnitt": "Kursinhalte (200 Stunden)",
+      "text": "Qualitätsmanagementsysteme und Qualitätsdarlegungssysteme im Gesundheitswesen"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Psychiatrie und Psychotherapie",
+  "bezeichnung": "Facharzt/Fachärztin für Psychiatrie und Psychotherapie",
+  "zusatzbezeichnung": "Psychiater und Psychotherapeut/Psychiaterin und Psychotherapeutin",
+  "gebietsdefinition": "Das Gebiet Psychiatrie und Psychotherapie umfasst die Vorbeugung, Erkennung und somatotherapeutische, psychotherapeutische sowie sozialpsychiatrische Behandlung und Rehabilitation von psychischen Erkrankungen und Störungen, die psycho-somatischen bzw. somato-psychischen Wechselwirkungen und toxischen Schädigungen unter Berücksichtigung ihrer psychosozialen Anteile, psychosomatischen Bezüge und forensischen Aspekte.",
+  "weiterbildungszeit": "60 Monate Psychiatrie und Psychotherapie unter Befugnis an Weiterbildungsstätten, davon müssen 12 Monate in Neurologie abgeleistet werden müssen 24 Monate in der stationären Patientenversorgung abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in Allgemeinmedizin, Innere Medizin, Psychosomatische Medizin und Psychotherapie, Kinder- und Jugendpsychiatrie und -psychotherapie und/oder im Schwerpunkt Forensische Psychiatrie erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Psychiatrie und Psychotherapie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Psychiatrie und Psychotherapie",
+      "handlungskompetenz": "Deeskalierende Maßnahmen im Vorrang zu Zwangsmaßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Psychiatrie und Psychotherapie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung",
+      "richtzahl": 3
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Psychiatrie und Psychotherapie",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer Krankheitsbilder"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Psychiatrie und Psychotherapie",
+      "handlungskompetenz": "Indikationsstellung für eine humangenetische Beratung"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Allgemeine und spezielle Psychopathologie"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Diagnostik und Therapie psychischer Erkrankungen und Störungen unter Einbeziehung biologischer, psychologischer und sozialer Faktoren"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Somatische, insbesondere neurobiologische, soziale und psychologische Grundlagen und Differentialdiagnostik sowie Verlauf psychischer Erkrankungen und Störungen einschließlich Transitionsphasen"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Psychotherapie in den wissenschaftlich anerkannten Verfahren, insbesondere der tiefenpsychologisch fundierten Psychotherapie, der Verhaltenstherapie, der systemischen Therapie sowie der Neuropsychologie"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der somatischen und psychotherapeutischen Behandlung in der forensischen Psychiatrie"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Psychodiagnostische Testverfahren, neuropsychologische und neurophysiologische Untersuchungs- und Behandlungsmethoden"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Psychiatrische und psychotherapeutische Anamnese- und Befunderhebung unter Einbeziehung familiärer, psychosozialer, altersspezifischer, epidemiologischer und transkultureller sowie kultur- und werteorientierter Gesichtspunkte einschließlich der Anwendung standardisierter Verfahren sowie Fremd- und Selbstbeurteilungsskalen, davon"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "- dokumentierte Erstuntersuchungen",
+      "richtzahl": 60
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von elektrophysiologischen Methoden, z. B. Elektroenzephalographie"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation bildgebender Verfahren, z. B. kraniale Computertomographie, Kernspin- und Positronen-Emissions-Tomographie"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Lumbalpunktionen einschließlich der Interpretation von Liquordiagnostik"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der neuropsychiatrischen Differentialdiagnostik und der klinisch-neurologischen Diagnostik"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Psychiatrische und psychotherapeutische Konsiliar- und/oder Liaisondienste, davon"
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "- dokumentierte Fälle",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Psychiatrische Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Diagnostik von psychischen Erkrankungen und Störungen im Alter unter Berücksichtigung von Multimorbidität und Einbeziehung des psychosozialen Umfeldes"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Psychische Erkrankungen und Störungen im Kindes- und Jugendalter"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Technik der Behandlung durch Spezialtherapeuten, z. B. Ergotherapeuten, Physiotherapeuten, Heilpädagogen, Sprach-, Bewegungs- und Kreativtherapeuten"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Angehörigenarbeit und trialogische Arbeit"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Spezielle Versorgungsformen, z. B. Home Treatment, Akutbehandlung im häuslichen Umfeld, Interventionen in den Bereichen Wohnen und Arbeit"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Einleitung von Maßnahmen zur Wiederherstellung der Selbstständigkeit und Minderung der Pflegebedürftigkeit, zur Sicherung der Geschäftsfähigkeit sowie Einleitung von Vorsorgevollmacht, Betreuung und Pflege"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Psychiatrische und psychotherapeutische Therapie von Menschen mit psychischen Erkrankungen und Störungen mittels bio-psycho-sozialem Behandlungsansatz unter Berücksichtigung der Transitionsphasen, davon"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "- dokumentierte Fälle",
+      "richtzahl": 300
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Therapie von Traumafolgestörungen mittels wissenschaftlich anerkannter Verfahren bei Patienten",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Psychopharmakologie"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Somatische Therapieverfahren, z. B. Lichttherapie, Stimulationsverfahren, Schlafphasenverschiebung und Wachtherapie"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der psychosozialen Therapien"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Einleitung und Überwachung von ergotherapeutischen, sport- und bewegungstherapeutischen und kreativtherapeutischen Maßnahmen"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Mitbehandlung von Folgen psychischer Erkrankungen und Störungen auf somatische Funktionen sowie Behandlung von Folgen somatischer Erkrankungen auf psychische Funktionen"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Behandlung von Menschen mit psychischen Erkrankungen und Störungen aufgrund von Störungen der Schlaf-Wach-Regulation, der Schmerzwahrnehmung und der Sexualentwicklung und -funktionen einschließlich Störungen der sexuellen Identität"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Psychopharmakotherapie einschließlich Drugmonitoring, der Erkennung und Verhütung unerwünschter Therapieeffekte sowie der Probleme der Mehrfachverordnung und Risiken des Arzneimittelgebrauchs unter Einbeziehung rechtlicher, ökonomischer und ethischer Fragen einschließlich der Besonderheiten der Pharmakologie im Alter"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Mitwirkung bei Elektrokonvulsionstherapie (EKT) und anderen Hirnstimulationsverfahren"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Therapie von Menschen mit psychischen Erkrankungen und Störungen im Alter unter Berücksichtigung von Multimorbidität, Polypharmazie und Einbeziehung des psychosozialen Umfeldes"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Palliativmedizin"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Entspannungsverfahren, z. B. autogenes Training, progressive Muskelrelaxation, Hypnose"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Anwendung supportiver und psychoedukativer Methoden"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Psychiatrisch-psychotherapeutische Gesprächsführung und Beziehungsgestaltung unter Berücksichtigung von Syndrom und Krankheitsstadium, der eingeschränkten kognitiven und affektiven Wahrnehmungsfähigkeit und Introspektionsfähigkeit des Patienten"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Psychotherapeutische evidenzbasierte Kurzinterventionen (Techniken), die aus den wissenschaftlichen anerkannten Therapieverfahren und -methoden hergeleitet sind, in Therapieeinheiten in vier Sitzungen à mindestens 20 Minuten"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Durchführung wissenschaftlich anerkannter Psychotherapieverfahren und Methoden, insbesondere ENTWEDER im verhaltenstherapeutischen Verfahren ODER im psychodynamischen/tiefenpsychologischen Verfahren ODER im Verfahren der systemischen Therapie (Einzel-, Paar- oder Familientherapie)"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "- Theorie- und Fallseminare in Stunden",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "- dokumentierte Fälle Einzelpsychotherapie (bei systemischer Therapie auch Paar- und Familientherapie) mit Patienten in der jeweiligen Grundorientierung unter Supervision, davon",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "- Kurzzeitpsychotherapien von 5 - 25 Stunden Therapiedauer",
+      "richtzahl": 6
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "- Psychotherapien von mindestens 25 Stunden Therapiedauer",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "- Langzeittherapien von mindestens 45 Stunden Therapiedauer",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Gruppenpsychotherapie in der gewählten Grundorientierung mit 3 bis 9 Teilnehmern unter Supervision in Stunden",
+      "richtzahl": 120
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Koordination der sozialpsychiatrischen Behandlung"
+    },
+    {
+      "abschnitt": "Behandlung psychischer Erkrankungen und Störungen",
+      "handlungskompetenz": "Behandlung psychischer Erkrankungen und Störungen bei Menschen mit Behinderung und mit Intelligenzminderung"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Entzugs- und Substitutionsbehandlung"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Krisenintervention und suchtmedizinische Notfälle"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Qualifizierte Entzugsbehandlung aller stoffgebundenen Süchte, insbesondere Alkohol, Medikamente, Nikotin und illegale Drogen"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "kognitive_und_methodenkompetenz": "Suchthilfesystem, z. B. Beratungsstellen, Selbsthilfegruppen"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Anamneseerhebung bei Menschen mit substanzabhängigen und substanzunabhängigen Abhängigkeitserkrankungen einschließlich der Berücksichtigung der Motivationsentwicklung und des sozialen Umfeldes, davon"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "- dokumentierte Fälle",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Suchtmedizinische Behandlung und Beratung von Menschen mit krankhaftem stoffgebundenen und nicht stoffgebundenen Suchtverhalten mit Anwendung von somatotherapeutischen und psychotherapeutischen Verfahren einschließlich der motivierenden Gesprächsführung, davon"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "- dokumentierte Fälle mit jeweils mindestens 5 Sitzungen",
+      "richtzahl": 3
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Klassifikationsmodelle der Funktionsfähigkeit, Behinderung und Gesundheit von Menschen mit psychischen Erkrankungen und Störungen, z. B. International Classification of Functioning, Disability and Health (ICF)"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Primär-, Sekundär- und Tertiärprävention bei psychischen Erkrankungen und Störungen einschließlich Suchterkrankungen, auch bei Ko-und Multimorbidität mit somatischen Krankheiten"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Primärprävention psychischer Störungen in Familien mit psychisch kranken Eltern"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "Beratung, Koordination, Begleitung und Einleitung präventiver und rehabilitativer Maßnahmen zur Teilhabe an allen Lebensbereichen einschließlich Suchterkrankungen"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "Befunderstellung für Rehabilitationsanträge"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Krisenintervention bei Suizidalität, Intoxikation, Delir, maniformen Syndromen, katatonen Syndromen, akuten Angstzuständen, dissoziativen Syndromen und anderen Notfällen bei Menschen mit psychischen Erkrankungen und Störungen"
+    },
+    {
+      "abschnitt": "Selbsterfahrung",
+      "kognitive_und_methodenkompetenz": "Personale Kompetenzen und Beziehungskompetenzen"
+    },
+    {
+      "abschnitt": "Selbsterfahrung",
+      "handlungskompetenz": "Einzelselbsterfahrung und/oder Gruppenselbsterfahrung ENTWEDER im verhaltenstherapeutischen Verfahren ODER im psychodynamischen/tiefenpsychologischen Verfahren ODER im Verfahren der systemischen Therapie in Stunden, welche im gleichen psychotherapeutischen Verfahren erfolgen muss, in welchem die Psychotherapiestunden geleistet werden, davon",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Selbsterfahrung",
+      "handlungskompetenz": "- Doppelstunden in einer kontinuierlichen Gruppe",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Selbsterfahrung",
+      "handlungskompetenz": "Balintgruppenarbeit oder interaktionsbezogene Fallarbeit in Doppelstunden",
+      "richtzahl": 35
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Neuropsychologisch-neuropsychiatrische Diagnostik zur Erfassung neuropsychologischer Syndrome wie Störungen der Orientierung, der Aufmerksamkeit und der Konzentration, der Sprache, z. B. bei Frontalhirnsyndromen"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Kopf- und Gesichtsschmerzen, zentrale und periphere Schmerzsyndrome"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Grundlagen der neuropsychiatrischen Differentialdiagnostik und der klinisch-neurologischen Diagnostik, insbesondere der verschiedenen Formen erworbener neuropsychiatrischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "Neurologische Anamnese und klinisch-neurologische Befunderhebung, insbesondere unter Beachtung motorischer Symptome und Syndrome, z. B. Gangstörung, Akinese, Rigor, Tremor und Sprachstörungen wie Aphasie, Sprechapraxie und Dysarthrie"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "Erkennung und Umgang mit"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "- vaskulären Erkrankungen des Gehirns, insbesondere Ischämien und Blutungen"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "- entzündlichen und Autoimmunerkrankungen des Nervensystems"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "- anfallsartigen Störungen des Bewusstseins und Epilepsien"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "- Hirntumoren und anderen raumfordernden Prozessen"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "- degenerativen Erkrankungen des Nervensystems mit dem Leitsymptom Demenz und Basalganglienerkrankungen, insbesondere Parkinsonsyndrome"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "- somatoforme Störungen der Motorik"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Grundlagen neuropsychologischer Therapien nach Hirnschädigung und bei Hirnfunktionsstörungen"
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "handlungskompetenz": "Durchführung und Befunderstellung von standardisierten Testverfahren und Skalen bei neuropsychologischen/verhaltensneurologischen Störungen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Neurologie im Rotationsjahr",
+      "kognitive_und_methodenkompetenz": "Hirnorganische Ursachen für psychiatrische Erkrankungen"
+    }
+  ]
+}

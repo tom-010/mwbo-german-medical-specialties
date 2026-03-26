@@ -1,0 +1,453 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Mund-Kiefer-Gesichtschirurgie",
+  "bezeichnung": "Facharzt/Fachärztin für Mund-Kiefer-Gesichtschirurgie",
+  "zusatzbezeichnung": "(Mund-Kiefer-Gesichtschirurg/Mund-Kiefer-Gesichtschirurgin) Der Abschluss in der Facharztweiterbildung Mund-Kiefer-Gesichtschirurgie setzt auch das zahnärztliche Staatsexamen voraus.",
+  "gebietsdefinition": "Das Gebiet Mund-Kiefer-Gesichtschirurgie umfasst die Gesundheitsberatung, Vorbeugung, Erkennung, nicht-operative und operative Behandlung, Nachsorge und Rehabilitation von Erkrankungen, Verletzungen, Frakturen, Tumoren, Fehlbildungen sowie Form- und Funktionsveränderungen der Zähne, des Zahnhalteapparates, der Alveolarfortsätze, des Gaumens, der Kiefer, der Kieferhöhlen, der Mundhöhle einschließlich der Zunge, der Wange, der Lippen und des angrenzenden Rachens, der Speicheldrüsen sowie des Gesichtsschädels, der Lider, Orbita und Periorbita, der frontalen Schädelbasis und der bedeckenden Weichgewebe des Kopfes, Gesichtes und Halses einschließlich der Behandlung des fachbezogenen erkrankten Lymphsystems sowie der chirurgischen Kieferorthopädie, Implantologie sowie der prothetisch-epithetischen Versorgung.",
+  "weiterbildungszeit": "60 Monate Mund-Kiefer-Gesichtschirurgie unter Befugnis an Weiterbildungsstätten, davon können zum Kompetenzerwerb bis zu 12 Monate zahnmedizinische Weiterbildung in Oralchirurgie bei einem Weiterbildungsbefugten für Mund-Kiefer-Gesichtschirurgie erfolgen können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Infusions-, Transfusions- und Blutersatztherapie, enterale und parenterale Ernährung einschließlich Sondenlegung und Sondenernährung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Chirurgische Techniken und Instrumentengebrauch einschließlich Laseranwendung, insbesondere Inzision, Präparation, Retraktion, Naht- und Knotentechniken unter Berücksichtigung der verschiedenen Gewebestrukturen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "kognitive_und_methodenkompetenz": "Scoresysteme und Risikoeinschätzung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Chirurgische perioperative Behandlung einschließlich Vorbereitung, Nachsorge und Komplikationsmanagement sowie Indikationsstellung zu weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "kognitive_und_methodenkompetenz": "Wundheilung und Narbenbildung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Wundmanagement und stadiengerechte Wundtherapie sowie Verbandslehre einschließlich verschiedene Wundauflagen, Unterdruck- und Kompressionstherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Biopsien und Exzisionen von Hauttumoren und Hautveränderungen sowie Wundversorgung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Prophylaxe, Diagnostik und Therapie von Thrombosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Mund-Kiefer-Gesichtschirurgie",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "kognitive_und_methodenkompetenz": "Prinzipien dentoalveolärer Operationsverfahren"
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "handlungskompetenz": "Operative Eingriffe der dentoalveolären Chirurgie, z. B.",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "handlungskompetenz": "- operative Entfernung von verlagerten Zähnen"
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "handlungskompetenz": "- chirurgische Zahnerhaltung, z. B. durch Wurzelspitzenresektionen"
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "handlungskompetenz": "- parodontale Chirurgie"
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "handlungskompetenz": "- dentale Implantologie einschließlich Navigation und Prothetik sowie alveoläre Hart-und Weichgewebeaugmentationen"
+    },
+    {
+      "abschnitt": "Dentoalveoläre Chirurgie",
+      "handlungskompetenz": "- Behandlung odontogener und nicht odontogener Zysten"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "kognitive_und_methodenkompetenz": "Pathophysiologie von schweren Verletzungen, des Polytraumas und deren Folgen"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "Erkennung und Behandlung akuter Notfälle einschließlich lebensrettender Maßnahmen"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "Endotracheale Intubation"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "Operative Eingriffe bei Verletzungen, z. B.",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "- Versorgung von Weichgewebe- und/oder Knochenverletzungen"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "- Zahntraumatologie"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "- Schienungen von frakturierten Kiefern"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "- Osteosynthesen bei Schädelverletzungen"
+    },
+    {
+      "abschnitt": "Traumatologie und Notfälle",
+      "handlungskompetenz": "Elektive und Notfalltracheotomie",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "Entzündliche und infektiöse Erkrankungen, z. B."
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "- erregerbedingte Infektionen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "- allergiebedingte und medikamentenbedingte Entzündungen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "- Bindegewebserkrankungen einschließlich Kollagenosen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "Immun- und Autoimmunkrankheiten, insbesondere Granulomatosen, Vaskulitiden und andere Bindegewebserkrankungen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "Behandlung einschließlich der Nachsorge von entzündlichen und infektiösen Erkrankungen, insbesondere"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "- fortgeleitete Entzündungen, Logenabszesse und Phlegmone"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "- Speicheldrüsenerkrankungen und Speichelsteine"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "- Kieferhöhlenerkrankungen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "Unterstützende Maßnahmen zur Förderung der Wundheilung"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "Operative Eingriffe der septischen Chirurgie, insbesondere",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "- transorale sowie transkutane Inzisionen und Drainagen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "- gebietsbezogene Kieferhöhlenoperationen und Speichelstein- und Speicheldrüsen-Entfernungen"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "- bei Osteomyelitis und Kiefernekrosen"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "kognitive_und_methodenkompetenz": "Fehlbildungen und Fehlformen der Zähne, des Gesichtes und seiner Teile, des Gesichtsschädels und des äußeren Schädels, z. B."
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "kognitive_und_methodenkompetenz": "- Lippen-Kiefer-Gaumenspalte"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "kognitive_und_methodenkompetenz": "- Syndrome mit Beteiligung des Gesichtes"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "kognitive_und_methodenkompetenz": "- Kraniosynostosen"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "kognitive_und_methodenkompetenz": "- Fehlbisslagen, dysontogenetische Zysten und Fisteln"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "kognitive_und_methodenkompetenz": "Anwendung von Kopforthesen"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "handlungskompetenz": "Diagnostik, konservative und operative Therapie sowie die Nachsorge bei Fehlbildungen und Formstörungen des Gesichtes, seiner Teile und des äußeren Schädels einschließlich Operationsplanungen am Modell oder digital einschließlich Beratung und Entwicklung von Therapieplänen"
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "handlungskompetenz": "Mitwirkung bei komplexen Eingriffen der Fehlbildungschirurgie einschließlich Dysontogenese, insbesondere Lippen-Kiefer-Gaumenspalten und syndromale Gesichtsfehlbildungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "handlungskompetenz": "Umstellungsosteotomien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Fehlbildungen und Formstörungen",
+      "handlungskompetenz": "Indikationsstellung zur humangenetischen Beratung"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Diagnostik, Therapie und Nachsorge intra- und extraoraler Tumore, davon"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Durchführung von Probeexzisionen einschließlich Bürstenbiopsien",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumorresektionen, auch lasergestützt, in der Mundhöhle, an den Lippen, den Speicheldrüsen, der Haut und der Unterhaut von Gesicht, Kopf und Hals einschließlich Lymphadenektomien und Rekonstruktionen durch z. B. Hart- und Weichgewebeverpflanzungen, mikrochirurgische Transplantationen einschließlich der Transplantatentnahme, des Entnahmedefektverschlusses und der Gefäßanschlüsse",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Diagnostische Techniken zur Erfassung der lokalen Tumorausbreitung und zur Lymphknoten-und Fernmetastasendiagnostik"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen medikamentöser Tumortherapie und Strahlentherapie"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Mitwirkung bei der systemischen Tumortherapie sowie der supportiven Therapie bei soliden Tumorerkrankungen der Facharztkompetenz"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Lichtunterstützte Chemotherapie"
+    },
+    {
+      "abschnitt": "Degenerative Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Kieferatrophie, Speicheldrüsenerkrankungen, Kiefergelenkerkrankungen"
+    },
+    {
+      "abschnitt": "Degenerative Erkrankungen",
+      "handlungskompetenz": "Operative Eingriffe der präprothetischen Chirurgie, insbesondere Mundvorhofplastik, enossale Implantationen, Auflagerungsplastiken und andere Augmentationsverfahren",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Degenerative Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie bei degenerativen Speicheldrüsenerkrankungen, z. B. Sialometrie, Speicheldrüsenendoskopie"
+    },
+    {
+      "abschnitt": "Degenerative Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie bei Kiefergelenkerkrankungen, z. B. Kiefergelenksendoskopie und -chirurgie"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen",
+      "kognitive_und_methodenkompetenz": "Störungen des orofazialen Systems, z. B. Beweglichkeitsstörungen des Kiefers, Diskusverlagerungen, Schmerzerscheinungen"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen",
+      "handlungskompetenz": "Diagnostik, Therapie und Nachsorge bei funktionellen Störungen des orofazialen Systems einschließlich Einleitung und Überwachung unterstützender Maßnahmen, z. B. physikalische, logopädische und psychosomatische Therapie sowie Akupunktur"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen",
+      "handlungskompetenz": "Durchführung funktionstherapeutischer Maßnahmen, z. B. Aufbiss-Behelfe"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "kognitive_und_methodenkompetenz": "Endokrine Erkrankungen, z. B. endokrine Orbitopathie, Akromegalie"
+    },
+    {
+      "abschnitt": "Endokrine Störungen",
+      "kognitive_und_methodenkompetenz": "Folgezustände endokriner Störungen, z. B. nach autoimmuner Thyreoiditis, bei Speicheldrüsenerkrankungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Untersuchungen an Kopf, Hals, Mundhöhle und Gesicht, insbesondere"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- klinische Funktionsanalyse einschließlich instrumentelle Funktions- und Okklusionsanalyse"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- gebietsbezogene Hirnnervenuntersuchungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- endoskopische Verfahren, z. B. an Oropharynx und Nebenhöhlen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Elektrophysiologische Untersuchungen, z. B. Elektromyographie der Kau- und Gesichtsmuskulatur"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von intra- und extraoralen zwei- und dreidimensionalen Bildgebungsverfahren der Zähne, des Gesichtsschädels und der Weichgewebe des Kopfes und des Halses, z. B.",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- digitale Volumentomographie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Einzelzahnaufnahme und Panoramaschichtaufnahme"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Nasennebenhöhlenaufnahme"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Fernröntgenbild"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Sonographische Untersuchungen, insbesondere",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- der Gesichts- und Halsweichgewebe sowie der Nasennebenhöhlen und des Gesichtsskelettes, z. B. Jochbogen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- Doppler-/Duplex-Sonographien der extrakraniellen hirnversorgenden Gefäße"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Analgosedierung und notwendige Überwachungsverfahren"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "handlungskompetenz": "Anästhesie- und Schmerztherapieverfahren im Kopf- und Halsbereich, insbesondere",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "handlungskompetenz": "- Leitungsanästhesie an den peripheren Hirnnerven"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "handlungskompetenz": "- Terminalanästhesie einschließlich intraligamentärer Anästhesie"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Tumeszenzanästhesie"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Akupunktur, Akupressur, Transkutanen elektrische Nervenstimulation, Neuromodulatoren, Membranstabilisatoren"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "handlungskompetenz": "Operative Eingriffe an peripheren Gesichtsnerven, z. B. Dekompressionen, Nervenverlagerungen, Neurolysen und Wiederherstellung der sensiblen und motorischen Nerven",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Indikation für interventionelle Verfahren, z. B. Langzeitnervenblockaden, Implantation von Neurostimulatoren"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Chronifizierungsprozesse bei Schmerzpatienten"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "handlungskompetenz": "Schmerzanamnesen und Untersuchungen bei Schmerzpatienten einschließlich Anwendung von validierten Skalen und Fragebögen zur Schmerzdokumentation"
+    },
+    {
+      "abschnitt": "Lokal- und Regionalanästhesie, spezielle Schmerztherapie",
+      "kognitive_und_methodenkompetenz": "Pharmakologische und nicht-pharmakologische Schmerztherapie"
+    },
+    {
+      "abschnitt": "Prävention, Gesundheitsberatung und Rehabilitation",
+      "handlungskompetenz": "Früherkennungsuntersuchungen von gebietsbezogenen Tumoren und deren Vorstufen"
+    },
+    {
+      "abschnitt": "Prävention, Gesundheitsberatung und Rehabilitation",
+      "handlungskompetenz": "Beratung zu Mund- und Zahnhygiene sowie Suchtprävention und Entwöhnung"
+    },
+    {
+      "abschnitt": "Prävention, Gesundheitsberatung und Rehabilitation",
+      "handlungskompetenz": "Rehabilitation durch Defektprothetik und Epithetik"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atemstörungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Diagnostik, z. B. Polysomnographie, sowie der Therapie, z. B. Mundvorhofschilde, Unterkieferprotrusionsschienen, Umformungen des Gesichtsschädels und der Weichgewebe zur Vergrößerung der funktionellen Atemwege einschließlich Prophylaxe und Nachsorge von schlafbezogenen Atemstörungen mit Obstruktion der oberen Atemwege"
+    },
+    {
+      "abschnitt": "Schlafbezogene Atemstörungen",
+      "handlungskompetenz": "Interdisziplinäre Therapieplanung bei schlafbezogenen Atemstörungen"
+    },
+    {
+      "abschnitt": "Wiederherstellungschirurgie",
+      "kognitive_und_methodenkompetenz": "Prinzipien der Plastischen und Wiederherstellungschirurgie, z. B. Einsatz von Biomaterialien, Weichgewebekorrekturen einschließlich Gesichtshautstraffung"
+    },
+    {
+      "abschnitt": "Wiederherstellungschirurgie",
+      "handlungskompetenz": "Plastische Maßnahmen geringeren Schwierigkeitsgrades an Mundhöhle, Gesicht und Kopf, z. B.",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Wiederherstellungschirurgie",
+      "handlungskompetenz": "- Defektdeckungen einschließlich Transplantatentnahmen"
+    },
+    {
+      "abschnitt": "Wiederherstellungschirurgie",
+      "handlungskompetenz": "- Nahlappenplastiken"
+    },
+    {
+      "abschnitt": "Wiederherstellungschirurgie",
+      "handlungskompetenz": "- Implantation von Biomaterialien"
+    },
+    {
+      "abschnitt": "Wiederherstellungschirurgie",
+      "handlungskompetenz": "- Ohrmuschelanlegeplastiken"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie und Strahlenphysik bei der Anwendung ionisierender Strahlen am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Patienten und Personal einschließlich der Personalüberwachung und des baulichen und apparativen Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Voraussetzungen zur Erlangung der erforderlichen Fachkunden im gesetzlich geregelten Strahlenschutz"
+    }
+  ]
+}

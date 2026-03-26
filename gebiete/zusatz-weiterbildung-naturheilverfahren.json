@@ -1,0 +1,41 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Naturheilverfahren",
+  "bezeichnung": "Zusatz-Weiterbildung Naturheilverfahren",
+  "definition": "Die Zusatz-Weiterbildung Naturheilverfahren umfasst in Ergänzung zu einer Facharztkompetenz die Anregung der individuellen körpereigenen Ordnungs- und Heilkräfte durch Anwendung nebenwirkungsarmer oder nebenwirkungsfreier natürlicher Mittel.",
+  "mindestanforderungen": "Facharztanerkennung und zusätzlich 240 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Naturheilverfahren",
+  "inhalte": [
+    {
+      "abschnitt": "Kursinhalte (160 Stunden)",
+      "text": "Grundlagen der Naturheilkunde"
+    },
+    {
+      "abschnitt": "Kursinhalte (160 Stunden)",
+      "text": "Therapie- und Verfahrensgrundlagen"
+    },
+    {
+      "abschnitt": "Kursinhalte (160 Stunden)",
+      "text": "Verfahren in der Naturheilkunde"
+    },
+    {
+      "abschnitt": "Kursinhalte (160 Stunden)",
+      "text": "Therapie mit Arzneimitteln und Nahrungsergänzungsmitteln"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Spezifik naturheilkundlicher Diagnostik"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Therapeutische Möglichkeiten/Verfahren"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Hauptindikationsbereiche"
+    },
+    {
+      "abschnitt": "Fallseminare (80 Stunden)",
+      "text": "Naturheilverfahren bei ausgewählten Patientengruppen"
+    }
+  ]
+}

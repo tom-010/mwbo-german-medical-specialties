@@ -1,0 +1,168 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Chirurgie",
+  "bezeichnung": "Schwerpunkt Spezielle Viszeralchirurgie",
+  "zusatzbezeichnung": "Spezieller Viszeralchirurg/Spezielle Viszeralchirurgin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Spezielle Viszeralchirurgie baut auf der Facharzt-Weiterbildung Viszeralchirurgie auf.",
+  "weiterbildungszeit": "Spezielle Viszeralchirurgie gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Spezielle Viszeralchirurgie",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnose und Therapieoptionen von komplexen Erkrankungen, Verletzungen, Infektionen und Fehlbildungen innerer Organe"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Spezielle Viszeralchirurgie",
+      "handlungskompetenz": "Indikationsstellung zur operativen und konservativen Behandlung einschließlich der Risikoeinschätzung und prognostischen Beurteilung von komplexen Erkrankungen, Verletzungen, Infektionen und Fehlbildungen innerer Organe"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Schwerpunkt-Weiterbildung Spezielle Viszeralchirurgie",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung zu gastroenterologischen, onkologischen, strahlentherapeutischen und nuklearmedizinischen Behandlungsverfahren einschließlich Falldarstellung in interdisziplinären Tumorkonferenzen"
+    },
+    {
+      "abschnitt": "Diagnostische und interventionelle Verfahren",
+      "handlungskompetenz": "Mitwirkung bei interdisziplinären interventionellen Verfahren wie radiologisch und radiologisch-endoskopischen Verfahren sowie von endosonographischen Untersuchungen des Gastrointestinaltraktes"
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Ultraschallgesteuerte diagnostische und therapeutische Eingriffe, auch in interdisziplinärer Zusammenarbeit",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Flexibel endoskopisches Komplikationsmanagement, z. B. Clipping, Stenting, endoskopische Vakuumtherapie"
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Eingriffe höheren Schwierigkeitsgrades an endokrinen Organen, z. B. bei Schilddrüsenkarzinom, an Nebenschilddrüsen, an Nebennieren",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Sternotomie, Thorakotomie bzw. Thorakoskopie im Rahmen von gastroenterologischen und endokrinen Eingriffen sowie bei Notfällen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Resezierende Eingriffe am Ösophagus, insbesondere mit Wiederherstellung der Kontinuität",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Komplexe Eingriffe an Bauchhöhle und an der Bauchwand, davon",
+      "richtzahl": 300
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- am Magen, davon",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- Resektion, Gastrektomie mit D2-Lymphadenektomie",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- minimal invasive Resektionen, z. B. Wedge-Resektion sowie Fundoplicatio",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- an der Leber, resezierende Eingriffe, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- anatomische Resektion",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- konventionelle Cholezystektomie, z. B. bei Gangrän, Perforation, Umstieg nach laparoskopischem Beginn",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- biliodigestive Anastomosen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- am Pankreas, resezierende und drainierende Eingriffe",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- an der Milz einschließlich milzerhaltende Eingriffe, auch in Kombination mit resezierenden Eingriffen an Magen und Pankreas",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- am Dünndarm, z. B. bei chronisch entzündlichen Darmerkrankungen und komplexen Verwachsungssituationen",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- am Dickdarm, z. B. bei chronisch entzündlichen Darmerkrankungen, Divertikulitis, ausgedehnten Tumoren, davon"
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- minimal invasive Resektion",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- komplexe onkologische Resektion",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- nicht-onkologische Resektion",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- Korrektureingriffe enteraler Stomata",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- am Rektum, davon",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- anteriore Resektion mit partieller mesorektaler Exzision, davon",
+      "richtzahl": 15
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- tiefes Rektum mit totaler mesorektaler Exzision",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- abdominoperineale Rektumexstirpation"
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- transanale Eingriffe, z. B. transanale endoskopische Mikrochirurgie",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "- Rezidiveingriffe bei Leisten- und Bauchwandhernien",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Eingriffe bei komplexen Abdominaltraumata",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Operative Verfahren",
+      "handlungskompetenz": "Komplexe proktologische Operationen, z. B. Sphinkterrekonstruktion bei hohen Analfisteln, nach Geburtstraumata und bei Morbus Crohn",
+      "richtzahl": 20
+    }
+  ]
+}

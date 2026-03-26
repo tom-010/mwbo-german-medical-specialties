@@ -1,0 +1,150 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Sozialmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Sozialmedizin",
+  "definition": "Die Zusatz-Weiterbildung Sozialmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Bewertung von Art und Umfang gesundheitlicher Störungen und deren Auswirkungen auf die Leistungsfähigkeit und die Teilhabe an Lebensbereichen unter Berücksichtigung der Wechselwirkungen zwischen Krankheit, Gesundheit, Individuum und Gesellschaft sowie deren Einordnung in die Rahmenbedingungen der sozialen Sicherungssysteme und die diesbezügliche Beratung der Sozialleistungsträger.",
+  "mindestanforderungen": "Facharztanerkennung und zusätzlich 320 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in Sozialmedizin, davon 160 Stunden Kurs-Weiterbildung in Sozialmedizin/Rehabilitationswesen, 160 Stunden Kurs-Weiterbildung in Sozialmedizin und zusätzlich Sozialmedizin gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Gemeinsame Inhalte für die Zusatz-Weiterbildungen Sozialmedizin und Rehabilitationswesen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Sozialmedizin",
+      "kognitive_und_methodenkompetenz": "Ethische und juristische Aspekte für die Tätigkeit als Sachverständiger"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Sozialmedizin",
+      "handlungskompetenz": "Anwendung des biopsychosozialen Modells der WHO bei der Beurteilung von Funktionsfähigkeit unter Berücksichtigung von Kontextfaktoren sowie Erstellung von Funktionsdiagnosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Sozialmedizin",
+      "kognitive_und_methodenkompetenz": "Begriffsbestimmung und Konzepte der Sozial- und Rehabilitationsmedizin einschließlich der Behindertenrechtskonvention der UN"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Sozialmedizin",
+      "kognitive_und_methodenkompetenz": "Begriffsdefinitionen und Abgrenzung der Gesundheitsstrategien Prävention, Kuration, Rehabilitation und Pflege"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Prinzipien des Gesundheits- und Sozialsystems und deren Interaktion"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "handlungskompetenz": "Anwendung des trägerübergreifenden Teilhabebegriffs und Steuerung von trägerspezifischen und trägerübergreifenden Teilhabeleistungen"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Epidemiologie, Dokumentation, Statistik und Gesundheitsberichterstattung"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Sozialleistungsträger und ihre Aufgaben und Schnittstellen gemäß Sozialgesetzbuch"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "handlungskompetenz": "Anwendung der gesetzlichen Vorschriften und leistungsrechtlichen Begriffe im gegliederten System der sozialen Sicherung"
+    },
+    {
+      "abschnitt": "Soziale Sicherungssysteme und Versorgungsstrukturen",
+      "kognitive_und_methodenkompetenz": "Strukturen und Aufgaben privater Versicherungen zur sozialen Absicherung"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Leistungsarten und Leistungsformen einschließlich Modellen der Prävention und Gesundheitsförderung"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Organisationen und Institutionen in der Rehabilitation einschließlich Einrichtungen der medizinischen, beruflichen und sozialen Rehabilitation"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Theoriemodelle der Rehabilitation und Grundlagen der internationalen Richtlinien und Empfehlungen zu Behinderung und Rehabilitation"
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "Begehung von Einrichtungen, davon",
+      "richtzahl": 6
+    },
+    {
+      "abschnitt": "Gesundheitsförderung, Prävention und Rehabilitation",
+      "handlungskompetenz": "- Rehabilitationseinrichtungen",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Spezifische Inhalte der Zusatz-Weiterbildung Sozialmedizin"
+    },
+    {
+      "abschnitt": "Arbeitsmedizinische Grundlagen",
+      "kognitive_und_methodenkompetenz": "Grundlagen und Aufgaben der Arbeitsmedizin"
+    },
+    {
+      "abschnitt": "Arbeitsmedizinische Grundlagen",
+      "kognitive_und_methodenkompetenz": "Berufskrankheiten und arbeitsbedingte Erkrankungen"
+    },
+    {
+      "abschnitt": "Arbeitsmedizinische Grundlagen",
+      "kognitive_und_methodenkompetenz": "Anforderungsprofile häufiger beruflicher Tätigkeiten"
+    },
+    {
+      "abschnitt": "Arbeitsmedizinische Grundlagen",
+      "handlungskompetenz": "Beratung von Leistungsgewandelten im Zusammenhang mit ihrer beruflichen Tätigkeit"
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "kognitive_und_methodenkompetenz": "Grundlagen ärztlicher Begutachtung unter Berücksichtigung sozialmedizinisch relevanter leistungsrechtlicher Begriffe und Vorgaben"
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "kognitive_und_methodenkompetenz": "Trägerspezifische und trägerübergreifende Begutachtung"
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "Sozialmedizinische Begutachtung und Beratung für Sozialleistungsträger sowie für Privatversicherungen im Zusammenhang mit Fragestellungen aus dem jeweiligen Rechtsgebiet, z. B. zur Arbeitsunfähigkeit, zum erwerbsbezogenen Leistungsvermögen, zu Teilhabeleistungen, zur Pflegebedürftigkeit, davon",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "- sozialmedizinische Gutachtenerstellung mit Befragung/Untersuchung",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "- ausführlich begründete sozialmedizinische Gutachtenerstellung nach Aktenlage",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "- sozialmedizinische Stellungnahmen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "- Rehabilitationsentlassungsberichte und/oder Leistungsbeurteilungen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "Fallbezogenes Schnittstellenmanagement bei Zuständigkeitswechsel des Sozialleistungsträgers"
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "kognitive_und_methodenkompetenz": "Unterscheidung kausaler und finaler Gutachten"
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "kognitive_und_methodenkompetenz": "Rechtliche Vorgaben bei der Erstellung von Gutachten insbesondere zum Datenschutz, Haftungsrecht, Mitwirkung des Versicherten, Aufbau und Zuständigkeit in der Sozialgerichtsbarkeit"
+    },
+    {
+      "abschnitt": "Sozialmedizinische Begutachtung",
+      "handlungskompetenz": "Eintägige Teilnahme an öffentlichen Sitzungen beim Sozialgericht oder Landessozialgericht"
+    },
+    {
+      "abschnitt": "Beurteilungskriterien bei ausgewählten Krankheitsgruppen",
+      "kognitive_und_methodenkompetenz": "Relevante diagnostische Verfahren für die Leistungsbeurteilung bei ausgewählten Krankheitsgruppen"
+    },
+    {
+      "abschnitt": "Beurteilungskriterien bei ausgewählten Krankheitsgruppen",
+      "handlungskompetenz": "Sozialmedizinische Beurteilung der Funktionsfähigkeit einschließlich Beratung von Versicherten und Leistungsträgern"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Innere Medizin",
+  "bezeichnung": "Facharzt/Fachärztin für Innere Medizin",
+  "zusatzbezeichnung": "Internist/Internistin",
+  "gebietsdefinition": "Das Gebiet Innere Medizin umfasst die Vorbeugung, (Früh-)Erkennung, konservative und interventionelle Behandlung sowie Rehabilitation und Nachsorge der Gesundheitsstörungen einschließlich geriatrischer Krankheiten und Erkrankungen der Atmungsorgane, des Herzens und Kreislaufs, der Verdauungsorgane, der Nieren und ableitenden Harnwege, des Blutes und der blutbildenden Organe, des Gefäßsystems, des Stoffwechsels und der inneren Sekretion, des Immunsystems, des Stütz- und Bindegewebes, der Infektionskrankheiten und Vergiftungen sowie der soliden Tumore und der hämatologischen Neoplasien. Das Gebiet umfasst auch die Gesundheitsförderung und die Betreuung unter Berücksichtigung der somatischen, psychischen und sozialen Wechselwirkungen und die interdisziplinäre Koordination der an der gesundheitlichen Betreuung beteiligten Personen und Institutionen.",
+  "weiterbildungszeit": "60 Monate im Gebiet Innere Medizin unter Befugnis an Weiterbildungsstätten, davon müssen 48 Monate in Innere Medizin oder in mindestens zwei verschiedenen Facharztkompetenzen des Gebiets Innere Medizin abgeleistet werden, davon müssen 30 Monate in der stationären Patientenversorgung abgeleistet werden müssen 6 Monate in der Notfallaufnahme abgeleistet werden müssen 6 Monate in der Intensivmedizin abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Beratung bezüglich gesundheitsfördernder Lebensführung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Schulung bei ernährungsbedingten Gesundheitsstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Begutachtung der Leistungsfähigkeit und Belastbarkeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Begutachtung der Arbeitsunfähigkeit und Erwerbsminderung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Begutachtung der Pflegebedürftigkeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Beratung und Führung Suchtkranker sowie Suchtprävention"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der medikamentösen Tumortherapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Innere Medizin",
+      "handlungskompetenz": "Beratung zu Patientenverfügungen und Vorsorgevollmachten einschließlich Organspende"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Stufendiagnostik und Therapie bei akut einsetzenden Leitsymptomen, z. B. Dyspnoe, Thoraxschmerz, Bauchschmerz, passagere und persistierende Bewusstseinsstörungen, Fieber, Erbrechen, Durchfall"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Diagnostik und Therapie akuter und vital bedrohlicher Erkrankungen und Zustände, insbesondere"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- respiratorische Insuffizienz"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Schock"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- kardiale Insuffizienz"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- akutes Nierenversagen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- sonstiges Ein- und Mehrorganversagen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Koma und Delir"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Sepsis"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- Intoxikationen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Kardiopulmonale Reanimation"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Analgosedierung von intensivmedizinischen Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Atemunterstützende Maßnahmen bei intubierten und nicht-intubierten Patienten einschließlich Beatmungsentwöhnung bei langzeitbeatmeten Patienten"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Differenzierte Beatmungstechniken"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Therapie von Stoffwechselentgleisungen"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Notfallsonographie"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Notfallbronchoskopie"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Passagere Schrittmacheranlage"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken, insbesondere"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- zentralvenöse Zugänge"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "- arterielle Gefäßzugänge"
+    },
+    {
+      "abschnitt": "Notfall- und intensivmedizinische Maßnahmen im Gebiet Innere Medizin",
+      "handlungskompetenz": "Endotracheale Intubation"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Krisenintervention unter Berücksichtigung psychosozialer Zusammenhänge"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Durchführung von ultraschallgestützten Punktionen bei Pleuraerguss und Aszites"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie der Schilddrüse"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Elektrokardiogramm"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Langzeit-Elektrokardiogramm"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Ergometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Langzeitblutdruckmessung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "CW-, PW-, Duplex-, Farbduplex-Sonographie der Arterien und Venen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie der peripheren Arterien und Venen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie des Abdomens und Retroperitoneums einschließlich der Nieren und ableitender Harnwege",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Spirometrische Untersuchung der Lungenfunktion"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Röntgen-Thorax-Untersuchungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnosen atopischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Durchführung von Entlastungspunktionen und Drainagen bei Pleuraerguss und Aszites"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Enterale und parenterale Ernährung einschließlich Sondentechnik mit Berechnung des Energie- und Nährstoffbedarfs sowie Erstellen eines Ernährungsplans"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Infusionstherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Transfusions- und Blutersatztherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Erkrankungen von Arterien, Venen, Kapillaren und Lymphgefäßen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation endokriner Erkrankungen einschließlich assoziierter Stoffwechselstörungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Krankheiten der Verdauungsorgane sowie der exokrinen Verdauungsdrüsen und ihrer Ableitungswege"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Erkrankungen des Blutes, der blutbildenden und lymphatischen Organe, des Immunsystems, der Hämostase sowie von malignen Neoplasien"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation von Infektionskrankheiten"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Meldepflichten gemäß Infektionsschutzgesetz"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "handlungskompetenz": "Management bei therapieresistenten Erregern"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation von Erkrankungen des Herzens und des Kreislaufs"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der akuten und chronischen Nierenkrankheiten sowie deren extrarenaler Komplikationen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation der Erkrankungen der Atemwege, der Lunge, des Lungenkreislaufs, des Mediastinum, der Pleura, der Atempumpe einschließlich schlafbezogener Atmungsstörungen sowie der extrapulmonalen Manifestationen pulmonaler Erkrankungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen allergologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren im Gebiet Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Weiterführende Diagnostik, Therapie und Rehabilitation entzündlich-rheumatischer Systemerkrankungen sowie entzündlicher Erkrankungen des Bewegungsapparates"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Prävention, Differentialdiagnose, Therapieoptionen und Rehabilitation internistischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "kognitive_und_methodenkompetenz": "Haus- und Heimbesuchsbetreuung bei Immobilität"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Beratung zu sozialen und pflegerischen Hilfen"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Indikationsstellung und Verordnung von Rehabilitationsmaßnahmen einschließlich geriatrischer Frührehabilitation"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Langzeit-EKG",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "B-Modus-Sonographie der Schilddrüse",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Duplex-Sonographie der Extremitätengefäße, davon"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "- arteriell",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "- venös",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Duplex-Sonographie der abdominellen, retroperitonealen und mediastinalen Gefäße",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Duplex-Sonographie der extrakraniellen hirnversorgenden Arterien",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Indikationsstellung zur transösophagealen Echokardiographie (TEE)"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Transthorakale B-/M-Modus-Echokardiographie bei Erwachsenen und Jugendlichen",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Transthorakale Doppler-/Duplex-Echokardiographie bei Erwachsenen und Jugendlichen",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender Verfahren"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Ultraschallgestützte Punktionen von Schilddrüse, Lymphknoten, Leber"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Punktionen des Liquorraumes"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Punktionen des Knochenmarks"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Richtungsweisende Ösophago-Gastro-Duodenoskopien",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Untere Intestinoskopien, Proktoskopien, Sigmoidoskopien"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Richtungsweisende Koloskopien"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Indikationsstellung zur perkutanen endoskopischen Gastrostomie"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Diagnostik und konservative Therapie von Erkrankungen der Arterien, Venen und Lymphgefäße"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Ernährungsberatung und Diätetik bei Diabetes mellitus und Stoffwechselerkrankungen"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Ernährungsberatung und Diätetik bei Erkrankungen der Verdauungsorgane"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Arzneimitteltherapie und angepasste Stufendiagnostik unter besonderer Berücksichtigung der Multimorbidität und des Alters"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Diagnostik und konservative Therapie der kardialen Erkrankungen einschließlich der Indikationsstellung zur invasiven Diagnostik und Therapie"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Diagnostik und konservative Therapie der akuten und chronischen Nierenerkrankungen sowie deren Folgeerkrankungen und Indikationsstellung zu Nierenersatzverfahren"
+    },
+    {
+      "abschnitt": "Allgemeine Innere Medizin",
+      "handlungskompetenz": "Diagnostik und konservative Therapie der akuten und chronischen respiratorischen und ventilatorischen Insuffizienz"
+    }
+  ]
+}

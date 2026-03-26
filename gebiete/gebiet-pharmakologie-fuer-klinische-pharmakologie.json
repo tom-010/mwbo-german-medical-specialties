@@ -1,0 +1,176 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Pharmakologie",
+  "bezeichnung": "Facharzt/Fachärztin für Klinische Pharmakologie",
+  "zusatzbezeichnung": "Klinischer Pharmakologe/Klinische Pharmakologin",
+  "gebietsdefinition": "Das Gebiet Pharmakologie umfasst die Erforschung von Arzneimittelwirkungen, Entwicklung und Anwendung von Arzneimitteln, die Erforschung der Wirkung von Fremdstoffen am Menschen, die Bewertung des therapeutischen Nutzens, die Erkennung von Nebenwirkungen sowie die Beratung und Unterstützung der in der Vorsorge und Krankenbehandlung Tätigen bei der Anwendung substanzbasierter therapeutischer und diagnostischer Maßnahmen sowie die Risikobewertung von Fremdstoffen.",
+  "weiterbildungszeit": "60 Monate im Gebiet Pharmakologie unter Befugnis an Weiterbildungsstätten, davon müssen 48 Monate in Klinische Pharmakologie abgeleistet werden, davon - können zum Kompetenzerwerb bis zu 18 Monate Weiterbildung in Pharmakologie und Toxikologie erfolgen müssen 12 Monate in Gebieten der unmittelbaren Patientenversorgung abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Internationale und nationale Normen der Erforschung, Entwicklung und Anwendung von Arzneimitteln, z. B. Good Clinical Practice des International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH-GCP), ethische Grundsätze für die medizinische Forschung am Menschen (Deklaration von Helsinki)"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Pharmakologische, toxikologische und klinische Grundlagen der Erforschung, Entwicklung und Anwendung von Arzneimitteln"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "handlungskompetenz": "Erkennung, Erfassung, Meldung und Bewertung unerwünschter Arzneimittelwirkungen und von Medikationsfehlern"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Risiken von Wirk- und Schadstoffen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "handlungskompetenz": "Risikomanagement und -kommunikation"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Biometrie und Statistik, Pharmakoepidemiologie und Arzneimittelanwendungsforschung, Expositionserfassung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Pharmakologische Methodik, insbesondere Pharmako- und Toxikokinetik sowie Pharmako-und Toxikodynamik relevanter Wirk- und Schadstoffe"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Biochemische, chemische, immunologische, mikrobiologische, molekularbiologische, physikalische und physiologische Arbeits- und Nachweismethoden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der tierexperimentellen Forschungstechnik zur Wirkungsanalyse von Arzneimitteln und Fremdstoffen, Erzeugung von Krankheitszuständen in Modellorganismen zur Wirkstoffprüfung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen, Methoden und Anwendung der Pharmako- und Toxikogenomik"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Standardmethoden der Qualitätssicherung für Labor- und Klinikuntersuchungen, Berichtswesen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung und Bewertung von Forschungsberichten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Entwicklung und Prüfung von Arzneimitteln und Medizinprodukten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte im Gebiet Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Arzneimitteltherapie von Erkrankungen"
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "kognitive_und_methodenkompetenz": "Gesetzliche und ethische Anforderungen, Leitlinien und Empfehlungen klinischer Prüfungen"
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "kognitive_und_methodenkompetenz": "Zulassungsverfahren für Arzneimittel und Medizinprodukte"
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "kognitive_und_methodenkompetenz": "Post-Marketing-Surveillance"
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "kognitive_und_methodenkompetenz": "Biometrische Methoden und Datenmanagement"
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "handlungskompetenz": "Planung und Erstellung von Prüfplänen, Durchführung der Studien, statistische Auswertung bzw. Bewertung der Ergebnisse klinischer Prüfungen der Phase I bis IV, davon",
+      "richtzahl": 8
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "handlungskompetenz": "- Durchführung von Studien Phase I/II",
+      "richtzahl": 4
+    },
+    {
+      "abschnitt": "Klinische Prüfung von Arzneimitteln und Medizinprodukten",
+      "handlungskompetenz": "- Durchführung von randomisierten kontrollierten Studien (RCT)",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Wirkungsanalyse von Arzneimitteln am Menschen",
+      "handlungskompetenz": "Bewertung von Dosis-/Konzentration-Wirkungsuntersuchungen",
+      "richtzahl": 3
+    },
+    {
+      "abschnitt": "Wirkungsanalyse von Arzneimitteln am Menschen",
+      "handlungskompetenz": "Anwendung pharmakokinetischer und/oder - dynamischer Methoden"
+    },
+    {
+      "abschnitt": "Wirkungsanalyse von Arzneimitteln am Menschen",
+      "kognitive_und_methodenkompetenz": "Methodik epidemiologischer Studien"
+    },
+    {
+      "abschnitt": "Wirkungsanalyse von Arzneimitteln am Menschen",
+      "handlungskompetenz": "Mitwirkung bei Vorbereitung, Durchführung und Auswertung von nicht-interventionellen Studien (NIS)",
+      "richtzahl": 2
+    },
+    {
+      "abschnitt": "Bestimmung von Wirkstoffen und Arzneimitteln in Körperflüssigkeiten und Geweben",
+      "kognitive_und_methodenkompetenz": "Bestimmungsmethoden, insbesondere chemisch-analytische Verfahren, z. B. Massenspektrometrie, molekularbiologische Verfahren"
+    },
+    {
+      "abschnitt": "Bestimmung von Wirkstoffen und Arzneimitteln in Körperflüssigkeiten und Geweben",
+      "handlungskompetenz": "Erkennung und Bewertung von Arzneimittelwechselwirkungen einschließlich der Mitbehandlung"
+    },
+    {
+      "abschnitt": "Bestimmung von Wirkstoffen und Arzneimitteln in Körperflüssigkeiten und Geweben",
+      "handlungskompetenz": "Durchführung und Bewertung des therapeutischen (Drug-)Monitorings einschließlich der Mitbehandlung"
+    },
+    {
+      "abschnitt": "Bestimmung von Wirkstoffen und Arzneimitteln in Körperflüssigkeiten und Geweben",
+      "handlungskompetenz": "Durchführung und Bewertung pharmakogenomischer Untersuchungen"
+    },
+    {
+      "abschnitt": "Arzneimittelsicherheit und Arzneimitteltherapiesicherheit",
+      "kognitive_und_methodenkompetenz": "Prinzipien, Meldesysteme, Stufenplanverfahren"
+    },
+    {
+      "abschnitt": "Arzneimittelsicherheit und Arzneimitteltherapiesicherheit",
+      "handlungskompetenz": "Erkennung, Erfassung und Bewertung der Sicherheit von Arzneimitteln und Medizinprodukten"
+    },
+    {
+      "abschnitt": "Arzneimittelsicherheit und Arzneimitteltherapiesicherheit",
+      "kognitive_und_methodenkompetenz": "Vorgehen bei Vergiftungen und Überdosierungen"
+    },
+    {
+      "abschnitt": "Arzneimittelsicherheit und Arzneimitteltherapiesicherheit",
+      "handlungskompetenz": "Beratung bei Vergiftungen und Überdosierungen"
+    },
+    {
+      "abschnitt": "Bewertung von Arzneimitteln",
+      "kognitive_und_methodenkompetenz": "Evaluation von Arzneimitteln und Therapieverfahren anhand der Prinzipien der evidenzbasierten Medizin"
+    },
+    {
+      "abschnitt": "Bewertung von Arzneimitteln",
+      "handlungskompetenz": "Bewertung von Arzneimitteln in Zusammenarbeit mit behandelnden Ärzten oder Prüfärzten"
+    },
+    {
+      "abschnitt": "Bewertung von Arzneimitteln",
+      "handlungskompetenz": "(Kosten)-Nutzen-Risiko-Bewertung"
+    },
+    {
+      "abschnitt": "Arzneimitteltherapie",
+      "handlungskompetenz": "Beratungen und Mitbehandlung in der Arzneimitteltherapie unter Berücksichtigung von Therapie-Leitlinien einschließlich Nutzen-Risiko-Abschätzung",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Therapie-Leitlinien",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Erstellung, Beurteilung und Implementierung von Therapie-Leitlinien unter Berücksichtigung der Prinzipien der evidenzbasierten Medizin"
+    },
+    {
+      "abschnitt": "Therapie-Leitlinien",
+      "handlungskompetenz": "Mitwirkung bei der Erstellung und Implementierung von Therapie-Leitlinien"
+    }
+  ]
+}

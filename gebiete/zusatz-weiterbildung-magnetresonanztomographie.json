@@ -1,0 +1,82 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Magnetresonanztomographie",
+  "bezeichnung": "Zusatz-Weiterbildung Magnetresonanztomographie",
+  "definition": "Die Zusatz-Weiterbildung in der Magnetresonanztomographie umfasst in Ergänzung zu einer Facharztkompetenz die Durchführung und Befundung der gebietsbezogenen Magnetresonanztomographie.",
+  "mindestanforderungen": "Facharztanerkennung und zusätzlich 24 Monate Magnetresonanztomographie unter Befugnis an Weiterbildungsstätten im Gebiet Radiologie, davon können bis zu 12 Monate bei einem Weiterbildungsbefugten für Magnetresonanztomographie erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Prinzipien der nicht-ionisierenden Strahlung"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Strahlenbiologische Effekte"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Reduktionsmöglichkeiten der medizinisch induzierten Strahlenexposition bei Patienten und Personal"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Stellenwert der unterschiedlichen bildgebenden Verfahren in der Diagnostik"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "handlungskompetenz": "Umgang mit Besonderheiten des Schutzes vor nicht-ionisierender Strahlung im Kindes- und Jugendalter, bei Schwangeren und Risikopatienten"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Datenakquisition, Bild- und Datenverarbeitung und -nachbearbeitung sowie deren Archivierung, insbesondere der physikalischen und biophysikalischen Grundlagen"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Gerätekunde bei der Anwendung von Magnetresonanzverfahren"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie",
+      "kognitive_und_methodenkompetenz": "Prinzipien von Magnetfeldstärke, Gradientenstärke, Hochfrequenz, Orts- und Zeitauflösung"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie",
+      "kognitive_und_methodenkompetenz": "Patientenüberwachung einschließlich der Sicherheitsmaßnahmen für Patienten und Personal"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie",
+      "kognitive_und_methodenkompetenz": "Typische Artefakte in der MRT und ihre Ursachen"
+    },
+    {
+      "abschnitt": "Technik der Magnetresonanztomographie",
+      "handlungskompetenz": "Korrekte Wahl der Akquisitionsparameter unter Berücksichtigung der Sicherheitsvorschriften und des Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "kognitive_und_methodenkompetenz": "Prinzipien der Struktur, Pharmakologie, Klassifikation und Dosis sowie Indikationen und Kontraindikationen von MRT-Kontrastmitteln"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "kognitive_und_methodenkompetenz": "Risiken und Nebenwirkung von MRT-Kontrastmitteln"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "handlungskompetenz": "Indikationsgemäße Auswahl, Dosierung und Pharmakokinetik von MRT-Kontrastmitteln, insbesondere unter Berücksichtigung von Patienten mit erhöhtem Risiko"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "handlungskompetenz": "Erstmaßnahmen bei kontrastmittelassoziierten Komplikationen, z. B. anaphylaktischer/anaphylaktoider Reaktionen"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "handlungskompetenz": "Erstellung und Anwendung von MRT-Untersuchungsprotokollen für die gebietsbezogene Magnetresonanztomographie einschließlich geeigneter Kontrastmittel"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "handlungskompetenz": "Erkennung typischer Neben- und Zufallsbefunde im Untersuchungsvolumen außerhalb des Organbezugs"
+    },
+    {
+      "abschnitt": "Gebietsbezogene MRT",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Befunderstellung von gebietsbezogenen MRT-Untersuchungen",
+      "richtzahl": 1000
+    }
+  ]
+}

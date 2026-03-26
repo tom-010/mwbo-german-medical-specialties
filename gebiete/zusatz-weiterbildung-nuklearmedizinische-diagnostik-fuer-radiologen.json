@@ -1,0 +1,103 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Nuklearmedizinische Diagnostik für Radiologen",
+  "bezeichnung": "Zusatz-Weiterbildung Nuklearmedizinische Diagnostik für Radiologen",
+  "definition": "Die Zusatz-Weiterbildung Nuklearmedizinische Diagnostik für Radiologen umfasst in Ergänzung zur Facharztkompetenz die Anwendung radioaktiver Stoffe zur Funktions- und Lokalisationsdiagnostik von Erkrankungen, Organen, Geweben und Systemen sowie deren Anwendung im Rahmen von Hybridverfahren.",
+  "mindestanforderungen": "Facharztanerkennung für Radiologie und zusätzlich 24 Monate Nuklearmedizinische Diagnostik für Radiologen unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Nuklearmedizinische Diagnostik für Radiologen",
+      "kognitive_und_methodenkompetenz": "Klinische Grundlagen sowie pathophysiologische und diagnoseweisende Merkmale von degenerativen, angeborenen, metabolischen, inflammatorischen, infektiösen und Tumor-Erkrankungen im Kindes-, Jugend- und Erwachsenenalter sowie deren Zuordnung zu Erkrankungsstadien und deren Differentialdiagnosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Nuklearmedizinische Diagnostik für Radiologen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Strahlenbiologie, Strahlenphysik und Messtechnik, insbesondere Dosisbegriffe und physikalische und biologische Dosimetrie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Nuklearmedizinische Diagnostik für Radiologen",
+      "kognitive_und_methodenkompetenz": "Prinzipien der nuklearmedizinischen Bildentstehung, insbesondere der Detektortechnik, des Tracerprinzips und der Gammaspektrometrie"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Indikationsstellung und rechtfertigende Indikationsstellung für alle bildgebenden Verfahren mit ionisierenden Strahlen unter Berücksichtigung der spezifischen Risiken und möglicher Komplikationen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der nuklearmedizinischen Diagnostik im Kindes- und Jugendalter, insbesondere Auswahl und Dosierung der Radiopharmaka"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Prinzipien der ionisierenden und nicht-ionisierenden Strahlung und des Strahlenschutzes bei der Anwendung am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Reduktionsmöglichkeiten der medizinisch indizierten Strahlenexposition in der Diagnostik"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Grundlagen des Strahlenschutzes beim Personal und bei Begleitpersonen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Messung und Bewertung der Strahlenexposition"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Diagnostische Referenzwerte"
+    },
+    {
+      "abschnitt": "Radiopharmaka",
+      "kognitive_und_methodenkompetenz": "Umgang mit offenen radioaktiven Stoffen (Radionuklide) und markierten Radiopharmaka einschließlich der Qualitätskontrolle"
+    },
+    {
+      "abschnitt": "Radiopharmaka",
+      "handlungskompetenz": "Indikationsgemäße Auswahl, Dosierung und Kinetik von Radiopharmaka"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Gerätebezogene Qualitätssicherungsmaßnahmen einschließlich Konstanzprüfungen"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Physikalische Grundlagen und praktische Anwendung bildgebender Verfahren mit ionisierenden Strahlen, insbesondere Gammakamera, SPECT und PET sowie Hybridgeräte (SPECT/CT, PET/CT, PET/MRT)"
+    },
+    {
+      "abschnitt": "Kommunikation",
+      "handlungskompetenz": "Aufklärung von Patienten und/oder Angehörigen über Nutzen und Risiko bildgebender Verfahren mit ionisierenden Strahlen"
+    },
+    {
+      "abschnitt": "Kommunikation",
+      "handlungskompetenz": "Nuklearmedizinische Befunderstellung, Bewertung und Kommunikation des Untersuchungsergebnisses"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Gamma-Kamera, SPECT und PET",
+      "kognitive_und_methodenkompetenz": "Prinzipien und Bedeutung der Akquisitionsparameter für Bildqualität und Dosis bei Szintigraphien, SPECT und PET, deren korrekte Wahl und Einfluss auf mögliche Bildartefakte"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Gamma-Kamera, SPECT und PET",
+      "handlungskompetenz": "Erstellung und Anwendung von Gammakamera-, SPECT- und PET-Untersuchungsprotokollen einschließlich geeigneter Radiopharmaka"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Gamma-Kamera, SPECT und PET",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von Untersuchungen unter Verwendung von Radiopharmaka (ohne Schilddrüse) einschließlich Gammakamera, SPECT und PET (auch in Hybridtechnik), jeweils in angemessener Wichtung, davon",
+      "richtzahl": 1600
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Gamma-Kamera, SPECT und PET",
+      "handlungskompetenz": "- in SPECT- oder PET-Technik",
+      "richtzahl": 800
+    },
+    {
+      "abschnitt": "Hybride Verfahren",
+      "kognitive_und_methodenkompetenz": "Physikalische und technische Prinzipien der Hybridverfahren"
+    },
+    {
+      "abschnitt": "Hybride Verfahren",
+      "kognitive_und_methodenkompetenz": "Interaktion morphologischer und funktioneller Bildgebung einschließlich möglicher Artefakte"
+    },
+    {
+      "abschnitt": "Hybride Verfahren",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung für Hybridverfahren wie Positronenemissionstomographie-CT, Einzelphotonen-Emissions-CT und MR-PET"
+    }
+  ]
+}

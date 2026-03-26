@@ -1,0 +1,99 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Röntgendiagnostik für Nuklearmediziner",
+  "bezeichnung": "Zusatz-Weiterbildung Röntgendiagnostik für Nuklearmediziner",
+  "definition": "Die Zusatz-Weiterbildung Röntgendiagnostik für Nuklearmediziner umfasst in Ergänzung zur Facharztkompetenz die Erkennung von Krankheiten mit Hilfe ionisierender Strahlen sowie mit Hybridverfahren.",
+  "mindestanforderungen": "Facharztanerkennung für Nuklearmedizin und zusätzlich 24 Monate Röntgendiagnostik für Nuklearmediziner unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Röntgendiagnostik für Nuklearmediziner",
+      "kognitive_und_methodenkompetenz": "Klinische Grundlagen sowie bildmorphologische und diagnoseweisende Merkmale von degenerativen, angeborenen, metabolischen, inflammatorischen, infektiösen und Tumor-Erkrankungen im Kindes-, Jugend- und Erwachsenenalter sowie deren Zuordnung zu Erkrankungsstadien und deren Differentialdiagnosen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Röntgendiagnostik für Nuklearmediziner",
+      "kognitive_und_methodenkompetenz": "Besonderheiten bildgebender Untersuchungen mit ionisierenden Strahlen einschließlich des Strahlenschutzes"
+    },
+    {
+      "abschnitt": "Indikationsstellung",
+      "handlungskompetenz": "Indikationsstellung und rechtfertigende Indikationsstellung für bildgebende Verfahren mit ionisierenden Strahlen unter Berücksichtigung der spezifischen Risiken und möglicher Komplikationen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Prinzipien der ionisierenden Strahlung und des Strahlenschutzes bei der Anwendung am Menschen"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Funktionsweise von Röntgenstrahlern, Detektoren, Filtern und Streustrahlenrastern"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Reduktionsmöglichkeiten der medizinischen Strahlenexposition"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Vorgaben der gesetzlichen und untergesetzlichen Regelungen im Strahlenschutz einschließlich Qualitätssicherung"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Messung und Bewertung der Strahlenexposition"
+    },
+    {
+      "abschnitt": "Strahlenschutz",
+      "kognitive_und_methodenkompetenz": "Diagnostische Referenzwerte"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "handlungskompetenz": "Indikationsgemäße Auswahl, Dosierung und Pharmakokinetik von Kontrastmitteln, insbesondere unter Berücksichtigung von Patienten mit erhöhtem Risiko, z. B. Nephrotoxizität, Schilddrüsenkomplikationen"
+    },
+    {
+      "abschnitt": "Kontrastmittel",
+      "handlungskompetenz": "Behandlung kontrastmittelassoziierter Komplikationen, z. B. anaphylaktischer/anaphylaktoider Reaktionen"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Gerätebezogene Qualitätssicherungsmaßnahmen einschließlich Konstanzprüfungen"
+    },
+    {
+      "abschnitt": "Gerätetechnik",
+      "kognitive_und_methodenkompetenz": "Physikalische Grundlagen und praktische Anwendung bildgebender Verfahren mit ionisierenden Strahlen, insbesondere Radiographie, Fluoroskopie, CT und Hybridmethoden"
+    },
+    {
+      "abschnitt": "Kommunikation",
+      "handlungskompetenz": "Aufklärung von Patienten und/oder Angehörigen über Nutzen und Risiko bildgebender Verfahren mit ionisierenden Strahlen"
+    },
+    {
+      "abschnitt": "Kommunikation",
+      "handlungskompetenz": "Radiologische Befunderstellung, Bewertung und Kommunikation des Untersuchungsergebnisses"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Computertomographie",
+      "kognitive_und_methodenkompetenz": "Prinzipien und Bedeutung der Akquisitionsparameter für Bildqualität und Dosis bei Radiographie, Fluoroskopie und CT, deren korrekte Wahl und Einfluss auf mögliche Bildartefakte"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Computertomographie",
+      "handlungskompetenz": "Erstellung und Anwendung von CT-Untersuchungsprotokollen einschließlich geeigneter Kontrastmittel"
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Computertomographie",
+      "handlungskompetenz": "Indikation, Durchführung und Befunderstellung von Untersuchungen mit Röntgenstrahlung einschließlich CT (ohne Notfalldiagnostik, Traumatologie, Mamma, Angiographie und Interventionen), jeweils in angemessener Wichtung, davon",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Bildgebung mit ionisierender Strahlung einschließlich Computertomographie",
+      "handlungskompetenz": "- CT",
+      "richtzahl": 2000
+    },
+    {
+      "abschnitt": "Hybride Verfahren",
+      "kognitive_und_methodenkompetenz": "Physikalische und technische Prinzipien der Hybridverfahren"
+    },
+    {
+      "abschnitt": "Hybride Verfahren",
+      "kognitive_und_methodenkompetenz": "Interaktion morphologischer und funktioneller Bildgebung einschließlich möglicher Artefakte"
+    },
+    {
+      "abschnitt": "Hybride Verfahren",
+      "handlungskompetenz": "Interdisziplinäre Indikationsstellung für Hybridverfahren wie Positronenemissionstomographie-CT, Einzelphotonen-Emissions-CT und MR-PET"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Humangenetik",
+  "bezeichnung": "Facharzt/Fachärztin für Humangenetik",
+  "zusatzbezeichnung": "Humangenetiker/Humangenetikerin",
+  "gebietsdefinition": "Das Gebiet Humangenetik umfasst die Aufklärung, Erkennung und Behandlung genetisch bedingter und mitbedingter Erkrankungen einschließlich der humangenetischen Beratung von Patienten, Ratsuchenden und ihren Familien sowie den in der Gesundheitsversorgung tätigen Ärzten.",
+  "weiterbildungszeit": "60 Monate Humangenetik unter Befugnis an Weiterbildungsstätten, davon müssen 30 Monate in der humangenetischen Patientenversorgung abgeleistet werden müssen 12 Monate in anderen Gebieten der unmittelbaren Patientenversorgung abgeleistet werden müssen 12 Monate im molekulargenetischen Labor abgeleistet werden müssen 6 Monate im zytogenetischen Labor abgeleistet werden",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Humangenetik",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Humangenetik",
+      "kognitive_und_methodenkompetenz": "Ursache von Mutationen und Epimutationen sowie deren somatische Auswirkungen oder in der Keimbahn"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Humangenetik",
+      "kognitive_und_methodenkompetenz": "Bedeutung von Polymorphismen, Kopienzahlveränderungen und Mosaiken"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Humangenetik",
+      "kognitive_und_methodenkompetenz": "Numerische und strukturelle Chromosomenaberrationen sowie Symptomatik und Nosologie der wichtigsten angeborenen und erworbenen Chromosomenstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Humangenetik",
+      "kognitive_und_methodenkompetenz": "Populationsgenetik"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Humangenetik",
+      "kognitive_und_methodenkompetenz": "Prinzipien der Therapie genetisch bedingter Erkrankungen"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "kognitive_und_methodenkompetenz": "Besonderheiten humangenetischer Beratungsabläufe bei Risikopersonen mit spät manifestierenden nicht heilbaren Erkrankungen"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "Berechnung von Erkrankungs- und Vererbungswahrscheinlichkeiten"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "Indikationsstellung zur genetischen Diagnostik"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- bei unerfülltem Kinderwunsch und bei Aborten"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- bei genetisch bedingten bzw. mitbedingten Gesundheitsrisiken und Erkrankungen"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- bei angeborenen Fehlbildungen und Krankheiten"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- in der Schwangerschaft (Pränataldiagnostik, nicht invasive pränatale Testung, Präimplantationsdiagnostik)"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- zu prädiktiven Gentests"
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "Humangenetische Beratung einschließlich der Erhebung der Familienanamnese in drei Generationen, Beurteilung und Erstellung einer Epikrise bei 50 verschiedenen Krankheitsbildern in Fällen, davon",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- mit Manifestation in mehreren Systemen (syndromale Krankheitsbilder) bzw. bei angeborenen Fehlbildungen",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- monogene und komplexe Erbgänge",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- zytogenetische (numerische und strukturelle Chromosomenaberrationen) und molekularzytogenetische Befunde",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- molekulargenetische Befunde",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Humangenetische Beratung",
+      "handlungskompetenz": "- prädiktive molekulargenetische Befunde",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Beratung bei invasiver und nicht invasiver pränataler Diagnostik einschließlich Präimplantationsdiagnostik",
+      "kognitive_und_methodenkompetenz": "Psychosoziale Betreuung von Schwangeren und ihren Partnern"
+    },
+    {
+      "abschnitt": "Beratung bei invasiver und nicht invasiver pränataler Diagnostik einschließlich Präimplantationsdiagnostik",
+      "kognitive_und_methodenkompetenz": "Invasive und nicht invasive Verfahren der Pränatal- und der Präimplantationsdiagnostik"
+    },
+    {
+      "abschnitt": "Beratung bei invasiver und nicht invasiver pränataler Diagnostik einschließlich Präimplantationsdiagnostik",
+      "kognitive_und_methodenkompetenz": "Teratogene Potentiale von physikalischen, infektiösen und chemischen Noxen"
+    },
+    {
+      "abschnitt": "Beratung bei invasiver und nicht invasiver pränataler Diagnostik einschließlich Präimplantationsdiagnostik",
+      "handlungskompetenz": "Beurteilung und Beratung bei auffälligen Befunden in der Pränataldiagnostik",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "kognitive_und_methodenkompetenz": "Phänotypanalyse, Terminologie und Bedeutung von Fehlbildungen und kleinen Anomalien einschließlich Dysmorphiezeichen"
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "kognitive_und_methodenkompetenz": "Syndrom-Datenbanken"
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "handlungskompetenz": "Klinisch-genetische Abklärung und Beratung bei 25 verschiedenen a priori unklaren Syndromen in Fällen, davon mit"
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "handlungskompetenz": "- Skelettfehlbildungen, Kraniosynostosen, Groß-/Kleinwuchs",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "handlungskompetenz": "- syndromalen und nicht syndromalen Entwicklungsverzögerungen bei Kindern",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "handlungskompetenz": "- chromosomal bedingten Syndromen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Syndromologie",
+      "handlungskompetenz": "- teratogenen Syndromen, Sequenzen und Assoziationen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Stoffwechselkrankheiten und endokrine Störungen",
+      "kognitive_und_methodenkompetenz": "Klinische Merkmale genetisch bedingter bzw. mitbedingter Stoffwechselkrankheiten und endokriner Störungen"
+    },
+    {
+      "abschnitt": "Stoffwechselkrankheiten und endokrine Störungen",
+      "kognitive_und_methodenkompetenz": "Möglichkeiten und Grenzen der biochemischen Diagnostik"
+    },
+    {
+      "abschnitt": "Stoffwechselkrankheiten und endokrine Störungen",
+      "kognitive_und_methodenkompetenz": "Neugeborenenscreening"
+    },
+    {
+      "abschnitt": "Stoffwechselkrankheiten und endokrine Störungen",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung, humangenetische Beratung und ggf. Koordination der Betreuung von Patienten bzw. Familien mit genetisch bedingter bzw. mitbedingter Stoffwechselkrankheit oder endokriner Störung",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen von Haut, Haaren, Zähnen und Bindegewebe",
+      "kognitive_und_methodenkompetenz": "Klinische Merkmale genetisch bedingter bzw. mitbedingter Krankheiten an Haut, Haaren, Zähnen und Bindegewebe"
+    },
+    {
+      "abschnitt": "Erkrankungen von Haut, Haaren, Zähnen und Bindegewebe",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung, humangenetische Beratung und Indikationsstellung zur weiterführenden Diagnostik von Patienten mit genetisch bedingten bzw. mitbedingten Erkrankungen des Bindegewebes sowie des ektodermalen Gewebes",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Fehlbildungen des zentralen Nervensystems"
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "kognitive_und_methodenkompetenz": "Genetisch bedingte bzw. mitbedingte Erkrankungen des peripheren und zentralen Nervensystems sowie der Muskulatur"
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und humangenetische Beratung bei"
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "handlungskompetenz": "- angeborenen Fehlbildungen des Nervensystems",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "handlungskompetenz": "- neurologischen Erkrankungen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "handlungskompetenz": "- neurodegenerativen Erkrankungen des peripheren und zentralen Nervensystems",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Neurologische und neuromuskuläre Erkrankungen sowie Muskelerkrankungen",
+      "handlungskompetenz": "- neuromuskulären und muskulären Erkrankungen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Krankheiten der Niere und der ableitenden Harnwege",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Erkrankungen und Fehlbildungen der Niere und der ableitenden Harnwege"
+    },
+    {
+      "abschnitt": "Krankheiten der Niere und der ableitenden Harnwege",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und humangenetische Beratung bei genetisch bedingten bzw. mitbedingten Erkrankungen mit Nierenbeteiligung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Krankheiten von Auge und Ohr",
+      "kognitive_und_methodenkompetenz": "Grundlagen und genetische Ursachen von syndromaler und nicht syndromaler Blindheit und Taubheit"
+    },
+    {
+      "abschnitt": "Krankheiten von Auge und Ohr",
+      "kognitive_und_methodenkompetenz": "Grundlagen und genetische Ursachen von angeborenen Fehlbildungen von Auge und Ohr"
+    },
+    {
+      "abschnitt": "Krankheiten von Auge und Ohr",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und humangenetische Beratung bei genetisch bedingten bzw. mitbedingten Formen von Blindheit und/oder Taubheit",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen des Herzens und der Gefäße",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Fehlbildungen des Herzens"
+    },
+    {
+      "abschnitt": "Erkrankungen des Herzens und der Gefäße",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Gefäßerkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Herzens und der Gefäße",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Kardiomyopathien und Ionenkanalerkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Herzens und der Gefäße",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und humangenetische Beratung bei isolierten und syndromalen Fehlbildungen des Herzens und der Gefäße",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Erkrankungen des Herzens und der Gefäße",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und interdisziplinäre Betreuung von Kardiomyopathien und Arrhythmien",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Erkrankungen des Blutes",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Blutgerinnungsstörungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Blutes",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Störungen der Hämatopoese und Hämoglobinopathien"
+    },
+    {
+      "abschnitt": "Erkrankungen des Blutes",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen der Erkrankungen des Immunsystems"
+    },
+    {
+      "abschnitt": "Erkrankungen des Blutes",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und humangenetische Beratung bei Blutgerinnungsstörungen, Störungen der Hämatopoese, Hämoglobinopathien sowie von Erkrankungen des Immunsystems",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen von Tumordisposition, insbesondere Charakteristika monogener Tumordispositionssyndrome"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der somatischen Tumorgenetik und Tumorepigenetik einschließlich deren diagnostischer und therapeutischer Relevanz"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung, individuelle Risikoberechnung und humangenetische Beratung bei genetisch bedingter bzw. mitbedingter Tumordisposition, insbesondere bei monogenen Formen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Humangenetische Beratung zur diagnostischen und therapeutischen Relevanz genetischer und epigenetischer Veränderungen von Tumorzellen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Infertilität/Aborte",
+      "kognitive_und_methodenkompetenz": "Genetische Grundlagen des unerfüllten Kinderwunsches sowie rekurrierender Aborte"
+    },
+    {
+      "abschnitt": "Infertilität/Aborte",
+      "kognitive_und_methodenkompetenz": "Grundlagen der assistierten Reproduktion"
+    },
+    {
+      "abschnitt": "Infertilität/Aborte",
+      "handlungskompetenz": "Differentialdiagnostische Abklärung und humangenetische Beratung bei Paaren mit unerfülltem Kinderwunsch oder rekurrierenden Aborten",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Pharmakogenomik",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Bedeutung genetischer und epigenetischer Varianten für die Pharmakotherapie einschließlich der Companion Diagnostik"
+    },
+    {
+      "abschnitt": "Diagnostische zytogenetische Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundlagen zytogenetischer, molekularzytogenetischer, Array-basierter und sequenzierungsbasierter Methoden zur Detektion struktureller chromosomaler Varianten, deren Aussagewert und Limitierung sowie Besonderheiten bei pränatalen, postnatalen und tumorgenetischen Fragestellungen"
+    },
+    {
+      "abschnitt": "Diagnostische zytogenetische Verfahren",
+      "handlungskompetenz": "Durchführung, Auswertung und Befunderstellung von Chromosomenanalysen, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische zytogenetische Verfahren",
+      "handlungskompetenz": "- mit allen Kultivierungs- und Präparationsschritten, davon",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Diagnostische zytogenetische Verfahren",
+      "handlungskompetenz": "- pränatal",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Diagnostische zytogenetische Verfahren",
+      "handlungskompetenz": "- FISH-Analysen an Interphasekernen sowie an Metaphasechromosomen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische zytogenetische Verfahren",
+      "handlungskompetenz": "- Mikroarray-Analysen einschließlich Datenbankrecherchen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "kognitive_und_methodenkompetenz": "Molekulargenetische Techniken, deren Aussagewert und Limitierung sowie Besonderheiten bei pränatalen, postnatalen und tumorgenetischen Fragestellungen"
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "kognitive_und_methodenkompetenz": "Besonderheiten von Repeatexpansions-erkrankungen und epigenetischen Aberrationen"
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "Durchführung, Auswertung und Befunderstellung von molekulargenetischen Untersuchungen bei monogenen, mitochondrialen, polygenen und multifaktoriell bedingten Krankheiten sowie bei somatischen Aberrationen bei mindestens 10 verschiedenen Krankheitsbildern und Genorten in Fällen, davon",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "- mit allen Laborschritten",
+      "richtzahl": 40
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "- Sequenzierung, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "- Next Generation Sequenzierung",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "- Kopienzahlbestimmung (z. B. mittels multiplex ligationsabhängiger Sondenamplifikation (MLPA) oder quantitativer Echtzeit PCR (qPCR))",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "- instabile Repeatexpansionen",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "- epigenetische Analysen"
+    },
+    {
+      "abschnitt": "Diagnostische molekulargenetische Verfahren",
+      "handlungskompetenz": "Durchführung von Analysen und Befunderstellung zum Nachweis somatischer Mutationen in verschiedenen Geweben, insbesondere Knochenmark, Tumorgewebe, peripheren Blutzellen und zellfreien Nukleinsäuren"
+    },
+    {
+      "abschnitt": "Klinische Genomanalytik",
+      "kognitive_und_methodenkompetenz": "Pathogenität von genetischen und epigenetischen Veränderungen und deren klinische Bedeutung"
+    },
+    {
+      "abschnitt": "Klinische Genomanalytik",
+      "handlungskompetenz": "Anwendung von Softwaretools zur Wertung von genetischen bzw. epigenetischen Varianten",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Klinische Genomanalytik",
+      "handlungskompetenz": "Anwendung von Datenbanken zur klinischen Interpretation genetischer bzw. epigenetischer Varianten",
+      "richtzahl": 50
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "typ": "schwerpunkt",
+  "gebiet": "Frauenheilkunde und Geburtshilfe",
+  "bezeichnung": "Schwerpunkt Spezielle Geburtshilfe und Perinatalmedizin",
+  "zusatzbezeichnung": "Geburtshelfer und Perinatalmediziner/Geburtshelferin und Perinatalmedizinerin",
+  "voraussetzung": "Die Schwerpunkt-Weiterbildung Spezielle Geburtshilfe und Perinatalmedizin baut auf der Facharzt-Weiterbildung Frauenheilkunde und Geburtshilfe auf.",
+  "weiterbildungszeit": "24 Monate Spezielle Geburtshilfe und Perinatalmedizin unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Fetomaternale Risiken",
+      "kognitive_und_methodenkompetenz": "Maternale und fetale Erkrankungen höheren Schwierigkeitsgrades"
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "handlungskompetenz": "Beratung bei gezielten pränataldiagnostischen Fragestellungen sowie weiterführende Diagnostik und Therapie, auch unter Einbeziehung von Pädiatern und Kinderchirurgen einschließlich psychosomatischer Beratung"
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Therapieoptionen fetaler Entwicklungsstörungen, Fehlbildungen und Erkrankungen"
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "handlungskompetenz": "Diagnostik fetaler Entwicklungsstörungen, Fehlbildungen und Erkrankungen"
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "handlungskompetenz": "Weiterführende differentialdiagnostische B-Modus Sonographien bei Verdacht auf Entwicklungsstörungen oder fetale Erkrankungen oder bei erhöhtem Risiko, davon",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "handlungskompetenz": "- Feten mit dokumentierten Fehlbildungen unterschiedlicher Organsysteme",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "handlungskompetenz": "Fetale Echokardiographie, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Fetale Fehlbildungen und Erkrankungen",
+      "handlungskompetenz": "- pathologische Fälle",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Risikoschwangerschaft",
+      "handlungskompetenz": "Betreuung von Risikoschwangerschaften einschließlich Notfallsituationen, davon",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Risikoschwangerschaft",
+      "handlungskompetenz": "- mit maternaler Erkrankung, insbesondere Schwangerschaftsdiabetes einschließlich Therapie",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Invasive prä- und perinatale Eingriffe, z. B. Amniozentese, Chorionzottenbiopsie, Nabelschnurpunktion, Punktionen aus fetalen Körperhöhlen, Amniondrainagen, Fruchtwasserauffüllung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Weiterführende differentialdiagnostische Dopplersonographie von fetomaternalen Gefäßen bei Risikoschwangerschaften",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "handlungskompetenz": "Leitung und Überwachung von Risikogeburten gemäß Mutterschaftsrichtlinie einschließlich geburtshilflicher Notfallmaßnahmen",
+      "richtzahl": 400
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "handlungskompetenz": "Wiederbelebungsmaßnahmen beim Neugeborenen"
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "handlungskompetenz": "Sectiones höheren Schwierigkeitsgrades, z. B. bei Mehrlingsgeburten, Frühgeburten, Plazentaanomalien sowie Re-Sectiones",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "handlungskompetenz": "Vaginale operative Entbindungen"
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "handlungskompetenz": "Entwicklung von Mehrlingen bei vaginalen Entbindungen"
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "kognitive_und_methodenkompetenz": "Risikofaktoren von Beckenendlageentwicklung bei vaginalen Entbindungen"
+    },
+    {
+      "abschnitt": "Risikogeburt",
+      "handlungskompetenz": "Versorgung komplizierter Geburtsverletzungen",
+      "richtzahl": 100
+    }
+  ]
+}

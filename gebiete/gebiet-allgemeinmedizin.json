@@ -1,0 +1,317 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Allgemeinmedizin",
+  "bezeichnung": "Facharzt/Fachärztin für Allgemeinmedizin",
+  "zusatzbezeichnung": "Hausarzt/Hausärztin",
+  "gebietsdefinition": "Das Gebiet Allgemeinmedizin beinhaltet die medizinische Akut-, Langzeit- und Notfallversorgung von Patienten jeden Alters mit körperlichen und seelischen Gesundheitsstörungen sowie die Gesundheitsförderung, Prävention, Rehabilitation und die Versorgung in der Palliativsituation unter Berücksichtigung somatischer, psycho-sozialer, soziokultureller und ökologischer Aspekte. Das Gebiet hat zudem auch die besondere Funktion, als erste ärztliche Anlaufstelle bei allen Gesundheitsproblemen verfügbar zu sein sowie die sektorenübergreifende Versorgungskoordination und Integration mit anderen Arztgruppen und Fachberufen im Gesundheitswesen zu gewährleisten. Es umfasst die haus- und familienärztliche Funktion unter Berücksichtigung eines ganzheitlichen Fallverständnisses und der Multimorbidität im unausgelesenen Patientenkollektiv, insbesondere die Betreuung des Patienten im Kontext seiner Familie oder sozialen Gemeinschaft, auch im häuslichen Umfeld.",
+  "weiterbildungszeit": "60 Monate Allgemeinmedizin unter Befugnis an Weiterbildungsstätten, davon müssen 24 Monate in Allgemeinmedizin in der ambulanten hausärztlichen Versorgung abgeleistet werden müssen 12 Monate im Gebiet Innere Medizin in der stationären Akutversorgung abgeleistet werden müssen 6 Monate in mindestens einem anderen Gebiet der unmittelbaren Patientenversorgung abgeleistet werden - können zum Kompetenzerwerb bis zu 18 Monate Weiterbildung in Gebieten der unmittelbaren Patientenversorgung erfolgen 80 Stunden Kurs-Weiterbildung in Psychosomatische Grundversorgung",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Mehrdimensionalität des allgemeinmedizinischen Handelns und der biopsychosozialen Langzeitbetreuung mit Anwendung des hermeneutischen Fallverständnisses unter Berücksichtigung des Krankheitsverständnisses des Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Anwendung der allgemeinmedizinischen Arbeitsmethodik des abwartenden Offenhaltens und der Vermeidung abwendbar gefährlicher Verläufe"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Versorgung und Koordination von Patienten, insbesondere in ihrem familiären Umfeld, in der Langzeitpflege sowie in ihrem weiteren sozialen Umfeld einschließlich der Hausbesuchstätigkeit, davon"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "- Hausbesuche",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Interdisziplinäre Koordination, insbesondere bei multimorbiden Patienten einschließlich der Indikationsstellung zur häuslichen Krankenpflege, Einbeziehung weiterer ärztlicher, pflegerischer, therapeutischer und sozialer Hilfen in Behandlungs- und Betreuungskonzepte"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Bewertung der Leistungsfähigkeit und Belastbarkeit, der Arbeitsfähigkeit, der Berufs- und Erwerbsfähigkeit sowie der Pflegebedürftigkeit"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "kognitive_und_methodenkompetenz": "Hereditäre Krankheitsbilder"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Indikationsstellung für eine humangenetische Beratung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Erkennung, Beurteilung und Behandlung der Auswirkungen von durch Umwelt und Milieu bedingten Schäden einschließlich Arbeitsplatzeinflüssen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Erkennung von Suchtkrankheiten und Einleitung von weiterführenden Maßnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Allgemeinmedizin",
+      "handlungskompetenz": "Durchführung der ärztlichen Leichenschau"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Lebensrettende Maßnahmen zur Aufrechterhaltung der Vitalfunktionen und Wiederbelebung, welche durch Simulation ersetzt werden können",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Teilnahme am ärztlichen Bereitschaftsdienst"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "Umgang mit den häufigsten Beratungsanlässen im unausgelesenen Patientenkollektiv einschließlich Langzeitversorgung und der hausärztlichen Behandlung von"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- nichtinfektiösen, infektiösen, toxischen und neoplastischen sowie von allergischen, immunologischen, metabolischen, ernährungsabhängigen und degenerativen Erkrankungen einschließlich diätetischer Behandlung sowie Beratung und Schulung"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit Diabetes mellitus, davon"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- Patienten mit Insulintherapie"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen der Stütz- und Bewegungsorgane unter besonderer Berücksichtigung funktioneller Behinderungen"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen der Haut"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit chronischen Wunden"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen von Hals, Nasen und Ohren"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen des Auges"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− psychischen und neurologischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit Depressionen und Angststörungen einschließlich der Krisenintervention"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen des Gastrointestinaltrakts"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit chronischen Erkrankungen des Magen-Darmtrakts"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen des Herzkreislaufsystems einschließlich Lunge"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit koronarer Herzkrankheit"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit Hypertonie"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit COPD/Asthma"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen des Urogenitaltrakts einschließlich der Niere"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen des Endokrinums und Stoffwechsels"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Erkrankungen des Blutes und der Blutgerinnung"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Blutgerinnungsmanagement"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− sexualmedizinische Beratungsanlässe"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− Beratung zur Familienplanung"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "− akute und/oder chronische Schmerzzustände"
+    },
+    {
+      "abschnitt": "Krankheiten und Beratungsanlässe",
+      "handlungskompetenz": "- insbesondere Langzeitversorgung von Patienten mit chronischen Schmerzen einschließlich der Behandlung mit Opioiden"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen",
+      "handlungskompetenz": "Erkennung und Behandlung psychosomatischer Krankheitsbilder, insbesondere"
+    },
+    {
+      "abschnitt": "Funktionelle Störungen",
+      "handlungskompetenz": "− psychosomatische Interventionen"
+    },
+    {
+      "abschnitt": "Besondere Patientengruppen",
+      "handlungskompetenz": "Behandlung und Koordination der Beratungsanlässe des Kindes- und Jugendalters"
+    },
+    {
+      "abschnitt": "Besondere Patientengruppen",
+      "handlungskompetenz": "− Behandlung von akut erkrankten Kindern/Jugendlichen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Besondere Patientengruppen",
+      "handlungskompetenz": "Erkennung und ggf. Behandlung von Verhaltensauffälligkeiten im Kindes- und Jugendalter"
+    },
+    {
+      "abschnitt": "Besondere Patientengruppen",
+      "handlungskompetenz": "Behandlung von Patienten mit Erkrankungen und Behinderungen des höheren Lebensalters, geriatrischer Krankheitsbilder und Funktionsstörungen unter Berücksichtigung von Aspekten der Multimorbidität einschließlich Erstellung und Durchführung eines Hilfeplans zum Erhalt der Selbständigkeit und Autonomie, auch unter Einbeziehung eines multiprofessionellen Teams, Anpassung des Wohnumfeldes sowie Angehörigen- und Sozialberatung, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Besondere Patientengruppen",
+      "handlungskompetenz": "− Behandlung von Patienten mit chronischer Pflegebedürftigkeit in ihrer Häuslichkeit",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Besondere Patientengruppen",
+      "handlungskompetenz": "Betreuung palliativmedizinisch zu versorgender Patienten einschließlich Sterbebegleitung"
+    },
+    {
+      "abschnitt": "Onkologische Krankheitsbilder",
+      "handlungskompetenz": "Beratung bezüglich eines kurativen oder palliativen Therapieansatzes bei Tumorerkrankungen unter Einbeziehung des Patienten, seiner Angehörigen und mitbehandelnden Ärzte"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "Gesundheitsberatung, Früherkennung und Vorsorge von Gesundheitsstörungen einschließlich Gewalt- und Suchtprävention, insbesondere"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "− spezifische Impfberatung auf Grundlage der STIKO-Empfehlungen"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "− Durchführung von kardiovaskulären Risikobestimmungen"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "− Beratungen zur Krebsfrüherkennung"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "Beratung zu sozialen und pflegerischen Hilfen"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "Indikationsstellung, Verordnung und Einleitung rehabilitativer Maßnahmen einschließlich geriatrischer Frührehabilitation sowie der Nachsorge"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Relevante diagnostische Verfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung, Einschätzung der Dringlichkeit apparativer Diagnostik einschließlich der Befundinterpretation"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Elektrokardiogramm"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ergometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Langzeit-EKG"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Langzeitblutdruckmessung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Spirometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ultraschalluntersuchungen des Abdomens und Retroperitoneums einschließlich Urogenitalorgane im Rahmen der Erst- und Verlaufsdiagnostik"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Ultraschalluntersuchungen der Schilddrüse im Rahmen der Erst- und Verlaufsdiagnostik"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken einschließlich der Gewinnung von Untersuchungsmaterial"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Otoskopie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Richtungsweisende Hör- und Sehprüfung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Interpretation standardisierter Testverfahren einschließlich Fragebögen, insbesondere zur Depressionsdiagnostik und zu geriatrischen Fragestellungen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Chemo- und Strahlentherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Transfusions- und Blutersatztherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Komplementärmedizinische Verfahren"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Indikationsstellung, Verordnung und Überwachung der medikamentösen Therapie unter Beachtung der Neben- und Wechselwirkungen und besonderer Berücksichtigung der Aspekte Multimorbidität, Alter, Polypharmazie, Adhärenz und Evidenz"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Verordnung von Psychotherapie einschließlich Verlaufsbeobachtung"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Infusionstherapie und parenterale Ernährung"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Wundversorgung und Wundbehandlung, Inzision, Extraktion, Exstirpation und Probeexzision auch unter Anwendung der Lokal- und peripheren Leitungsanästhesie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Anlage von Orthesen und Schienen"
+    }
+  ]
+}

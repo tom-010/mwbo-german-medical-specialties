@@ -1,0 +1,333 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Klinische Akut- und Notfallmedizin",
+  "bezeichnung": "Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+  "definition": "Die Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin umfasst in Ergänzung zu einer Facharztkompetenz die Erstdiagnostik und Initialtherapie von Notfall- und Akutpatienten im Krankenhaus sowie die Indikationsstellung und Koordination der weiterführenden fachspezifischen Behandlung in interdisziplinärer Zusammenarbeit.",
+  "mindestanforderungen": "Facharztanerkennung in einem Gebiet der unmittelbaren Patientenversorgung und zusätzlich 6 Monate Intensivmedizin, die auch während der Facharztweiterbildung abgeleistet werden können, 80 Stunden Kurs-Weiterbildung gemäß § 4 Abs. 8 in allgemeiner und spezieller Notfallbehandlung und 24 Monate Klinische Akut- und Notfallmedizin in einer interdisziplinären Notfallaufnahme unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Rechtliche Grundlagen der notfallmedizinischen Behandlung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Aspekte der Organisation, Ausstattung und Personalplanung von Zentralen Notfallaufnahmen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Ersteinschätzungssysteme, Triagierung und Scores"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Zusammenarbeit mit internen und externen Partnern, z. B. Rettungsdienst, KV-Dienst, anderen Fachabteilungen und Fachkliniken"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Sektorenübergreifende Behandlung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Verletzungsartenverfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "kognitive_und_methodenkompetenz": "Massenanfall von Notfallpatienten, Pandemieplanung, Grundlagen der Katastrophenmedizin"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "handlungskompetenz": "Management infektiöser und isolationspflichtiger Notfallpatienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Klinische Akut- und Notfallmedizin",
+      "handlungskompetenz": "Erkennung und Erstbehandlung bei psychosozialen Problemen, Missbrauch und Körperverletzung"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnostik und Therapieoptionen organbezogener Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "kardiovaskuläre Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "hämatologische und onkologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "immunologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "Infektionskrankheiten und Sepsis"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "endokrine und metabolische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "Flüssigkeits- und Elektrolytstörungen"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "gastrointestinale und hepatologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "respiratorische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "nephrologische und urologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "dermatologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "Notfälle im Hals-, Nasen-, Ohren-, Mund- und Nackenbereich"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "gynäkologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "muskuloskelettale Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "neurologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "neurochirurgische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "ophthalmologische Notfälle"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "psychiatrische Notfälle und Verhaltensstörungen"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "Trauma (stumpf/penetrierend)"
+    },
+    {
+      "abschnitt": "Organbezogene und spezifische Notfallsituationen",
+      "kognitive_und_methodenkompetenz": "akute Notfälle durch Umwelteinflüsse, thermische, hyper- und hypobare Exposition und elektrischen Strom"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Dyspnoe"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Herzrasen, Palpitationen und Brustschmerzen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Übelkeit, Erbrechen und Diarrhoe"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei nicht-traumatologischen Blutungen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Trauma mit und ohne vitaler Bedrohung"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Schock"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Dysurie, Oligo-Anurie, Polyurie, Hämaturie"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei akuten Störungen des Bewusstseins und Bewusstseinsverlust, Synkopen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Störungen des Gedächtnisses, der Kognition und des Verhaltens"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei akuten Gefühlsstörungen, Lähmungen, Gang-und Bewegungsstörungen und Sprach- und Sprechstörungen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei akuten Bauch- und Leistenschmerzen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Schmerzen und akuten Veränderungen der unteren und oberen Extremitäten"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Kopfschmerzen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Schwindel"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei epileptischen Anfällen und Status epilepticus"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei akuten Nacken- und Rückenschmerzen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei akuten Hautveränderungen"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Ikterus"
+    },
+    {
+      "abschnitt": "Symptomorientierte Erstdiagnostik und Initialtherapie",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Veränderungen der Körpertemperatur"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Diagnostik und Therapie im Kindes- und Jugendalter"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "handlungskompetenz": "Reanimation von Kindern und Jugendlichen, auch als Reanimationstraining"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei Notfällen im Kindes- und Jugendalter, insbesondere Schmerzen, Verbrennungen, Verbrühungen, Intoxikationen, Fieber/Sepsis, schreiendes Baby"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Diagnostik und Therapie in der Schwangerschaft und gynäkologischen Erkrankungen"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "kognitive_und_methodenkompetenz": "Pharmakotherapie in der Schwangerschaft"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei gynäkologischen und geburtshilflichen Notfällen, insbesondere Extrauteringravidität, Eklampsie, Verletzungen, Blutungen"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "kognitive_und_methodenkompetenz": "Besonderheiten von Symptomen und Erkrankungen bei geriatrischen Patienten"
+    },
+    {
+      "abschnitt": "Alters- und geschlechtsbezogene Notfälle",
+      "handlungskompetenz": "Erstdiagnostik, Initialtherapie und Indikationsstellung zur weiterführenden Behandlung bei geriatrischen Patienten, insbesondere bei Delir, Demenz, Medikamenteninteraktionen und Überdosierung"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Notfallmäßige Sicherung der Atemwege einschließlich endotrachealer Intubation sowie Algorithmus bei schwieriger Intubation"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Atmungs- und Beatmungsmanagement"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Pleurapunktion und Thoraxdrainage"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Kardiopulmonale Reanimationen bei Erwachsenen und Kindern einschließlich Postreanimationstherapie sowie Temperaturmanagement"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Herz-Kreislauf-Unterstützung und Durchführung von kardialen Maßnahmen einschließlich Anlage von Gefäßzugängen, Schrittmachertherapie, Perikardpunktion"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Sedierung und Analgesie einschließlich Lokal-, Oberflächen- und Regionalanästhesie"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Akutschmerztherapie bei akuten Schmerzen, akuter Exazerbation chronischer Schmerzen und Tumorschmerzen"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Traumaversorgung, insbesondere Frakturruhigstellung, Reposition, Wundversorgung, Verbands- und Gipstechniken"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Polytraumamanagement"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Akutversorgung des Schlaganfalls"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Notfalldiagnostik, insbesondere EKG"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Notfallsonographie von Abdomen, Thorax, Herz, Gefäßen und Bewegungsapparat"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Labordiagnostik im Notfall"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Röntgen- und CT-Untersuchungen im Notfall"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen bei akuten Intoxikationen"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen bei Ertrinkungsunfall"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen im HNO-Bereich, z. B. Rhinoskopie, Nasentamponade, Otoskopie, Trachealkanülenwechsel"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen am Gastrointestinaltrakt, z. B. Legen von Magensonden, Magenspülung, Aszitespunktion"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen am Urogenitaltrakt, z. B. Anlage transurethraler und suprapubischer Blasenkatheter"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen im Bereich des Muskel- und Skelettsystems, z. B. Abszessspaltung, Gelenkpunktion"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen bei neurologischen Symptomen/Diagnosen, z. B. Liquorpunktion"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen am Auge, z. B. Entfernung von Fremdkörpern, Augenspülung"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Maßnahmen im Bereich Geburtshilfe und Gynäkologie, z. B. notfallmäßige Entbindung"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Erstversorgung von Neugeborenen, z. B. Wärmeerhalt, Reanimation"
+    },
+    {
+      "abschnitt": "Notfallmedizinische Kernverfahren",
+      "handlungskompetenz": "Koordination und Begleitung des Transports von Schwerstkranken"
+    }
+  ]
+}

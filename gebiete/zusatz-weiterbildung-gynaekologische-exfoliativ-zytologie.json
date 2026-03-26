@@ -1,0 +1,49 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Gynäkologische Exfoliativ-Zytologie",
+  "bezeichnung": "Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+  "definition": "Die Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie umfasst in Ergänzung zur Facharztkompetenz die Durchführung und Befundung gynäkologischer Abstrichuntersuchungen zur Früherkennung des Gebärmutterhalskrebses einschließlich der daran durchgeführten Nachweise von HPV-Typen.",
+  "mindestanforderungen": "Facharztanerkennung für Frauenheilkunde und Geburtshilfe und zusätzlich Gynäkologische Exfoliativ-Zytologie gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "kognitive_und_methodenkompetenz": "Sachgerechte Abstrichentnahme"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "handlungskompetenz": "Aufbereitung des Präparates"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "handlungskompetenz": "Erkennung, Bewertung und Steuerung von Einflussgrößen und Störfaktoren auf die Untersuchungsergebnisse"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "handlungskompetenz": "Begutachtung und Klassifizierung des Zellausstriches einschließlich Befunderstellung, davon",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "handlungskompetenz": "- bei Zervixkarzinomen und deren Vorstufen",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "kognitive_und_methodenkompetenz": "HPV-Testung"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "handlungskompetenz": "Sequenzspezifischer DNA- und/oder mRNA-Nachweis von High-Risk-HPV-Typen aus Zervix- /Vaginalmaterial, ggf. mit Aufbereitung und/oder Amplifikation, einschließlich Befunderstellung und Abgleich mit morphologischem Befund",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "kognitive_und_methodenkompetenz": "Prognose- und diagnoserelevante Marker für das Zervixkarzinom und seine Vorstufen einschließlich ihrer Aufbereitung"
+    },
+    {
+      "abschnitt": "Inhalte der Zusatz-Weiterbildung Gynäkologische Exfoliativ-Zytologie",
+      "handlungskompetenz": "Zytologische Untersuchung unter Anwendung immunzytochemischer Sonderverfahren einschließlich Abgleich mit morphologischem Befund",
+      "richtzahl": 200
+    }
+  ]
+}

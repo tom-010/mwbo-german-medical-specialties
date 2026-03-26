@@ -1,0 +1,71 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Phlebologie",
+  "bezeichnung": "Zusatz-Weiterbildung Phlebologie",
+  "definition": "Die Zusatz-Weiterbildung Phlebologie umfasst in Ergänzung zu einer Facharztkompetenz die Vorbeugung, Erkennung, Behandlung und Rehabilitation der Erkrankungen und Fehlbildungen des Venen- und Lymphgefäßsystems der Extremitäten einschließlich thrombotischer Erkrankungen des Venensystems.",
+  "mindestanforderungen": "Facharztanerkennung und zusätzlich Phlebologie gemäß Weiterbildungsinhalten unter Befugnis",
+  "inhalte": [
+    {
+      "abschnitt": "Phlebologische und Lymphgefäß-Erkrankungen",
+      "handlungskompetenz": "Erkennung, Behandlung und Nachbehandlung venöser Thromboembolien einschließlich der Antikoagulation"
+    },
+    {
+      "abschnitt": "Phlebologische und Lymphgefäß-Erkrankungen",
+      "handlungskompetenz": "Behandlung der chronischen Veneninsuffizienz und ihrer Komplikationen einschließlich des Ulcus cruris"
+    },
+    {
+      "abschnitt": "Phlebologische und Lymphgefäß-Erkrankungen",
+      "handlungskompetenz": "Behandlung des Lymphödems der Extremitäten"
+    },
+    {
+      "abschnitt": "Phlebologische und Lymphgefäß-Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Erkrankungen in der Endstrombahn, z. B. Akrozyanose, Raynaud-Syndrom"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Dopplersonographie des Venensystems",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Duplexsonographie des Venensystems",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Funktionsuntersuchungen, z. B. Photoplethysmographie, Venenverschlussplethysmograhie, Phlebodynamometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Bestimmung des Knöchel-Arm-Index"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Sklerosierungstherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Durchführung von"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- Kompressionsverbänden"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- apparativen intermittierenden Kompressionsbehandlungen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "- speziellen lymphologischen Kompressionsverbänden"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "handlungskompetenz": "Verordnung und Überwachung von Kompressionsstrümpfen"
+    },
+    {
+      "abschnitt": "Therapeutische Verfahren",
+      "kognitive_und_methodenkompetenz": "Eingriffe am epifaszialen Venensystem der unteren Extremitäten, z. B. Phlebektomie, Varikotomie, Miniphlebochirurgie, endovenös-ablative Verfahren, Krossektomie, Stripping, Perforantenligatur"
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Kinder- und Jugendmedizin",
+  "bezeichnung": "Facharzt/Fachärztin für Kinder- und Jugendmedizin",
+  "zusatzbezeichnung": "Kinder- und Jugendarzt/Kinder- und Jugendärztin",
+  "gebietsdefinition": "Das Gebiet Kinder- und Jugendmedizin umfasst die Prävention, Diagnostik, Therapie, Rehabilitation und Nachsorge aller körperlichen, psychischen und psychosomatischen Erkrankungen, Verhaltensauffälligkeiten, Entwicklungsstörungen und Behinderungen des Säuglings, Kleinkindes, Kindes, Jugendlichen und Heranwachsenden in seinem sozialen Umfeld von der pränatalen Periode bis zur Transition in eine Weiterbetreuung.",
+  "weiterbildungszeit": "60 Monate Kinder- und Jugendmedizin unter Befugnis an Weiterbildungsstätten, davon müssen 6 Monate in der intensivmedizinischen Versorgung von Kindern und Jugendlichen abgeleistet werden - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen 80 Stunden Kurs-Weiterbildung in Psychosomatische Grundversorgung",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Erkennung und Einleitung von Maßnahmen bei Kindeswohlgefährdung, insbesondere bei Vernachlässigung, Misshandlung und sexuellem Missbrauch"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Interdisziplinäre Zusammenarbeit einschließlich Fallkonferenzen, auch mit Kindergemeinschaftseinrichtungen, Beratungsstellen und Behörden"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Diagnostik und Therapie bei Schlafstörungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Erkennung von akut abklärungsbedürftigen Symptomkomplexen (red flags)"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Normale und pathologische Entwicklung von der Geburt bis zum Abschluss der somatischen, psychischen, mentalen und sozialen Reife"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Transition im Kontext der zugrunde liegenden Erkrankung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Indikationsstellung zur Verlegung in eine fachlich spezialisierte Einrichtung einschließlich der vorgeburtlichen Verlegung bei schweren Erkrankungsverläufen, z. B. Organversagen, onkologische Erkrankung, extreme Unreife, schwere Fehlbildung, schwerer Immundefekt"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Pharmakotherapie in den verschiedenen Altersabschnitten einschließlich der Indikationsstellung zur zulassungsüberschreitenden Anwendung (Off-label use)"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Analgosedierung bei diagnostischen und therapeutischen Eingriffen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Alters-, geschlechts- und kulturspezifische Aspekte in Symptomatologie und Therapie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Gesunde Ernährung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendmedizin",
+      "handlungskompetenz": "Prävention, Diagnostik und Therapie von Ernährungsstörungen, insbesondere der Adipositas"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Entwicklungs- und Sozialpädiatrie",
+      "handlungskompetenz": "Diagnostik, Therapie, Rehabilitation und Nachsorge von Entwicklungsstörungen und Behinderungen"
+    },
+    {
+      "abschnitt": "Entwicklungs- und Sozialpädiatrie",
+      "handlungskompetenz": "Klinische Beurteilung von Wachstum, körperlicher, psychomotorischer und psychosozialer Entwicklung"
+    },
+    {
+      "abschnitt": "Entwicklungs- und Sozialpädiatrie",
+      "handlungskompetenz": "Entwicklungsdiagnostik einschließlich Anwendung und Beurteilung von Testverfahren"
+    },
+    {
+      "abschnitt": "Psychische und psychosomatische Störungen und Verhaltensstörungen",
+      "handlungskompetenz": "Basisbehandlung psychischer, somatoformer und psychosomatischer Anpassungs-, Regulations-und Verhaltensstörungen"
+    },
+    {
+      "abschnitt": "Notfälle und Intensivmedizin",
+      "kognitive_und_methodenkompetenz": "Notfall- und intensivmedizinisch relevante Symptome, Krankheitsbilder und Differentialdiagnosen"
+    },
+    {
+      "abschnitt": "Notfälle und Intensivmedizin",
+      "handlungskompetenz": "Intensivmedizinische Basisbehandlung einschließlich endotrachealer Intubation sowie Punktionen von Körperhöhlen"
+    },
+    {
+      "abschnitt": "Notfälle und Intensivmedizin",
+      "handlungskompetenz": "Behandlung von Vergiftungen"
+    },
+    {
+      "abschnitt": "Notfälle und Intensivmedizin",
+      "handlungskompetenz": "Legen zentralvenöser Zugänge"
+    },
+    {
+      "abschnitt": "Neonatologische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Erkrankungen und Komplikationen der Neonatalperiode"
+    },
+    {
+      "abschnitt": "Neonatologische Erkrankungen",
+      "handlungskompetenz": "Primärversorgung und Reanimation von Früh- und Neugeborenen einschließlich der Basisbeatmungstechniken"
+    },
+    {
+      "abschnitt": "Neonatologische Erkrankungen",
+      "handlungskompetenz": "Beurteilung der Reife von Früh- und Neugeborenen"
+    },
+    {
+      "abschnitt": "Neonatologische Erkrankungen",
+      "handlungskompetenz": "Diagnostik und Therapie wesentlicher neonatologischer Krankheitsbilder einschließlich der Indikationsstellung zur weiterführenden Behandlung sowie der Einleitung von rehabilitativen Maßnahmen"
+    },
+    {
+      "abschnitt": "Neonatologische Erkrankungen",
+      "handlungskompetenz": "Neurologische Beurteilung und Diagnostik bei Früh- und Neugeborenen"
+    },
+    {
+      "abschnitt": "Neonatologische Erkrankungen",
+      "handlungskompetenz": "Ernährungsplanung bei Früh- und Neugeborenen einschließlich parenteraler Ernährung"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Jugendspezifische Morbidität und Risikoverhalten sowie weiterführende Therapieoptionen im Erwachsenenalter"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "handlungskompetenz": "Erkennung und Einschätzung von Experimentierverhalten in Abgrenzung zu Risikoverhalten und Suizidalität einschließlich der Beratung"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "handlungskompetenz": "Spezifische jugendmedizinische Diagnostik"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "handlungskompetenz": "Prävention einschließlich Krankheitsfrüherkennungsuntersuchungen für Jugendliche"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Notfallkontrazeption"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Sexuell übertragbare Erkrankungen"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "handlungskompetenz": "Therapie und Beratung Jugendlicher und Heranwachsender unter Berücksichtigung des Rechts auf Entscheidung/Mitentscheidung und der Schweigepflicht"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "kognitive_und_methodenkompetenz": "Normaler Ablauf und Varianten der pubertären Entwicklung der Geschlechter (biologisch/mental/psychosozial)"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "handlungskompetenz": "Bestimmung der Pubertätsstadien"
+    },
+    {
+      "abschnitt": "Besondere Aspekte der Jugendmedizin",
+      "handlungskompetenz": "Therapie und Begleitung von Jugendlichen mit chronischer, behindernder und prognostisch ungünstiger Erkrankung unter Berücksichtigung von Akzeptanz, Compliance und jugendaltersspezifischem Verhalten"
+    },
+    {
+      "abschnitt": "Erkrankung des Respirationstraktes",
+      "kognitive_und_methodenkompetenz": "Erkrankungen der Atemwege und der Lunge"
+    },
+    {
+      "abschnitt": "Erkrankung des Respirationstraktes",
+      "handlungskompetenz": "Diagnostik und Therapie häufiger pneumologischer Erkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankung des Respirationstraktes",
+      "handlungskompetenz": "Mitbehandlung komplexer pneumologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankung des Respirationstraktes",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Lungenfunktionstests einschließlich Spirometrie und Fluss-Volumenkurve",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Erkrankung des Respirationstraktes",
+      "handlungskompetenz": "Anleitung von Inhalationstechniken und Demonstration atemerleichternder Übungen"
+    },
+    {
+      "abschnitt": "Allergien",
+      "kognitive_und_methodenkompetenz": "Grundlagen allergologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Allergien",
+      "kognitive_und_methodenkompetenz": "Differentialdiagnostik atopischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Allergien",
+      "handlungskompetenz": "Durchführung und Befunderstellung von Prick-Tests"
+    },
+    {
+      "abschnitt": "Allergien",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation laborgestützter Diagnostik"
+    },
+    {
+      "abschnitt": "Allergien",
+      "handlungskompetenz": "Durchführung der spezifischen Immuntherapie"
+    },
+    {
+      "abschnitt": "Allergien",
+      "handlungskompetenz": "Therapie der Anaphylaxie gemäß Schweregrad einschließlich des anaphylaktischen Schocks"
+    },
+    {
+      "abschnitt": "Infektionskrankheiten",
+      "kognitive_und_methodenkompetenz": "Infektiöse Erkrankungen"
+    },
+    {
+      "abschnitt": "Infektionskrankheiten",
+      "handlungskompetenz": "Diagnostik und Therapie von Infektionserkrankungen und Infektionen von Organsystemen einschließlich der Sepsis"
+    },
+    {
+      "abschnitt": "Infektionskrankheiten",
+      "handlungskompetenz": "Management bei therapieresistenten Erregern"
+    },
+    {
+      "abschnitt": "Infektionskrankheiten",
+      "handlungskompetenz": "Präventivmaßnahmen bei Infektionserkrankungen unter Berücksichtigung von Ansteckungsmodus, Inkubationszeit und Prodromi einschließlich der Isolationspflichtigkeit"
+    },
+    {
+      "abschnitt": "Infektionskrankheiten",
+      "kognitive_und_methodenkompetenz": "Meldepflichten gemäß Infektionsschutzgesetz"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "kognitive_und_methodenkompetenz": "Endokrine Erkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "handlungskompetenz": "Basisbehandlung endokriner Erkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "handlungskompetenz": "Behandlung des Diabetes mellitus"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "handlungskompetenz": "Behandlung von Schilddrüsenerkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "handlungskompetenz": "Diagnostik und konservative Therapie des Maldeszensus Testis"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "handlungskompetenz": "Mitbehandlung seltener oder komplexer endokrinologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen der endokrinen Organe/Diabetologie",
+      "kognitive_und_methodenkompetenz": "Metabolisches Syndrom"
+    },
+    {
+      "abschnitt": "Erkrankungen des Verdauungstraktes",
+      "kognitive_und_methodenkompetenz": "Krankheiten der Verdauungsorgane"
+    },
+    {
+      "abschnitt": "Erkrankungen des Verdauungstraktes",
+      "handlungskompetenz": "Diagnostik und Basistherapie von Patienten mit Erkrankungen der Verdauungsorgane, auch bei funktionellen Störungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen des Verdauungstraktes",
+      "handlungskompetenz": "Mitbehandlung komplexer gastroenterologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Verdauungstraktes",
+      "handlungskompetenz": "Ernährungsberatung und Diätetik bei Erkrankungen des Verdauungstraktes"
+    },
+    {
+      "abschnitt": "Hämatologische und onkologische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Hämatologische, onkologische und hämostaseologische Erkrankungen"
+    },
+    {
+      "abschnitt": "Hämatologische und onkologische Erkrankungen",
+      "handlungskompetenz": "Behandlung häufiger hämatologischer und hämostaseologischer Erkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Hämatologische und onkologische Erkrankungen",
+      "handlungskompetenz": "Mitbehandlung onkologischer, komplexer hämatologischer, und hämostaseologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Hämatologische und onkologische Erkrankungen",
+      "handlungskompetenz": "Management bei dauerhaften zentralvenösen Zugängen, z. B. Port, Hickman, Broviac"
+    },
+    {
+      "abschnitt": "Primäre und sekundäre Immundefekte und Dysregulationen",
+      "kognitive_und_methodenkompetenz": "Angeborene und erworbene Störungen des Immunsystems"
+    },
+    {
+      "abschnitt": "Primäre und sekundäre Immundefekte und Dysregulationen",
+      "handlungskompetenz": "Mitbehandlung bei Immundefekten und Dysregulationen sowie unter Immunsuppression einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen des Herz-Kreislaufsystems",
+      "kognitive_und_methodenkompetenz": "Angeborene oder erworbene Erkrankungen des Herzens und des Kreislaufs"
+    },
+    {
+      "abschnitt": "Erkrankungen des Herz-Kreislaufsystems",
+      "handlungskompetenz": "Erkennung abklärungsbedürftiger kardialer Symptome"
+    },
+    {
+      "abschnitt": "Erkrankungen des Herz-Kreislaufsystems",
+      "handlungskompetenz": "Mitbehandlung kardiologischer Erkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen der Nieren und der ableitenden Harnwege",
+      "kognitive_und_methodenkompetenz": "Akute und chronische Erkrankungen der Niere und der ableitenden Harnwege"
+    },
+    {
+      "abschnitt": "Erkrankungen der Nieren und der ableitenden Harnwege",
+      "handlungskompetenz": "Behandlung häufiger nephro-urologischer Erkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen der Nieren und der ableitenden Harnwege",
+      "handlungskompetenz": "Diagnostik und konservative Therapie von Blasenfunktionsstörungen und Inkontinenz"
+    },
+    {
+      "abschnitt": "Erkrankungen der Nieren und der ableitenden Harnwege",
+      "handlungskompetenz": "Mitbehandlung komplexer Erkrankungen der Nieren und der ableitenden Harnwege"
+    },
+    {
+      "abschnitt": "Erkrankungen der Nieren und der ableitenden Harnwege",
+      "handlungskompetenz": "Behandlung akuter Störungen des Wasser-, Elektrolyt- und Säure-Basen-Haushaltes"
+    },
+    {
+      "abschnitt": "Erkrankungen der Nieren und der ableitenden Harnwege",
+      "handlungskompetenz": "Behandlung des Bluthochdrucks"
+    },
+    {
+      "abschnitt": "Erkrankungen des zentralen und peripheren Nervensystems und des neuromuskulären Systems",
+      "kognitive_und_methodenkompetenz": "Neuropädiatrische Erkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des zentralen und peripheren Nervensystems und des neuromuskulären Systems",
+      "handlungskompetenz": "Diagnostik und Therapie häufiger neuropädiatrischer Erkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen des zentralen und peripheren Nervensystems und des neuromuskulären Systems",
+      "handlungskompetenz": "Mitbehandlung komplexer neuropädiatrischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des zentralen und peripheren Nervensystems und des neuromuskulären Systems",
+      "handlungskompetenz": "Diagnostik und Therapie bei Gelegenheitsanfällen und des Krampfanfalls bei Fieber"
+    },
+    {
+      "abschnitt": "Erkrankungen des zentralen und peripheren Nervensystems und des neuromuskulären Systems",
+      "handlungskompetenz": "Diagnostik und Therapie des Kopfschmerzes"
+    },
+    {
+      "abschnitt": "Rheumatische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Entzündlich-rheumatische Systemerkrankungen"
+    },
+    {
+      "abschnitt": "Rheumatische Erkrankungen",
+      "handlungskompetenz": "Indikationsstellung und Überwachung von Physiotherapie, Ergotherapie einschließlich der Hilfsmittelversorgung"
+    },
+    {
+      "abschnitt": "Rheumatische Erkrankungen",
+      "handlungskompetenz": "Basisbehandlung von Patienten mit rheumatischen Erkrankungen und Systemerkrankungen einschließlich der Indikationsstellung zur weiterführenden Behandlung"
+    },
+    {
+      "abschnitt": "Rheumatische Erkrankungen",
+      "handlungskompetenz": "Mitbehandlung komplexer rheumatischer Erkrankungen und Systemerkrankungen"
+    },
+    {
+      "abschnitt": "Stoffwechselerkrankungen",
+      "kognitive_und_methodenkompetenz": "Angeborene Stoffwechselerkrankungen"
+    },
+    {
+      "abschnitt": "Stoffwechselerkrankungen",
+      "kognitive_und_methodenkompetenz": "Zielerkrankungen des Neugeborenenscreenings"
+    },
+    {
+      "abschnitt": "Stoffwechselerkrankungen",
+      "handlungskompetenz": "Einleitung einer Notfalltherapie"
+    },
+    {
+      "abschnitt": "Stoffwechselerkrankungen",
+      "handlungskompetenz": "Mitbehandlung angeborener Stoffwechselerkrankungen"
+    },
+    {
+      "abschnitt": "Chirurgisch zu behandelnde Krankheitsbilder",
+      "kognitive_und_methodenkompetenz": "Chirurgische Krankheitsbilder, Fehlbildungen, Verletzungen und Verbrennungen einschließlich operativer und konservativer Therapieverfahren"
+    },
+    {
+      "abschnitt": "Chirurgisch zu behandelnde Krankheitsbilder",
+      "handlungskompetenz": "Diagnostik von chirurgischen Krankheitsbildern, Einleitung der weiterführenden operativen Therapie sowie Weiterbehandlung"
+    },
+    {
+      "abschnitt": "Erkrankungen der Haut",
+      "kognitive_und_methodenkompetenz": "Hauterkrankungen und Hautmanifestationen von Systemerkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen der Haut",
+      "handlungskompetenz": "Diagnostik und Therapie häufiger Hauterkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen der Haut",
+      "handlungskompetenz": "Mitbehandlung komplexer Hauterkrankungen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Bewegungsapparates",
+      "kognitive_und_methodenkompetenz": "Erkrankungen und Funktionseinschränkungen des Bewegungsapparates"
+    },
+    {
+      "abschnitt": "Erkrankungen des Bewegungsapparates",
+      "handlungskompetenz": "Diagnostik und konservative Therapie von Erkrankungen und Funktionseinschränkungen des Bewegungsapparates"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Organisation und Durchführung von primären bis tertiären Präventionsmaßnahmen"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Spezifische Impfberatung auf Grundlage der STIKO-Empfehlungen"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Früherkennungsuntersuchungen in den verschiedenen Altersstufen, davon"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "- im Säuglingsalter (U2-U6)",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "- im Kindesalter (U7-U9)",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "- im Schul- sowie Jugendalter (z. B. J1)",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Stoffwechselscreening bei Neugeborenen einschließlich Tracking"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Neugeborenenhörscreening einschließlich Tracking"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Prävention von System- und Organerkrankungen"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Beratung bezüglich toxikologischer und umweltmedizinischer Faktoren"
+    },
+    {
+      "abschnitt": "Prävention",
+      "handlungskompetenz": "Beratung zur Unfallprävention"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Sonographie einschließlich Dopplertechnik"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- des Abdomens und des Retroperitoneums einschließlich Urogenitalorgane",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- der Nieren und ableitenden Harnwege",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- des Gehirns",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- der Gelenke und Weichteile",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- der Säuglingshüfte",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- der Schilddrüse",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Punktions- und Katheterisierungstechniken einschließlich der Gewinnung von Untersuchungsmaterial"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation bildgebender und funktioneller Verfahren sowie weiterer technischer Untersuchungsverfahren"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Standardisierte Untersuchungen der Sprache und des Sprechens"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Richtungsweisende Untersuchungen des Seh- und Hörvermögens mit standardisierten Methoden, z. B. Tonschwellenaudiometrie"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Langzeit-Blutdruckmessung"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Elektrokardiogramm"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "kognitive_und_methodenkompetenz": "Elektroenzephalogramm"
+    }
+  ]
+}

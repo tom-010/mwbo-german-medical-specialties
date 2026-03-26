@@ -1,0 +1,117 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Pathologie",
+  "bezeichnung": "Facharzt/Fachärztin für Neuropathologie",
+  "zusatzbezeichnung": "Neuropathologe/Neuropathologin",
+  "gebietsdefinition": "Das Gebiet Pathologie einschließlich der Neuropathologie umfasst die Erkennung von Krankheiten, ihrer Entstehung und ihrer Ursachen durch die Beurteilung von Untersuchungsgut bei morphologisch definierten Krankheiten oder durch Obduktion und dient damit zugleich der Beratung und Unterstützung der in der Behandlung tätigen Ärzte.",
+  "weiterbildungszeit": "72 Monate Neuropathologie unter Befugnis an Weiterbildungsstätten, davon können zum Kompetenzerwerb bis zu 24 Monate in der Facharztweiterbildung Pathologie erfolgen können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neuropathologie",
+      "kognitive_und_methodenkompetenz": "Prinzipien interdisziplinärer Therapiekonzepte und Therapieplanung, insbesondere bei Tumorerkrankungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neuropathologie",
+      "handlungskompetenz": "Interpretation von klinischen Befunden im Zusammenhang mit gebietsbezogenen Fragestellungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neuropathologie",
+      "kognitive_und_methodenkompetenz": "Digitale Pathologie"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neuropathologie",
+      "handlungskompetenz": "Beurteilung unter Berücksichtigung der Morphologie erwünschter und unerwünschter Arzneimittelwirkungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neuropathologie",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Neuropathologie",
+      "kognitive_und_methodenkompetenz": "Spezielle Anatomie, insbesondere des Nervensystems und der Skelettmuskulatur"
+    },
+    {
+      "abschnitt": "Obduktionstätigkeit",
+      "kognitive_und_methodenkompetenz": "Spezielle Präparations- und Nachweismethoden der makroskopischen und mikroskopischen Diagnostik, insbesondere von Gehirnen, Rückenmarkspräparaten, Spinalganglien, peripheren Nervenanteilen und Skelettmuskulatur"
+    },
+    {
+      "abschnitt": "Obduktionstätigkeit",
+      "handlungskompetenz": "Obduktionen des Zentralnervensystems einschließlich weiterführender Untersuchungen, epikritischer Auswertung und Dokumentation",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Obduktionstätigkeit",
+      "handlungskompetenz": "Vorstellung von Obduktionsbefunden in Morbiditäts- und Mortalitätskonferenzen"
+    },
+    {
+      "abschnitt": "Makroskopie",
+      "handlungskompetenz": "Makroskopische Beurteilung und Entnahme morphologischen Materials für die histologische und zytologische Untersuchung einschließlich der Methoden der technischen Bearbeitung und Färbung, insbesondere von Gehirnen, Rückenmarkspräparaten, Spinalganglien, peripheren Nervenanteilen und Skelettmuskulatur"
+    },
+    {
+      "abschnitt": "Aufbereitung und Befundung von Präparaten",
+      "kognitive_und_methodenkompetenz": "Grundlagen der technischen Aufbereitung von Präparaten, insbesondere von Gehirnen, Rückenmarkspräparaten, Spinalganglien, peripheren Nervenanteilen und Skelettmuskulatur mittels histologischer, histochemischer, immunhistochemischer, zytologischer, elektronenmikroskopischer und molekularpathologischer Methoden"
+    },
+    {
+      "abschnitt": "Aufbereitung und Befundung von Präparaten",
+      "kognitive_und_methodenkompetenz": "Einflussgrößen und Störfaktoren auf Untersuchungsergebnisse einschließlich deren Steuerung"
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "kognitive_und_methodenkompetenz": "Allgemeine und spezielle fachgebietsbezogene Methoden der morphologischen Diagnostik einschließlich der Immunhistologie/-zytologie, Molekularpathologie, der Morphometrie und der Zytogenetik sowie der Biochemie und Immunologie"
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "handlungskompetenz": "Beurteilung und Befunderstellung von histopathologischen, insbesondere neurohistologischen Untersuchungen an Präparaten verschiedener Entitäten, davon",
+      "richtzahl": 5000
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "handlungskompetenz": "- Schnellschnittuntersuchungen",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "handlungskompetenz": "- Liquorzytologie",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "handlungskompetenz": "- peripheres Nervensystem und Skelettmuskulatur",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "kognitive_und_methodenkompetenz": "Molekulare Neuropathologie, insbesondere deren Indikation zur Anwendung und Interpretation für die Erkennung und Klassifikation neurologischer Erkrankungen"
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "handlungskompetenz": "Durchführung und Befunderstellung molekularpathologischer Untersuchungen sowie deren Interpretation",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Mikroskopie",
+      "handlungskompetenz": "Durchführung und Befunderstellung neuromorphologischer Untersuchungen an Präparaten verschiedener Entitäten, insbesondere der Enzym-/Immunhistochemie oder Elektronenmikroskopie"
+    },
+    {
+      "abschnitt": "Interdisziplinäre Zusammenarbeit",
+      "handlungskompetenz": "Mitwirkung an klinisch-pathologischen Konferenzen"
+    },
+    {
+      "abschnitt": "Interdisziplinäre Zusammenarbeit",
+      "handlungskompetenz": "Mitwirkung an interdisziplinären Tumorkonferenzen",
+      "richtzahl": 30
+    },
+    {
+      "abschnitt": "Asservierung und Dokumentation",
+      "kognitive_und_methodenkompetenz": "Asservierung von Untersuchungsgut für ergänzende Untersuchungen"
+    },
+    {
+      "abschnitt": "Asservierung und Dokumentation",
+      "kognitive_und_methodenkompetenz": "Grundlagen von Biobanken"
+    },
+    {
+      "abschnitt": "Asservierung und Dokumentation",
+      "kognitive_und_methodenkompetenz": "Fotografische Dokumentation"
+    }
+  ]
+}

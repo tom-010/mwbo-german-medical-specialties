@@ -1,0 +1,549 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Haut- und Geschlechtskrankheiten",
+  "bezeichnung": "Facharzt/Fachärztin für Haut- und Geschlechtskrankheiten",
+  "zusatzbezeichnung": "Hautarzt/Hautärztin",
+  "gebietsdefinition": "Das Gebiet Haut- und Geschlechtskrankheiten umfasst die Vorbeugung, Erkennung, konservative und operative Behandlung, die Nachsorge und Rehabilitation von Erkrankungen einschließlich der durch Immunreaktionen, Allergene und Pseudoallergene ausgelösten Krankheiten der Haut, der Unterhaut einschließlich Faszien, der hautnahen Schleimhäute und der Hautanhangsgebilde sowie von Geschlechtskrankheiten.",
+  "weiterbildungszeit": "60 Monate Haut- und Geschlechtskrankheiten unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "handlungskompetenz": "Indikationsstellung und Interpretation gebietsbezogener histologischer und molekularbiologischer Untersuchungen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "kognitive_und_methodenkompetenz": "Prävalenz von Erkrankungen an der Haut, der Unterhaut einschließlich Faszien, der hautnahen Schleimhäute und der Hautanhangsgebilde sowie der Geschlechtskrankheiten"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "kognitive_und_methodenkompetenz": "Berufsgenossenschaftliche Heilverfahren, Hautarztverfahren einschließlich Hautkrebsverfahren"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "handlungskompetenz": "Einleitung flankierender Maßnahmen bei psychogenen Symptomen, somato-psychischen und psychosomatischen Reaktionen und psychosozialen Aspekten im Zusammenhang mit Erkrankungen des Hautorgans und der Geschlechtsorgane"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "handlungskompetenz": "Wissenschaftlich begründete Gutachtenerstellung",
+      "richtzahl": 5
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Haut- und Geschlechtskrankheiten",
+      "handlungskompetenz": "Teilnahme an dermatopathologischen Demonstrationen und Konferenzen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Grundlagen hereditärer und multifaktorieller Krankheitsbilder und Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Interpretation und Aussagekraft genetischer Untersuchungsergebnisse (Sensitivität, Spezifität, prädiktiver Wert)"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "kognitive_und_methodenkompetenz": "Methodische, psychosoziale und ethische Aspekte der genetischen Beratung und Diagnostik einschließlich pharmakogenetischer Tests"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Erkennung fachbezogener genetisch bedingter Krankheitsbilder oder Entwicklungsstörungen"
+    },
+    {
+      "abschnitt": "Fachgebundene genetische Beratung",
+      "handlungskompetenz": "Fachgebundene genetische Beratung bei diagnostischer und prädiktiver genetischer Untersuchung"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "kognitive_und_methodenkompetenz": "Dermatologische Notfälle"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Behandlung akuter dermatologischer Notfälle einschließlich anaphylaktischer Schock, Paravasat, Lyell-Syndrom/Toxische epidermale Nekrolyse (TEN)"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "kognitive_und_methodenkompetenz": "Venerologische Notfälle"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Behandlung und Sofortdiagnostik venerologischer Notfälle einschließlich mikroskopischer und on-site-Testverfahren"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "kognitive_und_methodenkompetenz": "Infektionen und infektionsassoziierte Erkrankungen an Haut und hautnahen Schleimhäuten durch Bakterien einschließlich Mykobakterien, Viren, Mykosen, Parasitosen sowie sexuell übertragbare Infektionen (STI)-Manifestationen einschließlich HIV-Erkrankung und systemische Infektionen mit Beteiligung des Hautorgans"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "kognitive_und_methodenkompetenz": "Tropendermatosen bei allen Hauttypen sowie in Tropen und Subtropen erworbene Hautinfektionen"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "kognitive_und_methodenkompetenz": "Direkte und indirekte Immunfluoreszenz und molekulare diagnostische Verfahren für virale, bakterielle und mykologische Erreger"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Prophylaxe von Infektionen des Hautorgans bzw. von sexuell übertragbaren Infektionen (STI)"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Mykologische Diagnostik, Abnahme und Nativdiagnostik, Kultur mit Diagnostik, molekulare Diagnostik der Pilze",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Tuberkulinhauttest"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Fluoreszenzmikroskopie für bakteriologische, mykologische und virale Untersuchungen sowie Dunkelfeldmikroskopie"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Punktion, Spaltung und Ausräumung von Abszessen, Fisteln und Phlegmonen"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Entnahme von Proben zur Erregerdiagnostik mittels verschiedener Techniken"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "In-vitro-Präparation von bakteriellen und parasitären Erregern, z. B. Grampräparat, Methylenblaufärbung, on-site-Tests"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Laboruntersuchungen, z. B. Treponema-Pallidum-Hämagglutinations-Assay (TPHA), Venereal Disease Research Laboratory (VDRL)"
+    },
+    {
+      "abschnitt": "Infektionen",
+      "handlungskompetenz": "Therapie bei HPV-Infektionen und anderen viralen Papillomen, z. B. Immuntherapie, Lasertherapie, Elektrokauterisation, Kryotherapie"
+    },
+    {
+      "abschnitt": "Entzündungen",
+      "kognitive_und_methodenkompetenz": "Entzündungen und Autoimmun- sowie autoinflammatorische Erkrankungen der Haut und an der Haut, der Hautanhangsgebilde und Unterhaut/Faszienregion sowie Grundlagen der Krankheitskomplexe, z. B. Psoriasis-, Ekzem-, Atopie-Komplex"
+    },
+    {
+      "abschnitt": "Entzündungen",
+      "handlungskompetenz": "Erstellung, Durchführung und Interpretation krankheitsbewertender Scores"
+    },
+    {
+      "abschnitt": "Entzündungen",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation der Antikörperdiagnostik bei Kollagenosen einschließlich Durchführung von Schnelltests"
+    },
+    {
+      "abschnitt": "Entzündungen",
+      "kognitive_und_methodenkompetenz": "Immunabsorptionsverfahren"
+    },
+    {
+      "abschnitt": "Entzündungen",
+      "kognitive_und_methodenkompetenz": "Melanozytentransplantation"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "kognitive_und_methodenkompetenz": "Primäre und sekundäre entzündliche und nicht-entzündliche Vaskulopathien, Fehlbildungen, primäre und sekundäre Lymphgefäßerkrankungen"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Proktoskopien einschließlich Sklerosierung von Hämorrhoiden"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Transplantation im Rahmen von Wundbehandlungen, z. B. epidermale und follikuläre Keratinozyten"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Biochirurgie"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation von Gerinnungsdiagnostik, z. B. bei APC-Resistenz, Protein S- oder C-Mangel"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Durchführung von Funktionstests und klinischen Thrombosetests"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Konservative einschließlich physikalischer Therapien von Gefäßerkrankungen"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Spezifische lokale und systemische Wundbehandlung einschließlich operativer Wundversorgung sowie Vakuumpumpenanwendung"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Doppler-/Duplexsonographie peripherer Gefäße",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Phlebologische/vaskuläre Funktionsuntersuchungen, davon",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "- Venenverschlussplethysmograhie"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "- Lichtreflexionsrheographie"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "- digitale Photoplethysmographie"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "- Laserfluxmessungen"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "- Infrarotmessungen"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Indikationsstellung zur Lymphdrainage"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Durchführung der apparativen intermittierenden Kompression"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Medikamentöse, kryo-therapeutische und operative Behandlung von Hämangiomen einschließlich Laserverfahren"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Phlebodynamometrie"
+    },
+    {
+      "abschnitt": "Gefäßerkrankungen",
+      "handlungskompetenz": "Phlebologische Eingriffe am Unterschenkel, z. B. epifasziale Venen-Exhairese, Unterbindung insuffizienter Venae perforantes, Crossektomie, superfizielle Thrombektomie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Systemerkrankungen",
+      "kognitive_und_methodenkompetenz": "Manifestationen und Komplikationen systemischer Erkrankungen an Haut und Unterhaut, hautnahen Schleimhäuten sowie Hautadnexen, insbesondere bei Kollagenosen, genetischen und erworbenen bullösen Autoimmunerkrankungen"
+    },
+    {
+      "abschnitt": "Systemerkrankungen",
+      "handlungskompetenz": "Behandlung von Hautveränderungen systemischer Erkrankungen sowie funktionelle, dermatopathologische und immunpathologische Diagnostik, Prophylaxe und Therapie am Hautorgan"
+    },
+    {
+      "abschnitt": "Dermato-Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Neues Rezeptur-Formularium (NRF) und Magistralrezeptur"
+    },
+    {
+      "abschnitt": "Dermato-Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Haut-Wirkstoff-Beziehungen, Konstruktion von Vehikeln, Salben, Cremes, Lotionen sowie Resorption, Bioverfügbarkeit, Adsorption, Penetration und Toxizität"
+    },
+    {
+      "abschnitt": "Dermato-Pharmakologie",
+      "handlungskompetenz": "Anwendung von rehydrierenden, relipidisierenden Basisexterna, Glukokortikosteroiden, Biologika, Zytokinen, Chemotherapeutika, Immunsuppressiva, niedermolekularen Verbindungen (Smallmolecules) und systemischer Immunmodulation"
+    },
+    {
+      "abschnitt": "Dermato-Pharmakologie",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der kutanen Pharmakologie im Neugeborenen- und Kindesalter sowie im Senium"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Typ I - IV-Reaktionen, Intoleranz und Pseudoallergien, Placeboreaktionen, Photobiologie sowie gebietsbezogene Toxikologie"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "kognitive_und_methodenkompetenz": "Erkrankungen durch physikalische/chemische Einflüsse"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Diagnostik und Therapie von Erkrankungen durch Hitze und Kälte, z. B. Verbrühungen und Verbrennungen sowie Mitbehandlung von Folgen höherer Verbrennungsgrade (Grad III)"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Diagnostik, Prophylaxe und Therapie allergischer und umweltbedingter Erkrankungen mit Bezug zur Haut und den angrenzenden Schleimhäuten, z. B. Rhinokonjunktivitis allergica, Asthma, Ekzeme, Urticaria, Angioödem, akute und chronische Lichtschäden"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Durchführung von Hauttestungen, insbesondere Reibetest, Scratchtest, Prick- und Intrakutantest, Greaves-Test sowie Epikutantest",
+      "richtzahl": 250
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Durchführung unspezifischer und allergenvermittelter Provokations- und Karenztests sowie Erstellung des Therapieplans",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation laborgestützter allergologischer Diagnostik, z. B. Carrier-Polymer System (CAP), Elisa, Radio-Allergo-Sorbent-Test (RAST), Basophilen-Degranulations-Test oder zellulärer Antigen-Stimulationstest (CAST)"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Vorbeugung, Behandlung und Rehabilitation berufsbedingter Dermatosen"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Hyposensibilisierung und spezifische Immuntherapien",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Photomedizinische Diagnostik- und Therapiemaßnahmen"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Überwachung physikalischer, balneologischer, klimatologischer Therapiemaßnahmen",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "kognitive_und_methodenkompetenz": "Erkrankungen an der Haut und den Hautanhangsgebilden durch Hyper- oder Hypoalimentation einschließlich Mineral- und Vitaminmangelerscheinungen"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Behandlung ernährungsbedingter Hautmanifestationen sowie diätetische Behandlung alimentärer Mangelerscheinungen"
+    },
+    {
+      "abschnitt": "Allergien und Umwelt",
+      "handlungskompetenz": "Behandlung von Komplikationen des Diabetes mellitus an der Haut und Unterhaut"
+    },
+    {
+      "abschnitt": "Therapeutische Methoden",
+      "handlungskompetenz": "Topische und systemische Therapie des Hautorgans und angrenzender Schleimhäute"
+    },
+    {
+      "abschnitt": "Therapeutische Methoden",
+      "handlungskompetenz": "Lasertherapie, z. B. selektive Photothermolyse, Koagulation, Vaporisation, Ablation sowie Detätowierung"
+    },
+    {
+      "abschnitt": "Therapeutische Methoden",
+      "handlungskompetenz": "Physiko-chemische Therapie, nicht ionisierende Strahlenbehandlung sowie Photochemotherapie und extrakorporale Photochemoimmuntherapie"
+    },
+    {
+      "abschnitt": "Therapeutische Methoden",
+      "kognitive_und_methodenkompetenz": "Wasserstrahlskalpell"
+    },
+    {
+      "abschnitt": "Therapeutische Methoden",
+      "handlungskompetenz": "Chemisches Peeling"
+    },
+    {
+      "abschnitt": "Therapeutische Methoden",
+      "kognitive_und_methodenkompetenz": "Plasmatherapie"
+    },
+    {
+      "abschnitt": "Hautadnexerkrankungen",
+      "kognitive_und_methodenkompetenz": "Primäre und sekundäre entzündliche wie nicht-entzündliche Erkrankungen der Talgdrüsen, Haare, Nägel, apokrinen und ekkrinen Drüsen"
+    },
+    {
+      "abschnitt": "Hautadnexerkrankungen",
+      "handlungskompetenz": "Hautadnexbezogene konservative und operative sowie physiko-chemische Diagnostik und Therapie einschließlich eletrokaustischer und Laserverfahren, insbesondere"
+    },
+    {
+      "abschnitt": "Hautadnexerkrankungen",
+      "handlungskompetenz": "- Laserresurfacing"
+    },
+    {
+      "abschnitt": "Hautadnexerkrankungen",
+      "handlungskompetenz": "- Microneedling"
+    },
+    {
+      "abschnitt": "Hautadnexerkrankungen",
+      "handlungskompetenz": "- Trichogramm sowie digitales Phototrichogramm",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Hautadnexerkrankungen",
+      "handlungskompetenz": "Schweiß-Sekretionsmessung einschließlich Gravimetrie, Botulinumtoxin A-Behandlung und axillärer Kürettage",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Tumorgenesemechanismen und Grundlagen der gebietsbezogenen Tumortherapie"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Benigne Neoplasien der Haut und Hautanhangsgebilde, der epifaszialen Gefäße, der Subcutis und des Hautimmunorgans"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Maligne Neoplasien und Präkanzerosen der Haut, Übergangsschleimhäute und Hautanhangsgebilde der epifaszialen Gefäße, der Hautnerven, des Bindegewebes, der Unterhaut, der Faszie und des Hautimmunorgans, der kutanen Lymphome sowie der systemischen Absiedlungen in die Haut"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "kognitive_und_methodenkompetenz": "Nävi und Hamartome in Assoziation mit Syndromen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Mitwirkung bei der systemischen Tumortherapie sowie der supportiven Therapie bei soliden Tumorerkrankungen der Facharztkompetenz"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Operative Behandlung von Tumoren der Haut, Hautanhangsgebilde und der hautnahen Schleimhäute sowie von Metastasen viszeraler Herkunft"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Konservative Therapie kutaner Lymphome"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Intervention auf akute und verzögert verlaufende autoinflammatorische und autoimmune Reaktionen bei Immuntherapien"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Nachsorge und Rehabilitation von Tumoren der Haut, Hautanhangsgebilde und der hautnahen Schleimhäute sowie kutaner Lymphome"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Früherkennungsuntersuchungen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Exzision von benignen und malignen Tumoren einschließlich Fadenmarkierung",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Exzision von Nävuszellnävi und Hamartomen",
+      "richtzahl": 150
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Lokale und regionale Lappenplastiken, auch unter Verwendung artifizieller Hautdehnungsverfahren"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Mitwirkung bei Eingriffen höherer Schweregrade"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Freie, allogene und Xenotransplantate mit autologen und in vivo gezüchteten Materialien",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Elektrokaustische Therapie einschließlich Elektrochemotherapie, Radiofrequenztherapie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Anästhesieverfahren, davon"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Lokalanästhesien"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Tumeszenzlokalanästhesie",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "- Regionalanästhesie",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Kryotherapeutische Verfahren",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Vorbeugung, Behandlung und Rehabilitation berufsbedingter Hauttumore"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Regelmäßige Teilnahme an interdisziplinären Tumorkonferenzen"
+    },
+    {
+      "abschnitt": "Tumorerkrankungen",
+      "handlungskompetenz": "Basisbehandlung palliativmedizinisch zu versorgender Patienten"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "kognitive_und_methodenkompetenz": "Bildgebende und digitale Analyseverfahren"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "kognitive_und_methodenkompetenz": "Telemedizinische Methoden"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Durchführung und Interpretation der Dermatoskopie und transkutaner Bildgebungsverfahren",
+      "richtzahl": 500
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "kognitive_und_methodenkompetenz": "Chromametrie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Lasermikroskopie am Nagelbett"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Photobiologische Testungen mit UV-Strahlung und sichtbarer Strahlung"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Physikalische Testmethoden für Wärme und Kälte, Druck- und Scherkräfte",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "kognitive_und_methodenkompetenz": "Grundlagen histopathologischer Färbetechniken und Immunhistochemie sowie der Molekularpathologie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Sonographie (A- und B- Modus) der Haut und Unterhaut, der hautnahen Lymphknoten bei Metastasen und Tumoren einschließlich Tumordickenmessung",
+      "richtzahl": 250
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Biopsietechniken, z. B. Feinnadelbiopsie"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Funktionelle Untersuchungen an der Haut, z. B. Corneo-/ pH-metrie, Sebumetrie, Cyanoacrylattechnik"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Tangentiale Exzisionen"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Splittechnik/Saugblasentechnik"
+    },
+    {
+      "abschnitt": "Funktionsdiagnostik und bildgebende Verfahren",
+      "handlungskompetenz": "Entnahme von Geweben zwecks humangenetischer, elektronenmikroskopischer und spektroskopischer Untersuchung",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Dermato-Endokrinologie und sexualmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Endokrine Störungen der Haut und Hautanhangsgebilde sowie systemische Endokrinopathien mit Manifestation an der Haut und den Hautadnexen"
+    },
+    {
+      "abschnitt": "Dermato-Endokrinologie und sexualmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Störung der Sexualtiät, Störung der Geschlechtsidentität und Störung infolge sexueller Traumatisierungen"
+    },
+    {
+      "abschnitt": "Dermato-Endokrinologie und sexualmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Sexualanamnese"
+    },
+    {
+      "abschnitt": "Dermato-Endokrinologie und sexualmedizinische Aspekte",
+      "handlungskompetenz": "Diagnostik und konservative Therapie dermato-endokrinologischer Erkrankungen einschließlich metabolischem Syndrom, auch in interdisziplinärer Zusammenarbeit"
+    },
+    {
+      "abschnitt": "Dermato-Endokrinologie und sexualmedizinische Aspekte",
+      "kognitive_und_methodenkompetenz": "Spermiogrammanalyse"
+    },
+    {
+      "abschnitt": "Dermato-Endokrinologie und sexualmedizinische Aspekte",
+      "handlungskompetenz": "Interdisziplinäre Zusammenarbeit bei endokrinen Störungen sowie Fertilitätsstörungen und drohender Beeinträchtigung der Fertilität, z. B. vor onkologischer Therapie"
+    }
+  ]
+}

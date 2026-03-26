@@ -1,0 +1,184 @@
+{
+  "typ": "facharzt",
+  "gebiet": "Kinder- und Jugendpsychiatrie und -psychotherapie",
+  "bezeichnung": "Facharzt/Fachärztin für Kinder- und Jugendpsychiatrie und -psychotherapie",
+  "zusatzbezeichnung": "Kinder- und Jugendpsychiater und -psychotherapeut/Kinder- und Jugendpsychiaterin und –psychotherapeutin",
+  "gebietsdefinition": "Das Gebiet Kinder- und Jugendpsychiatrie und -psychotherapie umfasst die Erkennung, Behandlung, Prävention und Rehabilitation psychischer, psychosomatischer und entwicklungsbedingter Erkrankungen oder Störungen sowie psychischer und sozialer Verhaltensauffälligkeiten im Säuglings-, Kindes- und Jugendalter und bei Heranwachsenden auch unter Beachtung ihrer Einbindung in das familiäre und soziale Lebensumfeld.",
+  "weiterbildungszeit": "60 Monate Kinder- und Jugendpsychiatrie und -psychotherapie unter Befugnis an Weiterbildungsstätten, davon - können zum Kompetenzerwerb bis zu 12 Monate Weiterbildung in anderen Gebieten erfolgen",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendpsychiatrie und -psychotherapie",
+      "kognitive_und_methodenkompetenz": "Wesentliche Gesetze, Verordnungen und Richtlinien"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendpsychiatrie und -psychotherapie",
+      "kognitive_und_methodenkompetenz": "Begutachtung im Sozial-, Unterbringungs-, Straf-und Familienrecht"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendpsychiatrie und -psychotherapie",
+      "handlungskompetenz": "Gefahreneinschätzung, Prävention und Intervention bei körperlicher und psychischer Gewalt bei Kindern und Jugendlichen in der Häuslichkeit und in sozialen Systemen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Facharzt-Weiterbildung Kinder- und Jugendpsychiatrie und -psychotherapie",
+      "handlungskompetenz": "Indikationsstellung und Umsetzung deeskalierender Maßnahmen im Vorrang zu Zwangsmaßnahmen"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Entwicklungspsychologie und -psychopathologie"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Kinder- und jugendpsychiatrische, - psychosomatische und -psychotherapeutische Anamnese und Befunderhebung, Differentialdiagnostik, Verhaltensbeobachtung und Explorationstechnik unter Beachtung einer diagnostischen Klassifikation und der Einbeziehung symptomatischer Erscheinungsformen sowie familiärer, epidemiologischer, schichtenspezifischer und transkultureller Gesichtspunkte einschließlich standardisierter Diagnostik, insbesondere"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "- Theorie- und Fallseminare zur Krankheitslehre und Diagnostik in Stunden",
+      "richtzahl": 70
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "- dokumentierte Erstuntersuchungen einschließlich Konsiliar- oder Liaisonuntersuchungen",
+      "richtzahl": 60
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Entstehungsbedingungen, Differentialdiagnostik und Verlaufsformen der psychischen und psychosomatischen Störungen im Säuglings-, Kindes- und Jugendalter sowie bei Heranwachsenden"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Theoretische Grundlagen der Psychotherapie in den wissenschaftlich anerkannten Psychotherapieverfahren"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Neurologische Krankheitsbilder bei Kindern und Jugendlichen einschließlich der Methodik und Technik der neuropädiatrischen Anamneseerhebung und Untersuchung"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "kognitive_und_methodenkompetenz": "Neuropsychologische Untersuchungs- und Behandlungsmethoden"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation neurophysiologischer Untersuchungen, insbesondere Elektroenzephalographie"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation bildgebender Untersuchungen"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Methodik, Durchführung und Befunderstellung psychologischer Testverfahren in der Entwicklungs-, Leistungs- und Persönlichkeitsdiagnostik"
+    },
+    {
+      "abschnitt": "Krankheitslehre und Diagnostik",
+      "handlungskompetenz": "Erhebung des psychopathologischen Befundes"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Behandlung psychischer Störungen bei Kindern und Jugendlichen mit Intelligenzminderung"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "kognitive_und_methodenkompetenz": "Technik der Behandlung durch Spezialtherapeuten, z. B. Ergotherapeuten, Heilpädagogen, Sprach-, Bewegungs- und Kreativtherapeuten"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Indikationsstellung zu spezialtherapeutischen Therapien"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Anleitung eines multiprofessionellen Teams"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Behandlung psychischer und psychosomatischer Störungen einschließlich der Definition von Behandlungszielen, der Indikationsstellung für verschiedene Behandlungsmethoden, der Anwendungstechnik und Erfolgskontrolle sowie der Festlegung eines Behandlungsplans unter Einbeziehung der Bezugspersonen, davon"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "- Theorie- und Fallseminare zur störungsspezifischen Behandlung einschließlich Psychotherapie in Stunden",
+      "richtzahl": 170
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "- Behandlungsfälle unter Supervision",
+      "richtzahl": 75
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Verhaltensmodifikationen von Bezugspersonen durch Psychoedukation und fokussierte störungsspezifische Psychotherapie"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Sozialpsychiatrische Behandlung komplexer kinder- und jugendpsychiatrischer Fallkonstellationen in Zusammenarbeit mit Jugendhilfe, Sozialhilfe und Schule sowie Gremienarbeit im Sozialraum und Case Management"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Behandlung mit wissenschaftlich anerkannten Psychotherapieverfahren und -methoden sowie -techniken, davon"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "- Kurzzeittherapien und Langzeittherapien gemäß Psychotherapie-Vereinbarung im jeweiligen Verfahren in Einzel-Psychotherapiesitzungen unter Supervision und unter Einbeziehung der Bezugspersonen in Stunden",
+      "richtzahl": 240
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "- Gruppen-Psychotherapien bei Kindern oder Jugendlichen mit 3 bis 9 Teilnehmern (bei mehr als 9 Teilnehmern mit 2 Therapeuten) unter Supervision in Stunden sowie begleitende Gruppen-Psychotherapie von Bezugspersonen",
+      "richtzahl": 120
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Übende und suggestive Techniken, z. B. Autogenes Training, Jacobson-Entspannungsverfahren, Hypnose, Skills-Training"
+    },
+    {
+      "abschnitt": "Behandlung psychischer und psychosomatischer Störungen im Kindes- und Jugendalter",
+      "handlungskompetenz": "Somato- und Pharmakotherapie kinder- und jugendpsychiatrischer Störungen einschließlich der Berücksichtigung der Rahmenbedingungen und Complianceförderung"
+    },
+    {
+      "abschnitt": "Notfälle",
+      "handlungskompetenz": "Kriseninterventionen und Fokaltherapie bei psychischen Störungen im Kindes- und Jugendalter"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "kognitive_und_methodenkompetenz": "Jugendspezifische Konsumgewohnheiten und Risikokonstellationen von riskantem Konsumverhalten, Pharmakologie suchterzeugender Stoffe"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "kognitive_und_methodenkompetenz": "Entzugs- und Substitutionsbehandlung"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Anamneseerhebung bei Patienten mit substanzabhängigen und substanzunabhängigen Abhängigkeitserkrankungen einschließlich Fallvorstellungen zur Behandlungsplanung",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "kognitive_und_methodenkompetenz": "Suchtspezifische Behandlung und Rehabilitation"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "Behandlung von Patienten mit Suchtproblemen unter Berücksichtigung ihres sozialen Umfeldes und Komorbidität, Fälle mit mindestens 5 Behandlungsstunden ggf. einschließlich der Beratung von Bezugspersonen, davon"
+    },
+    {
+      "abschnitt": "Suchtmedizinische (Grund-)Versorgung",
+      "handlungskompetenz": "- dokumentierte Fälle mit jeweils mindestens 5 Sitzungen",
+      "richtzahl": 3
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "kognitive_und_methodenkompetenz": "Früherkennung, Krankheitsverhütung, Rückfallverhütung und Verhütung unerwünschter Therapieeffekte"
+    },
+    {
+      "abschnitt": "Prävention und Rehabilitation",
+      "handlungskompetenz": "Indikationsstellung und Einleitung von Rehabilitationsmaßnahmen"
+    },
+    {
+      "abschnitt": "Selbsterfahrung",
+      "handlungskompetenz": "Personale Kompetenzen oder Beziehungskompetenzen durch Einzel- und Gruppenselbsterfahrung in Stunden",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Selbsterfahrung",
+      "handlungskompetenz": "Balintgruppenarbeit oder interaktionsbezogene Fallarbeit in Stunden",
+      "richtzahl": 70
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "typ": "zusatz-weiterbildung",
+  "gebiet": "Kinder- und Jugend-Orthopädie",
+  "bezeichnung": "Zusatz-Weiterbildung Kinder- und Jugend-Orthopädie",
+  "definition": "Die Zusatz-Weiterbildung Kinder- und Jugendorthopädie umfasst in Ergänzung zu einer Facharztkompetenz die Vorbeugung, Erkennung, konservative und operative Behandlung von Erkrankungen, Verletzungen höherer Schwierigkeitsgrade, Verletzungsfolgen sowie angeborenen und erworbenen Formveränderungen und Fehlbildungen der Stütz- und Bewegungsorgane im Säuglings-, Kindes- und Jugendalter.",
+  "mindestanforderungen": "Facharztanerkennung für Orthopädie und Unfallchirurgie oder Kinder- und Jugendchirurgie und zusätzlich 18 Monate Kinder- und Jugend-Orthopädie unter Befugnis an Weiterbildungsstätten",
+  "inhalte": [
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Kinder- und Jugend-Orthopädie",
+      "kognitive_und_methodenkompetenz": "Biomechanik der Bewegungsorgane bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Übergreifende Inhalte der Zusatz-Weiterbildung Kinder- und Jugend-Orthopädie",
+      "kognitive_und_methodenkompetenz": "Normales und pathologisches Wachstum, Entwicklung der Körperproportionen und Meilensteine der Entwicklung"
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Erkennung und Behandlung von kinder- und jugendorthopädischen Erkrankungen mit höchster zeitlicher Therapiepriorität, z. B. akute Osteomyelitis und septische Arthritis, Epiphysiolysis capitis femoris, pathologische Frakturen",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "kognitive_und_methodenkompetenz": "Besonderheiten der Verletzungen am wachsenden Skelett einschließlich Abschätzung von Wachstumsstörungen und remodelling potentials"
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Therapie von Folgezuständen nach Verletzungen am wachsenden Bewegungsapparat, davon"
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "- operative Korrekturen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Erkennung von Kindswohlgefährdung, Vernachlässigung, Misshandlung und sexuellem Missbrauch sowie Einleitung von Maßnahmen"
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Konservative und operative Therapie von Weichteilverletzungen"
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Konservative und operative Therapie von Frakturen bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Versorgung von Gelenkluxationen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Knochenbiopsie bei pathologischen Frakturen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Akut- und notfallmedizinische Versorgung",
+      "handlungskompetenz": "Operative Therapie von pathologischen Frakturen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "kognitive_und_methodenkompetenz": "Leitsymptome, Grundlagen der Diagnostik und systemischen Therapie"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "Erkennung und Behandlung von entzündlichen und infektiösen Erkrankungen des Bewegungsorgans bei Kindern und Jugendlichen, z. B. juvenile rheumatoide Arthritis, transiente Synovitiden, chronische Osteomyelitis/chronische rekurrierende multifokale Osteomyelitis, Spondylitis und Spondylodiszitis"
+    },
+    {
+      "abschnitt": "Entzündungen/Infektionen",
+      "handlungskompetenz": "Therapeutische intraartikuläre Injektionen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Endokrine und metabolische Störungen",
+      "handlungskompetenz": "Erkennung und Behandlung von endokrinen und metabolischen Erkrankungen bei Kindern und Jugendlichen, z. B. Rachitis, Osteogenesis imperfecta"
+    },
+    {
+      "abschnitt": "Muskuloskelettale Tumore",
+      "kognitive_und_methodenkompetenz": "Tumore maligner und benigner Genese sowie konservative und operative Behandlungsalgorithmen bei Tumoren"
+    },
+    {
+      "abschnitt": "Muskuloskelettale Tumore",
+      "handlungskompetenz": "Erkennung, Diagnostik und konservative Therapie von benignen muskuloskelettalen Tumoren bei Kindern und Jugendlichen, z. B. juvenile Knochenzyste, cartilaginäre Exostosen, fibröse Dysplasie, Osteoidosteom"
+    },
+    {
+      "abschnitt": "Muskuloskelettale Tumore",
+      "handlungskompetenz": "Operative Therapie benigner muskuloskelettaler Tumore, z. B. Biopsie, Kurettage, Resektion, Stabilisation",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Muskuloskelettale Tumore",
+      "handlungskompetenz": "Differentialdiagnostik und Therapiestrategie bei malignen muskuloskelettalen Tumoren bei Kindern und Jugendlichen, auch in interdisziplinärer Zusammenarbeit, z. B. Osteosarkom, Ewing-Sarkom"
+    },
+    {
+      "abschnitt": "Primäre bis tertiäre Prävention",
+      "handlungskompetenz": "Einleitung und Überwachung von Präventions-maßnahmen bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Primäre bis tertiäre Prävention",
+      "handlungskompetenz": "Beratung zur kindgerechten Ernährung und sicheren Spiel- und Lebensumgebung einschließlich Unfallprävention"
+    },
+    {
+      "abschnitt": "Primäre bis tertiäre Prävention",
+      "handlungskompetenz": "Beurteilung von Belastung und Belastbarkeit des kindlichen Bewegungsapparates, insbesondere beim Leistungssport"
+    },
+    {
+      "abschnitt": "Primäre bis tertiäre Prävention",
+      "kognitive_und_methodenkompetenz": "Konservative Interventionsmöglichkeiten bei Adipositas, motorischen Defiziten, Wirbelsäulen-und Fußfehlhaltungen, Überlastungserscheinungen"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Sonographien im Wachstumsalter, davon",
+      "richtzahl": 250
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "- an der Säuglingshüfte",
+      "richtzahl": 200
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Radiologische Ausmessung der Beingeometrie",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Radiologische Ausmessung von Wirbelsäulendeformitäten",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung, Durchführung und Befundinterpretation der Bewegungsanalyse"
+    },
+    {
+      "abschnitt": "Diagnostische Verfahren",
+      "handlungskompetenz": "Indikationsstellung und Befundinterpretation weiterer bildgebender radiologischer Verfahren"
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "Erkennung und Diagnostik von Erkrankungen des Hüftgelenkes bei Kindern und Jugendlichen, z. B. kongenitale Hüftdysplasie und Luxation"
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "Konservative Therapie bei Erkrankungen des Hüftgelenkes, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "- Dysplasiebehandlung",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "- offene Hüftrepositionen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "- Beckenosteotomien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen des Hüftgelenkes",
+      "handlungskompetenz": "- Femurosteotomien",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen des Fußes",
+      "handlungskompetenz": "Erkennung und Diagnostik von Erkrankungen des Fußes bei Kindern und Jugendlichen, z. B. kongenitaler Klumpfuß"
+    },
+    {
+      "abschnitt": "Erkrankungen des Fußes",
+      "handlungskompetenz": "Therapie des angeborenen Klumpfußes und Plattfußes mit der Ponseti-Methode oder der reversen Ponseti-Methode einschließlich der Beratung der Bezugspersonen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Fußes",
+      "handlungskompetenz": "Konservative Therapie bei Erkrankungen des Fußes, davon",
+      "richtzahl": 100
+    },
+    {
+      "abschnitt": "Erkrankungen des Fußes",
+      "handlungskompetenz": "- Klumpfußbehandlung",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Erkrankungen des Fußes",
+      "handlungskompetenz": "Operative Eingriffe, davon"
+    },
+    {
+      "abschnitt": "Erkrankungen des Fußes",
+      "handlungskompetenz": "- Korrektureingriffe bei Fußdeformitäten",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen des Kniegelenkes",
+      "handlungskompetenz": "Erkennung und Diagnostik von Erkrankungen des Kniegelenkes bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Erkrankungen des Kniegelenkes",
+      "handlungskompetenz": "Konservative Therapie bei Erkrankungen des Kniegelenkes"
+    },
+    {
+      "abschnitt": "Erkrankungen des Kniegelenkes",
+      "handlungskompetenz": "Arthroskopische und offene Kniegelenkseingriffe",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Beinlängendifferenzen und Beinachsen",
+      "handlungskompetenz": "Erkennung und Diagnostik von Beinlängendifferenzen und Beinachsabweichungen bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Beinlängendifferenzen und Beinachsen",
+      "handlungskompetenz": "Vermessung von Beinlängendifferenzen einschließlich der prognostischen Einschätzung"
+    },
+    {
+      "abschnitt": "Beinlängendifferenzen und Beinachsen",
+      "handlungskompetenz": "Konservativer Beinlängenausgleich"
+    },
+    {
+      "abschnitt": "Beinlängendifferenzen und Beinachsen",
+      "handlungskompetenz": "Bestimmung von Beinachsabweichungen"
+    },
+    {
+      "abschnitt": "Beinlängendifferenzen und Beinachsen",
+      "handlungskompetenz": "Operative Eingriffe an den unteren Extremitäten, davon",
+      "richtzahl": 50
+    },
+    {
+      "abschnitt": "Beinlängendifferenzen und Beinachsen",
+      "handlungskompetenz": "- Osteosyntheseverfahren bei Korrektureingriffen und Umstellungsosteotomien, Frakturen, Knochenverlängerungen, Tumoren",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Erkrankungen der Wirbelsäule",
+      "handlungskompetenz": "Erkennung und Diagnostik von Erkrankungen der Wirbelsäule bei Kindern und Jugendlichen, z. B. angeborener Schiefhals"
+    },
+    {
+      "abschnitt": "Erkrankungen der Wirbelsäule",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Anfertigung von Korsetten zur Korrektur und/oder Therapie von Wirbelsäulenerkrankungen oder Wirbelsäulendeformitäten"
+    },
+    {
+      "abschnitt": "Erkrankungen der Wirbelsäule",
+      "handlungskompetenz": "Konservative Therapie bei Erkrankungen der Wirbelsäule",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Erkrankungen der Wirbelsäule",
+      "handlungskompetenz": "Operative Eingriffe an der Wirbelsäule, davon",
+      "richtzahl": 20
+    },
+    {
+      "abschnitt": "Erkrankungen der Wirbelsäule",
+      "handlungskompetenz": "- erste Assistenzen bei Deformitätenkorrekturen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Erkrankungen der oberen Extremität",
+      "handlungskompetenz": "Erkennung, Diagnostik und konservative Therapie von Erkrankungen der oberen Extremitäten, z. B. radio-ulnare Synostose"
+    },
+    {
+      "abschnitt": "Erkrankungen der oberen Extremität",
+      "handlungskompetenz": "Operative Eingriffe an den oberen Extremitäten",
+      "richtzahl": 25
+    },
+    {
+      "abschnitt": "Kongenitale Gliedmaßendefekte",
+      "handlungskompetenz": "Erkennung und Behandlung von kongenitalen Gliedmaßendefekten, z. B. Radiusaplasie"
+    },
+    {
+      "abschnitt": "Kongenitale Gliedmaßendefekte",
+      "kognitive_und_methodenkompetenz": "Deformitäten-spezifische Indikation von Orthesen"
+    },
+    {
+      "abschnitt": "Kongenitale Gliedmaßendefekte",
+      "kognitive_und_methodenkompetenz": "Orthoprothesen und Prothesen der oberen und unteren Extremitäten"
+    },
+    {
+      "abschnitt": "Kongenitale Gliedmaßendefekte",
+      "handlungskompetenz": "Planung und Überwachung der Anpassung von Orthesen und Prothesen im Wachstumsalter",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Neuroorthopädische Erkrankungen",
+      "handlungskompetenz": "Erkennung und Behandlung von neuroorthopädischen Erkrankungen bei Kindern und Jugendlichen"
+    },
+    {
+      "abschnitt": "Neuroorthopädische Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Grundlagen der Bestimmung des Schweregrades neuroorthopädischer Krankheitsbilder, z. B. Level der Gross Motor Function Classification"
+    },
+    {
+      "abschnitt": "Neuroorthopädische Erkrankungen",
+      "handlungskompetenz": "Einleitung und Überwachung von orthopädischen Rehabilitations- und Behandlungsverfahren bei neuroorthopädischen Erkrankungen von Kindern und Jugendlichen",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Syndromale Erkrankungen",
+      "handlungskompetenz": "Erkennung und Behandlung von syndromalen Erkrankungen, z. B. Down-Syndrom"
+    },
+    {
+      "abschnitt": "Syndromale Erkrankungen",
+      "kognitive_und_methodenkompetenz": "Hereditäre Faktoren und diagnostische genetische Beratungsmöglichkeiten bei syndromalen Erkrankungen"
+    },
+    {
+      "abschnitt": "Syndromale Erkrankungen",
+      "handlungskompetenz": "Therapieplanung und Therapieüberwachung konservativer und operativer Maßnahmen bei syndromalen Krankheitsbildern",
+      "richtzahl": 10
+    },
+    {
+      "abschnitt": "Skelettdysplasien",
+      "handlungskompetenz": "Erkennung und Behandlung von Skelettdysplasien, z. B. Achondroplasie, epi- und metaphysäre Chondrodysplasie"
+    },
+    {
+      "abschnitt": "Skelettdysplasien",
+      "kognitive_und_methodenkompetenz": "Hereditäre Faktoren und diagnostische genetische Beratungsmöglichkeiten bei Skelettdysplasien"
+    },
+    {
+      "abschnitt": "Skelettdysplasien",
+      "handlungskompetenz": "Therapieplanung und Therapieüberwachung konservativer und operativer Maßnahmen bei Skelettdysplasien",
+      "richtzahl": 10
+    }
+  ]
+}
